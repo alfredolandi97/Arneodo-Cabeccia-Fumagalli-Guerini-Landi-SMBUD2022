@@ -12,7 +12,7 @@ from pyspark.sql.types import StructType, StructField, StringType, IntegerType, 
 schemaArticle = StructType([
     StructField("key", StringType(), False),
     StructField("title", StringType(), True),
-    StructField("mdate", StringType(), True),
+    StructField("mdate", DateType(), True),
     StructField("year", StringType(), True),
     StructField("month", StringType(), True),
     StructField("cdrom", StringType(), True),
@@ -50,7 +50,8 @@ df_author = spark.createDataFrame(data = df_data_authors, schema=schemaAuthor)
 df_author.printSchema()
 df_author.show()
 
-#query 5: find the authors of the 5 most important universities, grouped by their own affiliation
+#?
+#query 5: Find the no. of authors who wrote at least an article for each top 5 university
 from pyspark.sql.functions import count
 top_5_universities = ["Massachusetts Institute of Technology",
                       "University of Oxford",
@@ -58,7 +59,7 @@ top_5_universities = ["Massachusetts Institute of Technology",
                       "University of Cambridge",
                       "Harvard University"]
 
-df_author.groupBy("affiliation", "name").agg(count("affiliation"))\
-                                        .filter(df_author.affiliation.isin(top_5_universities))\
-                                        .select("name", "affiliation")\
-                                        .show(truncate=False)
+df_author.filter(df_author.affiliation.isin(top_5_universities))\
+                                .groupBy("affiliation")\
+                                .agg(count("affiliation"))\
+                                .show(truncate=False)
