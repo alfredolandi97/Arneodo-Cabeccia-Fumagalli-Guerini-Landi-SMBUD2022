@@ -19,7 +19,7 @@ schemaArticle = StructType([
     StructField("cdrom", StringType(), True),
     StructField("url", StringType(), True),
     StructField("ee", StringType(), True),
-    StructField("number", IntegerType(), True),
+    StructField("number", StringType(), True),
     StructField("volume", StringType(), True),
     StructField("pages", StringType(), True),
     StructField("journal", StringType(), True)
@@ -35,10 +35,20 @@ df_data_articles = []
 for row in articles_reader:
     row[2] = datetime.datetime.strptime(row[2], '%Y-%m-%d')
     row[3] = int(row[3])
-    row[8] = int(row[8])
+
+    try:
+        row[8] = int(row[8])
+    except:
+        row[8] = None
+    try:
+        row[9] = int(row[9])
+    except:
+        row[9] = None
+
     df_data_articles.append(row)
 
 df_article = spark.createDataFrame(data = df_data_articles, schema=schemaArticle)
+
 df_article.printSchema()
 df_article.show()
 
@@ -65,14 +75,16 @@ df_author.show()
 
 #?
 #query 5: Find the no. of authors who wrote at least an article for each top 5 university
-from pyspark.sql.functions import count
+from pyspark.sql.functions import max, count
 top_5_universities = ["Massachusetts Institute of Technology",
                       "University of Oxford",
                       "Stanford University",
                       "University of Cambridge",
                       "Harvard University"]
 
-df_author.filter(df_author.affiliation.isin(top_5_universities))\
-                                .groupBy("affiliation")\
-                                .agg(count("affiliation"))\
-                                .show(truncate=False)
+df_article.filter(df_article.year<2000)\
+         .groupBy("year")\
+         .agg(count("mdate"))\
+         .agg(max("count("")"))\
+         .show(truncate=False)
+
