@@ -1,13 +1,12 @@
-key;title;mdate;year;month;cdrom;url;ee;number;volume;pages;journal
-persons/CoddD74;Interactive Support for Non-Programmers: The Relational and Network Approaches.;2002-01-03;1974;June;;;;;RJ1400;;IBM Research Report, San Jose, California
+persons/CoddD74;Interactive Support for Non-Programmers: The Relational and Network Approaches.;2002-01-03;1974;June;;;;;1400;;IBM Research Report, San Jose, California
 persons/Hall74;Common Subexpression Identification in General Algebraic Systems.;2002-01-03;1974;November;;;;;;;Technical Rep. UKSC 0060, IBM United Kingdom Scientific Centre
-persons/Codd81;The Capabilities of Relational Database Management Systems.;2002-01-03;1981;May;ibmTR/rj3132.pdf;;db/labs/ibm/RJ3132.html;;RJ3132;;IBM Research Report, San Jose, California
+persons/Codd81;The Capabilities of Relational Database Management Systems.;2002-01-03;1981;May;ibmTR/3132.pdf;;db/labs/ibm/RJ3132.html;;RJ3132;;IBM Research Report, San Jose, California
 persons/Tresch96;Principles of Distributed Object Database Languages.;2002-01-03;1996;July;;;;;;;technical Report 248, ETH Zürich, Dept. of Computer Science
-persons/Codd72;Relational Completeness of Data Base Sublanguages.;2002-01-03;1972;March;ibmTR/rj987.pdf;;db/labs/ibm/RJ987.html;;;;In: R. Rustin (ed.): Database Systems: 65-98, Prentice Hall and IBM Research Report RJ 987, San Jose, California
-persons/Codd71a;Further Normalization of the Data Base Relational Model.;2002-01-03;1971;August;ibmTR/rj909.pdf;;db/labs/ibm/RJ909.html;;RJ909;;IBM Research Report, San Jose, California
-persons/Codd71;Data Base Sublanguage Founded on the Relational Calculus.;2002-01-03;1971;July;;;;;RJ893;;IBM Research Report, San Jose, California
-persons/Codd69;Derivability, Redundancy and Consistency of Relations Stored in Large Data Banks.;2002-01-03;1969;August;ibmTR/rj599.pdf;;db/labs/ibm/RJ599.html;;RJ599;;IBM Research Report, San Jose, California
-persons/Codd71b;Normalized Data Base Structure: A Brief Tutorial.;2002-01-03;1971;November;;;;;RJ935;;IBM Research Report, San Jose, California
+persons/Codd72;Relational Completeness of Data Base Sublanguages.;2002-01-03;1972;March;ibmTR/rj987.pdf;;db/labs/ibm/987.html;;;;In: R. Rustin (ed.): Database Systems: 65-98, Prentice Hall and IBM Research Report RJ 987, San Jose, California
+persons/Codd71a;Further Normalization of the Data Base Relational Model.;2002-01-03;1971;August;ibmTR/r09.pdf;;db/labs/ibm/RJ909.html;;RJ909;;IBM Research Report, San Jose, California
+persons/Codd71;Data Base Sublanguage Founded on the Relational Calculus.;2002-01-03;1971;July;;;;;893;;IBM Research Report, San Jose, California
+persons/Codd69;Derivability, Redundancy and Consistency of Relations Stored in Large Data Banks.;2002-01-03;1969;August;ibmTR/rj599.pdf;;db/labs/ibm/RJ599.html;;599;;IBM Research Report, San Jose, California
+persons/Codd71b;Normalized Data Base Structure: A Brief Tutorial.;2002-01-03;1971;November;;;;;935;;IBM Research Report, San Jose, California
 persons/CasperGGGHLR12;Analysis of projected hydrological behavior of catchments based on signature indices;2012-02-27;2012;;;http://dx.doi.org/10.5194/hess-16-409-2012;http://dx.doi.org/10.5194/hess-16-409-2012;;16;409-421;Hydrology and Earth System Sciences
 persons/LeyCHM11;Catchment classification by runoff behaviour with self-organizing maps (SOM);2012-02-20;2011;;;http://dx.doi.org/10.5194/hess-15-2947-2011;http://dx.doi.org/10.5194/hess-15-2947-2011;;15;2947-2962;Hydrology and Earth System Sciences
 persons/Ley95;DBELP: A WWW Bibliography on Databases and Logic Programming;2011-12-29;1995;;;http://www.informatik.uni-trier.de/~ley/db/about/compulog.ps;;;;;Compulog Newsletter
