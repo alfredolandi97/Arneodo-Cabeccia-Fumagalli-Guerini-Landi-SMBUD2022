@@ -219,7 +219,6 @@ class SparkInitializer:
             df = self.__spark.createDataFrame(data=df_data_incollections, schema=self.__incollectionSchema)
         elif dataFrameName == "inproceedings":
             inproceedingsReader = self.__readDataSource(dataFrameName)
-            print(inproceedingsReader)
 
             df_data_inproceedings = []
             for row in inproceedingsReader:
