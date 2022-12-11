@@ -1,0 +1,3918 @@
+journals/lncs/CarstensenS91;Kai-Uwe Carstensen
+journals/lncs/CarstensenS91;Geoffrey Simmons
+journals/lncs/Erbach91;Gregor Erbach
+journals/lncs/CodognetN94;Philippe Codognet
+journals/lncs/CodognetN94;Giuseppe Nardiello
+journals/lncs/Kanngiesser91;Siegfried Kanngießer
+journals/lncs/Lang91;Ewald Lang
+journals/lncs/Comon94;Hubert Comon
+journals/lncs/MontanariR94;Ugo Montanari
+journals/lncs/MontanariR94;Francesca Rossi
+journals/lncs/GhafoorB93;Arif Ghafoor
+journals/lncs/GhafoorB93;P. Bruce Berra
+journals/lncs/SandtG91;Rob A. van der Sandt
+journals/lncs/SandtG91;Bart Geurts
+journals/lncs/Bosch91;Peter Bosch
+journals/lncs/Habel91;Christopher Habel
+journals/lncs/Imbert94;Jean-Louis Imbert
+journals/lncs/SiegelmannF93;Hava T. Siegelmann
+journals/lncs/SiegelmannF93;Ophir Frieder
+journals/lncs/Gust91;Helmar Gust
+journals/lncs/RollingerH91;Claus-Rainer Rollinger
+journals/lncs/RollingerH91;Otthein Herzog
+journals/lncs/Konig91;Esther König
+journals/lncs/ElmasriK93;Ramez Elmasri
+journals/lncs/ElmasriK93;Vram Kouramajian
+journals/lncs/AngeleFLNS91;Jürgen Angele
+journals/lncs/AngeleFLNS91;Dieter Fensel
+journals/lncs/AngeleFLNS91;Dieter Landes
+journals/lncs/AngeleFLNS91;Susanne Neubert
+journals/lncs/AngeleFLNS91;Rudi Studer
+journals/lncs/VadapartyN93;Kumar V. Vadaparty
+journals/lncs/VadapartyN93;Shamim A. Naqvi
+journals/lncs/Eberle91;Kurt Eberle
+journals/lncs/Pribbenow91;Simone Pribbenow
+journals/lncs/AnderssonDSYTY93;Martin Andersson
+journals/lncs/AnderssonDSYTY93;Yann Dupont
+journals/lncs/AnderssonDSYTY93;Stefano Spaccapietra
+journals/lncs/AnderssonDSYTY93;Kokou Yétongnon
+journals/lncs/AnderssonDSYTY93;Markus Tresch
+journals/lncs/AnderssonDSYTY93;Haiyan Ye
+journals/lncs/Tewari93;Raj Tewari
+journals/lncs/KarabatisRS93;George Karabatis
+journals/lncs/KarabatisRS93;Marek Rusinkiewicz
+journals/lncs/KarabatisRS93;Amit P. Sheth
+journals/lncs/FlaterY93;David W. Flater
+journals/lncs/FlaterY93;Yelena Yesha
+journals/lncs/KissW91;Tibor Kiss
+journals/lncs/KissW91;Birgit Wesche
+journals/lncs/Schmitt91;Peter H. Schmitt
+journals/lncs/Mayer91;Rolf Mayer
+journals/lncs/YuCWT93;Philip S. Yu
+journals/lncs/YuCWT93;Ming-Syan Chen
+journals/lncs/YuCWT93;Joel L. Wolf
+journals/lncs/YuCWT93;John Turek
+journals/lncs/Seifert91;Roland Seiffert
+journals/lncs/Rauzy94;Antoine Rauzy
+journals/lncs/Clifford93;James Clifford
+journals/lncs/FranchittiK93;Jean-Claude Franchitti
+journals/lncs/FranchittiK93;Roger King
+journals/lncs/GehaniJS93;Narain H. Gehani
+journals/lncs/GehaniJS93;H. V. Jagadish
+journals/lncs/GehaniJS93;Oded Shmueli
+journals/lncs/GadiaC93;Shashi K. Gadia
+journals/lncs/GadiaC93;Vimal Chopra
+journals/lncs/SegevC93;Arie Segev
+journals/lncs/SegevC93;Rakesh Chandra
+journals/lncs/Dorre91;Jochen Dörre
+journals/lncs/Seifert91a;Roland Seiffert
+journals/lncs/KloseL91;Gudrun Klose
+journals/lncs/KloseL91;Kai von Luck
+journals/lncs/Emde91;Werner Emde
+journals/lncs/Blasius91;Karl-Hans Bläsius
+journals/lncs/Fages94;François Fages
+journals/lncs/Wesche91;Birgit Wesche
+journals/lncs/Khenkhar91;Mohammed Nadjib Khenkhar
+journals/lncs/DobesN91;Zuzana Krifka Dobes
+journals/lncs/DobesN91;Hans-Joachim Novak
+journals/lncs/BenzschawelGLLMW91;Stefan Benzschawel
+journals/lncs/BenzschawelGLLMW91;Erich Gehlen
+journals/lncs/BenzschawelGLLMW91;Michael Ley
+journals/lncs/BenzschawelGLLMW91;Thomas Ludwig 0001
+journals/lncs/BenzschawelGLLMW91;Albert Maier
+journals/lncs/BenzschawelGLLMW91;Bernd Walter
+journals/lncs/Kiss91;Tibor Kiss
+journals/lncs/DorreS91;Jochen Dörre
+journals/lncs/DorreS91;Roland Seiffert
+journals/lncs/BertinoJS93;Elisa Bertino
+journals/lncs/BertinoJS93;Sushil Jajodia
+journals/lncs/BertinoJS93;Pierangela Samarati
+journals/lncs/Rueher94;Michel Rueher
+journals/lncs/SubramanianA93;Ramesh Subramanian
+journals/lncs/SubramanianA93;Nabil R. Adam
+journals/lncs/Smolka94;Gert Smolka
+journals/lncs/NebelS91;Bernhard Nebel
+journals/lncs/NebelS91;Gert Smolka
+journals/lncs/Fruhwirth94;Thom W. Frühwirth
+journals/lncs/Bockmayr94;Alexander Bockmayr
+journals/lncs/Arning91;Andreas Arning
+journals/lncs/LinkS91;Godehard Link
+journals/lncs/LinkS91;Hinrich Schütze
+journals/lncs/Wilms91;Jan Wilms
+journals/lncs/SuS93;Stanley Y. W. Su
+journals/lncs/SuS93;Yuh-Ming Shyy
+journals/lncs/Wendholt91;Birgit Wendholt
+journals/lncs/LuckP91;Kai von Luck
+journals/lncs/LuckP91;Thomas Pirlein
+journals/lncs/BrauerLS91;Wilfried Brauer
+journals/lncs/BrauerLS91;Peter C. Lockemann
+journals/lncs/BrauerLS91;Helmut Schnelle
+journals/lncs/Charlier94;Baudouin Le Charlier
+journals/lncs/Maienborn91;Claudia Maienborn
+journals/lncs/Rickheit91;Mechthild Rickheit
+journals/lncs/HentenryckSD94;Pascal Van Hentenryck
+journals/lncs/HentenryckSD94;Vijay A. Saraswat
+journals/lncs/HentenryckSD94;Yves Deville
+journals/lncs/Pletat91;Udo Pletat
+journals/lncs/BhargavaJSD93;Bharat K. Bhargava
+journals/lncs/BhargavaJSD93;Yin-he Jiang
+journals/lncs/BhargavaJSD93;Jagannathan Srinivasan
+journals/lncs/BhargavaJSD93;Prasun Dewan
+journals/lncs/Ridoux94;Olivier Ridoux
+journals/lncs/BollingerLP91;Toni Bollinger
+journals/lncs/BollingerLP91;Sven Lorenz
+journals/lncs/BollingerLP91;Udo Pletat
+journals/lncs/Novak91;Hans-Joachim Novak
+journals/lncs/DorreR91;Jochen Dörre
+journals/lncs/DorreR91;Ingo Raasch
+journals/lncs/Ludewig91;Petra Ludewig
+journals/lncs/Benhamou94;Frédéric Benhamou
+journals/lncs/WachsmuthG91;Ipke Wachsmuth
+journals/lncs/WachsmuthG91;Barbara Gängler
+journals/lncs/Kirchner94;Hélène Kirchner
+journals/lncs/Browne93;Shirley Browne
+journals/lncs/BorkelG91;Manfred Börkel
+journals/lncs/BorkelG91;Peter Gerstl
+journals/lncs/SheuP93;Phillip C.-Y. Sheu
+journals/lncs/SheuP93;Larry J. Peterson
+journals/lncs/SchillerS91;Anne Schiller
+journals/lncs/SchillerS91;Petra Steffens
+journals/procedia/BuchmayrKK11;Mario Buchmayr
+journals/procedia/BuchmayrKK11;Werner Kurschl
+journals/procedia/BuchmayrKK11;Josef Küng
+journals/procedia/OgataUSKI12;Keiji Ogata
+journals/procedia/OgataUSKI12;Kazutaka Ueda
+journals/procedia/OgataUSKI12;Satoru Suto
+journals/procedia/OgataUSKI12;Takatsune Kumada
+journals/procedia/OgataUSKI12;Tohru Ifukube
+journals/procedia/TianSCC11;Yingjie Tian
+journals/procedia/TianSCC11;Yong Shi
+journals/procedia/TianSCC11;Xiaojun Chen 0001
+journals/procedia/TianSCC11;Wenjing Chen
+journals/procedia/BahreiniNW12;Kiavash Bahreini
+journals/procedia/BahreiniNW12;Rob Nadolski
+journals/procedia/BahreiniNW12;Wim Westera
+journals/procedia/SanzgiriJU12;Ameya Sanzgiri
+journals/procedia/SanzgiriJU12;Jacob Joyce
+journals/procedia/SanzgiriJU12;Shambhu Upadhyaya
+journals/procedia/OmarovaIG12;Amina Omarova
+journals/procedia/OmarovaIG12;Vernon Ireland
+journals/procedia/OmarovaIG12;Alex Gorod
+journals/procedia/BernsdorfWB11;Jörg Bernsdorf
+journals/procedia/BernsdorfWB11;Dinan Wang
+journals/procedia/BernsdorfWB11;Guntram Berti
+journals/procedia/ClarkJ12a;Jason B. Clark
+journals/procedia/ClarkJ12a;David R. Jacques
+journals/procedia/Frank12;Moti Frank
+journals/procedia/ValletKMSB12;Jose Vallet
+journals/procedia/ValletKMSB12;Ossi Kaltiokallio
+journals/procedia/ValletKMSB12;Matthieu Myrsky
+journals/procedia/ValletKMSB12;Jari Saarinen
+journals/procedia/ValletKMSB12;Maurizio Bocca
+journals/procedia/LandQMG11;Walker H. Land Jr.
+journals/procedia/LandQMG11;Xingye Qiao
+journals/procedia/LandQMG11;Dan Margolis
+journals/procedia/LandQMG11;Ronald Gottlieb
+journals/procedia/KuchenE12;Herbert Kuchen
+journals/procedia/KuchenE12;Steffen Ernsting
+journals/procedia/DethierMM11;Gérard Dethier
+journals/procedia/DethierMM11;Pierre-Arnoul de Marneffe
+journals/procedia/DethierMM11;Pierre Marchot
+journals/procedia/WangA12;Jianwu Wang
+journals/procedia/WangA12;Ilkay Altintas
+journals/procedia/AkundiZS12;Aditya Akundi
+journals/procedia/AkundiZS12;Francisco Zapata
+journals/procedia/AkundiZS12;Eric Smith
+journals/procedia/Wei11;Feng Wei
+journals/procedia/AnacletoFS12;Júnia Coutinho Anacleto
+journals/procedia/AnacletoFS12;Sidney Fels
+journals/procedia/AnacletoFS12;Rodrigo Silvestre
+journals/procedia/MoriK11;Hiroyuki Mori
+journals/procedia/MoriK11;Hiroki Kakuta
+journals/procedia/ShetEFPBB11;Aniruddha G. Shet
+journals/procedia/ShetEFPBB11;Wael R. Elwasif
+journals/procedia/ShetEFPBB11;Samantha S. Foley
+journals/procedia/ShetEFPBB11;Byung H. Park
+journals/procedia/ShetEFPBB11;David E. Bernholdt
+journals/procedia/ShetEFPBB11;Randall Bramley
+journals/procedia/SchmidtM12;Bertil Schmidt
+journals/procedia/SchmidtM12;Douglas L. Maskell
+journals/procedia/HaghnevisSA11;Moeed Haghnevis
+journals/procedia/HaghnevisSA11;Amit Shinde
+journals/procedia/HaghnevisSA11;Ronald G. Askin
+journals/procedia/GeorgievVG11;George Georgiev
+journals/procedia/GeorgievVG11;Iren Valova
+journals/procedia/GeorgievVG11;Natacha Gueorguieva
+journals/procedia/DangS12;Hoang-Vu Dang
+journals/procedia/DangS12;Bertil Schmidt
+journals/procedia/HossainSM12;Nargis Hossain
+journals/procedia/HossainSM12;Shahram Sarkani
+journals/procedia/HossainSM12;Thomas A. Mazzuchi
+journals/procedia/GajurelB12;Sanjaya Gajurel
+journals/procedia/GajurelB12;Roger Bielefeld
+journals/procedia/MasinLSBGMR13;Michael Masin
+journals/procedia/MasinLSBGMR13;Lior Limonad
+journals/procedia/MasinLSBGMR13;Aviad Sela
+journals/procedia/MasinLSBGMR13;David Boaz
+journals/procedia/MasinLSBGMR13;Lev Greenberg
+journals/procedia/MasinLSBGMR13;Nir Mashkif
+journals/procedia/MasinLSBGMR13;Ran Rinat
+journals/procedia/CorrieroCM11;Nicola Corriero
+journals/procedia/CorrieroCM11;Emanuele Covino
+journals/procedia/CorrieroCM11;Angelo Mottola
+journals/procedia/Sedano12;Carolina Islas Sedano
+journals/procedia/HedrickP12;Adele Hedrick
+journals/procedia/HedrickP12;Ken Q. Pu
+journals/procedia/KolarzMKZ12;Pawel Kolarz
+journals/procedia/KolarzMKZ12;Jan Marszalek
+journals/procedia/KolarzMKZ12;Jaroslaw Kozlak
+journals/procedia/KolarzMKZ12;Malgorzata Zabinska
+journals/procedia/EdwardsRZM12;Matthew Edwards
+journals/procedia/EdwardsRZM12;Aseem Rambani
+journals/procedia/EdwardsRZM12;Yifeng Zhu
+journals/procedia/EdwardsRZM12;Mohamad T. Musavi
+journals/procedia/YiG11;Qing Yi
+journals/procedia/YiG11;Jichi Guo
+journals/procedia/JeddaKM12;Ahmed Jedda
+journals/procedia/JeddaKM12;Mazen G. Khair
+journals/procedia/JeddaKM12;Hussein T. Mouftah
+journals/procedia/DuLD12;Peng Du
+journals/procedia/DuLD12;Piotr Luszczek
+journals/procedia/DuLD12;Jack Dongarra
+journals/procedia/KarampiperisMK12;Pythagoras Karampiperis
+journals/procedia/KarampiperisMK12;Nikos Manouselis
+journals/procedia/KarampiperisMK12;Stasinos Konstantopoulos
+journals/procedia/DersinghISR11;Anand Dersingh
+journals/procedia/DersinghISR11;Z. M. Faizul Islam
+journals/procedia/DersinghISR11;Shahram Shah-Heydari
+journals/procedia/DersinghISR11;Md. Mustafizur Rahman
+journals/procedia/PondWMCMG12;Travis Pond
+journals/procedia/PondWMCMG12;Brandon Webster
+journals/procedia/PondWMCMG12;John Machuca
+journals/procedia/PondWMCMG12;John Colombi
+journals/procedia/PondWMCMG12;Michael Miller
+journals/procedia/PondWMCMG12;Randall Gibb
+journals/procedia/JacobSCR12;João Tiago Pinheiro Neto Jacob
+journals/procedia/JacobSCR12;Hugo da Silva
+journals/procedia/JacobSCR12;António Coelho
+journals/procedia/JacobSCR12;Rui Amaral Rodrigues
+journals/procedia/LyubimovaLGKK11;O. Lyubimova
+journals/procedia/LyubimovaLGKK11;X. Liu
+journals/procedia/LyubimovaLGKK11;Sergey Gusarov
+journals/procedia/LyubimovaLGKK11;A. E. Kobryn
+journals/procedia/LyubimovaLGKK11;Andriy Kovalenko
+journals/procedia/AtanasovW11;Atanas Atanasov
+journals/procedia/AtanasovW11;Tobias Weinzierl
+journals/procedia/Sato-Ilic12a;Mika Sato-Ilic
+journals/procedia/LiXZY12;Jianyu Li
+journals/procedia/LiXZY12;Feng Xiao
+journals/procedia/LiXZY12;Jie Zhou
+journals/procedia/LiXZY12;Zhanxin Yang
+journals/procedia/MohamadMC11;F. S. Mohamad
+journals/procedia/MohamadMC11;A. A. Manaf
+journals/procedia/MohamadMC11;S. Chuprat
+journals/procedia/FucikM11;Radek Fucík
+journals/procedia/FucikM11;Jirí Mikyska
+journals/procedia/MikyskaF11;Jirí Mikyska
+journals/procedia/MikyskaF11;Abbas Firoozabadi
+journals/procedia/FerreiraSCF12;Simone Bacellar Leal Ferreira
+journals/procedia/FerreiraSCF12;Denis Silva da Silveira
+journals/procedia/FerreiraSCF12;Eliane Pinheiro Capra
+journals/procedia/FerreiraSCF12;Ariane Oliveira Ferreira
+journals/procedia/ZhouSL11;Hong Zhou
+journals/procedia/ZhouSL11;Gang Su
+journals/procedia/ZhouSL11;Guofang Li
+journals/procedia/BeckaG11;Andreas Becka
+journals/procedia/BeckaG11;Peter Göhneraa
+journals/procedia/MeyersH13;Thomas J. Meyers
+journals/procedia/MeyersH13;Patrick T. Hester
+journals/procedia/GormanSFPRK12;Gerard J. Gorman
+journals/procedia/GormanSFPRK12;James Southern
+journals/procedia/GormanSFPRK12;Patrick E. Farrell
+journals/procedia/GormanSFPRK12;M. D. Piggott
+journals/procedia/GormanSFPRK12;Georgios Rokos
+journals/procedia/GormanSFPRK12;Paul H. J. Kelly
+journals/procedia/KerenYKCBJWSS12;Daniel Keren
+journals/procedia/KerenYKCBJWSS12;Ansar-Ul-Haque Yasar
+journals/procedia/KerenYKCBJWSS12;Luk Knapen
+journals/procedia/KerenYKCBJWSS12;Sungjin Cho
+journals/procedia/KerenYKCBJWSS12;Tom Bellemans
+journals/procedia/KerenYKCBJWSS12;Davy Janssens
+journals/procedia/KerenYKCBJWSS12;Geert Wets
+journals/procedia/KerenYKCBJWSS12;Assaf Schuster
+journals/procedia/KerenYKCBJWSS12;Izchak Sharfman
+journals/procedia/KoolmanojwongL13;Supannika Koolmanojwong
+journals/procedia/KoolmanojwongL13;Jo Ann Lane
+journals/procedia/DaubyU11;Jason P. Dauby
+journals/procedia/DaubyU11;Steven Upholzer
+journals/procedia/FlaniganB13;David Flanigan
+journals/procedia/FlaniganB13;Peggy Brouse
+journals/procedia/RugaberGM13;Spencer Rugaber
+journals/procedia/RugaberGM13;Ashok K. Goel
+journals/procedia/RugaberGM13;Lee Martie
+journals/procedia/ZarzaLFL12;Gonzalo Zarza
+journals/procedia/ZarzaLFL12;Diego Lugones
+journals/procedia/ZarzaLFL12;Daniel Franco 0002
+journals/procedia/ZarzaLFL12;Emilio Luque
+journals/procedia/DiasD12;Sofia B. Dias
+journals/procedia/DiasD12;José A. Diniz
+journals/procedia/Larson11;J. Walter Larson
+journals/procedia/VasicR12;Jelena Vasic
+journals/procedia/VasicR12;Heather J. Ruskin
+journals/procedia/KuznikPC12;Krzysztof Kuznik
+journals/procedia/KuznikPC12;Maciej Paszynski
+journals/procedia/KuznikPC12;Victor M. Calo
+journals/procedia/ElrashidiEB12;Ali Elrashidi
+journals/procedia/ElrashidiEB12;Khaled M. Elleithy
+journals/procedia/ElrashidiEB12;Hassan Bajwa
+journals/procedia/SarraipaBFJ12;João Sarraipa
+journals/procedia/SarraipaBFJ12;Silvia Baldiris
+journals/procedia/SarraipaBFJ12;Ramón Fabregat
+journals/procedia/SarraipaBFJ12;Ricardo Jardim-Gonçalves
+journals/procedia/Jaekel11;Uwe Jaekel
+journals/procedia/KoukiCG12;Jaber Kouki
+journals/procedia/KoukiCG12;Walid Chainbi
+journals/procedia/KoukiCG12;Khaled Ghédira
+journals/procedia/DugundjiG12;Elenna R. Dugundji
+journals/procedia/DugundjiG12;László Gulyás
+journals/procedia/WangaWY11;Gong Wang
+journals/procedia/WangaWY11;T. N. Wong
+journals/procedia/WangaWY11;Chunxia Yu
+journals/procedia/FiorentinoRSD11;Anta Fiorentino
+journals/procedia/FiorentinoRSD11;Paquale Rovito
+journals/procedia/FiorentinoRSD11;Sauro Straccali
+journals/procedia/FiorentinoRSD11;Dario Donnari
+journals/procedia/White12;B. E. White
+journals/procedia/RuizAC12;Elias David Niño Ruiz
+journals/procedia/RuizAC12;Carlos J. Ardila
+journals/procedia/RuizAC12;Anangelica Isabel Chinchilla Camargo
+journals/procedia/HossainMHB12;Shahadat Hossain
+journals/procedia/HossainMHB12;Rohan Monteiro
+journals/procedia/HossainMHB12;Allaa R. Hilal
+journals/procedia/HossainMHB12;Otman A. Basir
+journals/procedia/ToporkovTYB12;Victor V. Toporkov
+journals/procedia/ToporkovTYB12;Alexey Tselishchev
+journals/procedia/ToporkovTYB12;Dmitry Yemelyanov
+journals/procedia/ToporkovTYB12;Alexander Bobchenkov
+journals/procedia/Masaud-WahaishiG11;Abdulmutalib Masaud-Wahaishi
+journals/procedia/Masaud-WahaishiG11;Ahmed M. Gaouda
+journals/procedia/IhshaishCS12;Hisham Ihshaish
+journals/procedia/IhshaishCS12;Ana Cortés
+journals/procedia/IhshaishCS12;Miquel A. Senar
+journals/procedia/MoadHJKB11;Sofiane Moad
+journals/procedia/MoadHJKB11;Morten Tranberg Hansen
+journals/procedia/MoadHJKB11;Raja Jurdak
+journals/procedia/MoadHJKB11;Branislav Kusy
+journals/procedia/MoadHJKB11;Nizar Bouabdallah
+journals/procedia/BoukhanovskyI12;Alexander Boukhanovsky
+journals/procedia/BoukhanovskyI12;Sergey V. Ivanov
+journals/procedia/AlhomoudMDAA11;Adeeb M. Alhomoud
+journals/procedia/AlhomoudMDAA11;Rashid Munir
+journals/procedia/AlhomoudMDAA11;Jules Pagna Disso
+journals/procedia/AlhomoudMDAA11;Irfan Awan
+journals/procedia/AlhomoudMDAA11;Abdullah Al-Dhelaan
+journals/procedia/MohajeriMFG11;Arash Mohajeri
+journals/procedia/MohajeriMFG11;Hans-B. Mühlhaus
+journals/procedia/MohajeriMFG11;Yaron Finzi
+journals/procedia/MohajeriMFG11;Lutz Gross
+journals/procedia/WangD13;Renzhong Wang
+journals/procedia/WangD13;Cihan H. Dagli
+journals/procedia/HanD13;Seung Yeob Han
+journals/procedia/HanD13;Daniel DeLaurentis
+journals/procedia/DanenasG12;Paulius Danenas
+journals/procedia/DanenasG12;Gintautas Garsva
+journals/procedia/ButnaruPB11;Daniel Butnaru
+journals/procedia/ButnaruPB11;Dirk Pflüger
+journals/procedia/ButnaruPB11;Hans-Joachim Bungartz
+journals/procedia/PengZKLS12;Yi Peng
+journals/procedia/PengZKLS12;Yong Zhang
+journals/procedia/PengZKLS12;Gang Kou
+journals/procedia/PengZKLS12;Jun Li 0015
+journals/procedia/PengZKLS12;Yong Shi
+journals/procedia/DaniilidisBL12;Harrys Daniilidis
+journals/procedia/DaniilidisBL12;Wolfgang Bauer
+journals/procedia/DaniilidisBL12;Udo Lindemann
+journals/procedia/VodacekKH12;Anthony Vodacek
+journals/procedia/VodacekKH12;John P. Kerekes
+journals/procedia/VodacekKH12;Matthew J. Hoffman
+journals/procedia/BoschMHM11;Stephan Bosch
+journals/procedia/BoschMHM11;Raluca Marin-Perianu
+journals/procedia/BoschMHM11;Paul J. M. Havinga
+journals/procedia/BoschMHM11;Mihai Marin-Perianu
+journals/procedia/SchreiberNZB11;Martin Schreiber
+journals/procedia/SchreiberNZB11;Philipp Neumann
+journals/procedia/SchreiberNZB11;Stefan Zimmer
+journals/procedia/SchreiberNZB11;Hans-Joachim Bungartz
+journals/procedia/NowakSM12;Joseph W. Nowak
+journals/procedia/NowakSM12;Shahram Sarkani
+journals/procedia/NowakSM12;Thomas A. Mazzuchi
+journals/procedia/WheelerXY11;Mary F. Wheeler
+journals/procedia/WheelerXY11;Guangri Xue
+journals/procedia/WheelerXY11;Ivan Yotov
+journals/procedia/CarvalhoBOGPM12;Diana Carvalho
+journals/procedia/CarvalhoBOGPM12;Maximino Bessa
+journals/procedia/CarvalhoBOGPM12;Lia Oliveira
+journals/procedia/CarvalhoBOGPM12;Carlos Guedes
+journals/procedia/CarvalhoBOGPM12;Emanuel Peres
+journals/procedia/CarvalhoBOGPM12;Luís Magalhães
+journals/procedia/AlvesFOS12;Aline da Silva Alves
+journals/procedia/AlvesFOS12;Simone Bacellar Leal Ferreira
+journals/procedia/AlvesFOS12;Viviane Santos de Oliveira
+journals/procedia/AlvesFOS12;Denis S. da Silva
+journals/procedia/KhalilL11;John Khalil
+journals/procedia/KhalilL11;Ramiro Liscano
+journals/procedia/MikhalG11;Julia Mikhal
+journals/procedia/MikhalG11;Bernard J. Geurts
+journals/procedia/OliveiraCGR12;Vítor Oliveira
+journals/procedia/OliveiraCGR12;António Coelho
+journals/procedia/OliveiraCGR12;Rui Guimarães
+journals/procedia/OliveiraCGR12;Carlos Rebelo
+journals/procedia/DembeleC12;Jean Marie Dembele
+journals/procedia/DembeleC12;Christophe Cambier
+journals/procedia/DattaSJD11;Arun K. Datta
+journals/procedia/DattaSJD11;Andi Sumargo
+journals/procedia/DattaSJD11;Victoria Jackson
+journals/procedia/DattaSJD11;Pradip P. Dey
+journals/procedia/LiuJJ13;Yitao Liu
+journals/procedia/LiuJJ13;Yangjian Ji
+journals/procedia/LiuJJ13;Roger Jianxin Jiao
+journals/procedia/SheltonBASALARD12;Joseph Shelton
+journals/procedia/SheltonBASALARD12;Kelvin S. Bryant
+journals/procedia/SheltonBASALARD12;Sheldon Abrams
+journals/procedia/SheltonBASALARD12;Lasanio Small
+journals/procedia/SheltonBASALARD12;Joshua Adams
+journals/procedia/SheltonBASALARD12;Derrick Leflore
+journals/procedia/SheltonBASALARD12;Aniesha Alford
+journals/procedia/SheltonBASALARD12;Karl Ricanek
+journals/procedia/BiferaleMPPSSSTT11;Luca Biferale
+journals/procedia/BiferaleMPPSSSTT11;Filippo Mantovani
+journals/procedia/BiferaleMPPSSSTT11;Marcello Pivanti
+journals/procedia/BiferaleMPPSSSTT11;Fabio Pozzati
+journals/procedia/BiferaleMPPSSSTT11;Mauro Sbragaglia
+journals/procedia/BiferaleMPPSSSTT11;Andrea Scagliarini
+journals/procedia/BiferaleMPPSSSTT11;Sebastiano Fabio Schifano
+journals/procedia/BiferaleMPPSSSTT11;Federico Toschi
+journals/procedia/ToporkovTBY11;Victor V. Toporkov
+journals/procedia/ToporkovTBY11;Anna S. Toporkova
+journals/procedia/ToporkovTBY11;Alexander Bobchenkov
+journals/procedia/ToporkovTBY11;Dmitry Yemelyanov
+journals/procedia/LiuBM12;Dajie Liu
+journals/procedia/LiuBM12;Norbert Blenn
+journals/procedia/LiuBM12;Piet Van Mieghem
+journals/procedia/Mao11;Yingchi Mao
+journals/procedia/YuanH12;Bingchuan Yuan
+journals/procedia/YuanH12;John Herbert
+journals/procedia/Russell12;Mike Russell
+journals/procedia/BielSG11;Bettina Biel
+journals/procedia/BielSG11;Stefan Seitz
+journals/procedia/BielSG11;Volker Gruhn
+journals/procedia/CarrilloAT11;Victor M. Carrillo
+journals/procedia/CarrilloAT11;Oswaldo Aguirre
+journals/procedia/CarrilloAT11;Heidi A. Taboada
+journals/procedia/RaptisVK13;Konstantinos Raptis
+journals/procedia/RaptisVK13;George A. Vouros
+journals/procedia/RaptisVK13;Evangelos Kapros
+journals/procedia/LiSPXZC12;Xingliang Li
+journals/procedia/LiSPXZC12;Xueshun Shen
+journals/procedia/LiSPXZC12;Xindong Peng
+journals/procedia/LiSPXZC12;Feng Xiao
+journals/procedia/LiSPXZC12;Zhaorong Zhuang
+journals/procedia/LiSPXZC12;Chungang Chen
+journals/procedia/CheLGW11;Xinwei Che
+journals/procedia/CheLGW11;Bin Li
+journals/procedia/CheLGW11;Kun Guo
+journals/procedia/CheLGW11;Jue Wang
+journals/procedia/Lesniak11;Michael Lesniak
+journals/procedia/VajdiHAB12;Shadi V. Vajdi
+journals/procedia/VajdiHAB12;Allaa R. Hilal
+journals/procedia/VajdiHAB12;Sabbeer Ahmed Abeer
+journals/procedia/VajdiHAB12;Otman A. Basir
+journals/procedia/TrivediB11;Neeta Trivedi
+journals/procedia/TrivediB11;Narayanaswamy Balakrishnan
+journals/procedia/BoulaicheBA12;Ammar Boulaiche
+journals/procedia/BoulaicheBA12;Hatem Bouzayani
+journals/procedia/BoulaicheBA12;Kamel Adi
+journals/procedia/KeiserLM12;Jan Keiser
+journals/procedia/KeiserLM12;Marco Lützenberger
+journals/procedia/KeiserLM12;Nils Masuch
+journals/procedia/XingJM11;Xinyu Xing
+journals/procedia/XingJM11;Yifei Jiang
+journals/procedia/XingJM11;Shivakant Mishra
+journals/procedia/LvYCZS12;Gang Lv
+journals/procedia/LvYCZS12;Bulei Yu
+journals/procedia/LvYCZS12;Zhangqi Chen
+journals/procedia/LvYCZS12;Zongfang Zhou
+journals/procedia/LvYCZS12;Yong Shi
+journals/procedia/OliverioSDRST11;Marco Oliverio
+journals/procedia/OliverioSDRST11;William Spataro
+journals/procedia/OliverioSDRST11;Donato D'Ambrosio
+journals/procedia/OliverioSDRST11;Rocco Rongo
+journals/procedia/OliverioSDRST11;Giuseppe Spingola
+journals/procedia/OliverioSDRST11;Giuseppe A. Trunfio
+journals/procedia/ElnaffarM11;Said Elnaffar
+journals/procedia/ElnaffarM11;Zakaria Maamar
+journals/procedia/SindiyLDD13;Oleg Sindiy
+journals/procedia/SindiyLDD13;Krystof Litomisky
+journals/procedia/SindiyLDD13;Scott Davidoff
+journals/procedia/SindiyLDD13;Frank Dekens
+journals/procedia/CostaFMBH12;Paulo Costa
+journals/procedia/CostaFMBH12;Hugo Fernandes
+journals/procedia/CostaFMBH12;Paulo Martins
+journals/procedia/CostaFMBH12;João Barroso
+journals/procedia/CostaFMBH12;Leontios J. Hadjileontiadis
+journals/procedia/ImaiV12;Shigeru Imai
+journals/procedia/ImaiV12;Carlos A. Varela
+journals/procedia/YanLF11;Weiwei Yan
+journals/procedia/YanLF11;Yang Liu 0032
+journals/procedia/YanLF11;Bingmei Fu
+journals/procedia/OzbayogluY11;A. Murat Özbayoglu
+journals/procedia/OzbayogluY11;H. Ertan Yuksel
+journals/procedia/KalyviotiM12;Katerina Kalyvioti
+journals/procedia/KalyviotiM12;Tassos A. Mikropoulos
+journals/procedia/KumarMHH11;Jitendra Kumar
+journals/procedia/KumarMHH11;Richard Tran Mills
+journals/procedia/KumarMHH11;Forrest M. Hoffman
+journals/procedia/KumarMHH11;William W. Hargrove
+journals/procedia/ChenLZ12;Wanghu Chen
+journals/procedia/ChenLZ12;Jing Li
+journals/procedia/ChenLZ12;Ji Zhang
+journals/procedia/CreeDHBS12;Johnathan Vee Cree
+journals/procedia/CreeDHBS12;Jose Delgado-Frias
+journals/procedia/CreeDHBS12;Mike Hughes
+journals/procedia/CreeDHBS12;Brion Burghard
+journals/procedia/CreeDHBS12;Kurt Silvers
+journals/procedia/YangKL12;Xin-She Yang
+journals/procedia/YangKL12;Slawomir Koziel
+journals/procedia/YangKL12;Leifur Þ. Leifsson
+journals/procedia/AbidB12;Mohamed Amine Abid
+journals/procedia/AbidB12;Abdelfettah Belghith
+journals/procedia/SafiMB12;Jamal Safi
+journals/procedia/SafiMB12;Gerrit Muller
+journals/procedia/SafiMB12;G. Maarten Bonnema
+journals/procedia/HoffmanLMBGHHKV11;Forrest M. Hoffman
+journals/procedia/HoffmanLMBGHHKV11;J. Walter Larson
+journals/procedia/HoffmanLMBGHHKV11;Richard Tran Mills
+journals/procedia/HoffmanLMBGHHKV11;Bjørn-Gustaf J. Brooks
+journals/procedia/HoffmanLMBGHHKV11;Auroop R. Ganguly
+journals/procedia/HoffmanLMBGHHKV11;William W. Hargrove
+journals/procedia/HoffmanLMBGHHKV11;Jian Huang
+journals/procedia/HoffmanLMBGHHKV11;Jitendra Kumar
+journals/procedia/Gosavi11;Abhijit Gosavi
+journals/procedia/LuBC11;Juan Lu
+journals/procedia/LuBC11;Adrien van den Bossche
+journals/procedia/LuBC11;Eric Campo
+journals/procedia/PurgasonH12;Benjamin Purgason
+journals/procedia/PurgasonH12;David L. Hibler
+journals/procedia/AlnanihRO12;Reem Al-Nanih
+journals/procedia/AlnanihRO12;Thiruvengadam Radhakrishnan
+journals/procedia/AlnanihRO12;Olga Ormandjieva
+journals/procedia/ShahrokhzadehHMS11;Mohamadreza Shahrokhzadeh
+journals/procedia/ShahrokhzadehHMS11;Abolfazl Toroghi Haghighat
+journals/procedia/ShahrokhzadehHMS11;Fariborz Mahmoudi
+journals/procedia/ShahrokhzadehHMS11;Behrooz Shahrokhzadeh
+journals/procedia/AndersonSP12;S. H. Anderson
+journals/procedia/AndersonSP12;Horng-Jer Shieh
+journals/procedia/AndersonSP12;R. L. Peyton
+journals/procedia/GuiR12;Hao Gui
+journals/procedia/GuiR12;Mark Roantree
+journals/procedia/Maxville11;Valerie Maxville
+journals/procedia/TaoMKK11;Jie Tao
+journals/procedia/TaoMKK11;Holger Marten
+journals/procedia/TaoMKK11;David Kramer
+journals/procedia/TaoMKK11;Wolfgang Karl
+journals/procedia/WrightKWH12;C. Wright
+journals/procedia/WrightKWH12;V. Kiparoglou
+journals/procedia/WrightKWH12;M. Williams
+journals/procedia/WrightKWH12;J. Hilton
+journals/procedia/CabreraTIEL12;Eduardo Cabrera
+journals/procedia/CabreraTIEL12;Manel Taboada
+journals/procedia/CabreraTIEL12;Ma Luisa Iglesias
+journals/procedia/CabreraTIEL12;Francisco Epelde
+journals/procedia/CabreraTIEL12;Emilio Luque
+journals/procedia/FitzgeraldR13;Matthew E. Fitzgerald
+journals/procedia/FitzgeraldR13;Adam M. Ross
+journals/procedia/LiuL12;Hong P. Liu
+journals/procedia/LiuL12;Andrei Ludu
+journals/procedia/GrimmA13;Marco Grimm
+journals/procedia/GrimmA13;Reiner Anderl
+journals/procedia/Ravela12;Srinivas Ravela
+journals/procedia/StieglitzK11;Stefan Stieglitz
+journals/procedia/StieglitzK11;Christian Kaufhold
+journals/procedia/CaiLH12;Guo-yong Cai
+journals/procedia/CaiLH12;Guo-bin Liu
+journals/procedia/CaiLH12;Gui-min Huang
+journals/procedia/AndersonHP12;S. H. Anderson
+journals/procedia/AndersonHP12;Brian Haeffner
+journals/procedia/AndersonHP12;R. L. Peyton
+journals/procedia/TurnerL13;Richard Turner
+journals/procedia/TurnerL13;Jo Ann Lane
+journals/procedia/TokiPM12;Eugenia I. Toki
+journals/procedia/TokiPM12;Jenny Pange
+journals/procedia/TokiPM12;Tassos A. Mikropoulos
+journals/procedia/DuCheneSKWD11;Michael DuChene
+journals/procedia/DuCheneSKWD11;Anna Maria Spagnuolo
+journals/procedia/DuCheneSKWD11;Ethan J. Kubatko
+journals/procedia/DuCheneSKWD11;Joannes J. Westerink
+journals/procedia/DuCheneSKWD11;Clint Dawson
+journals/procedia/KashiyamaHSN11;Toshihiko Kashiyama
+journals/procedia/KashiyamaHSN11;Tomohiro Hanai
+journals/procedia/KashiyamaHSN11;Yoshio Suzuki
+journals/procedia/KashiyamaHSN11;Ken Naono
+journals/procedia/Corns12;Steven M. Corns
+journals/procedia/Corns12;3812
+journals/procedia/MaggioniSL11;Marco Maggioni
+journals/procedia/MaggioniSL11;Marco D. Santambrogio
+journals/procedia/MaggioniSL11;Jie Liang
+journals/procedia/CannataroSS11;Mario Cannataro
+journals/procedia/CannataroSS11;Rodrigo Weber dos Santos
+journals/procedia/CannataroSS11;Joakim Sundnes
+journals/procedia/CecilioF12;José Cecílio
+journals/procedia/CecilioF12;Pedro Furtado
+journals/procedia/UsuiNMMY11;Hideyuki Usui
+journals/procedia/UsuiNMMY11;Masanori Nunami
+journals/procedia/UsuiNMMY11;Toseo Moritaka
+journals/procedia/UsuiNMMY11;Tatsuki Matsui
+journals/procedia/UsuiNMMY11;Yohei Yagi
+journals/procedia/AbedAAM11;Ali A. Abed
+journals/procedia/AbedAAM11;Abdul Adhem A. Ali
+journals/procedia/AbedAAM11;Nauman Aslam
+journals/procedia/AbedAAM11;Ali F. Marhoon
+journals/procedia/zhangLLW11;Li Zhang
+journals/procedia/zhangLLW11;Qingwen Li
+journals/procedia/zhangLLW11;Zhengjie Lu
+journals/procedia/zhangLLW11;Xinping Wang
+journals/procedia/IwaiWM11;Takuya Iwai
+journals/procedia/IwaiWM11;Naoki Wakamiya
+journals/procedia/IwaiWM11;Masayuki Murata
+journals/procedia/SultanovG12;Renat A. Sultanov
+journals/procedia/SultanovG12;Dennis Guster
+journals/procedia/DuarteA11;Carlos Duarte
+journals/procedia/DuarteA11;Ana Paula Afonso
+journals/procedia/GloriaBB12;Alessandro De Gloria
+journals/procedia/GloriaBB12;Francesco Bellotti
+journals/procedia/GloriaBB12;Riccardo Berta
+journals/procedia/ShifletS12;George W. Shiflet
+journals/procedia/ShifletS12;Angela B. Shiflet
+journals/procedia/AbdildinA12;Yerkin G. Abdildin
+journals/procedia/AbdildinA12;Ali E. Abbas
+journals/procedia/SchneiderB13;Florian Schneider
+journals/procedia/SchneiderB13;Brian Berenbach
+journals/procedia/DerstenAF12;Sara Dersten
+journals/procedia/DerstenAF12;Jakob Axelsson
+journals/procedia/DerstenAF12;Joakim Fröberg
+journals/procedia/ShahZMPH12;Syed Nasir Mehmood Shah
+journals/procedia/ShahZMPH12;M. Nordin B. Zakaria
+journals/procedia/ShahZMPH12;Ahmad Kamil Bin Mahmood
+journals/procedia/ShahZMPH12;Anindya Jyoti Pal
+journals/procedia/ShahZMPH12;Nazleeni Haron
+journals/procedia/SavicS11;Sasa Savic
+journals/procedia/SavicS11;Hao Shi
+journals/procedia/KohlerGCHL12;Sven Köhler 0003
+journals/procedia/KohlerGCHL12;Supriya Gulati
+journals/procedia/KohlerGCHL12;Gongjing Cao
+journals/procedia/KohlerGCHL12;Quinn Hart
+journals/procedia/KohlerGCHL12;Bertram Ludäscher
+journals/procedia/Gomez-RevueltoGLP12;I. Gómez-Revuelto
+journals/procedia/Gomez-RevueltoGLP12;L. E. García-Castillo
+journals/procedia/Gomez-RevueltoGLP12;S. Llorente-Romano
+journals/procedia/Gomez-RevueltoGLP12;David Pardo
+journals/procedia/LiuMHTC12;Jiangguo Liu
+journals/procedia/LiuMHTC12;Roberto Muñoz-Alicea
+journals/procedia/LiuMHTC12;Tingwen Huang
+journals/procedia/LiuMHTC12;Simon Tavener
+journals/procedia/LiuMHTC12;Chaoping Chen
+journals/procedia/BucurRSSTW11;Anca I. D. Bucur
+journals/procedia/BucurRSSTW11;Stefan Rüping
+journals/procedia/BucurRSSTW11;Thierry Sengstag
+journals/procedia/BucurRSSTW11;Stelios Sfakianakis
+journals/procedia/BucurRSSTW11;Manolis Tsiknakis
+journals/procedia/BucurRSSTW11;Dennis Wegener
+journals/procedia/PedrazaPF12;Luis Fernando Pedraza
+journals/procedia/PedrazaPF12;Ingrid Patricia Paez
+journals/procedia/PedrazaPF12;Felipe Forero
+journals/procedia/RebovichRD12;George Rebovich Jr.
+journals/procedia/RebovichRD12;Joseph K. DeRosa
+journals/procedia/Hassaneina11;Hossam S. Hassanein
+journals/procedia/Stojmenovic12;Ivan Stojmenovic
+journals/procedia/SchmidtM11;Bertil Schmidt
+journals/procedia/SchmidtM11;Douglas L. Maskell
+journals/procedia/BiswasNN11;Debmalya Biswas
+journals/procedia/BiswasNN11;Nikolai Nefedov
+journals/procedia/BiswasNN11;Valtteri Niemi
+journals/procedia/AlexeS11;Mihai Alexe
+journals/procedia/AlexeS11;Adrian Sandu
+journals/procedia/TanTT11;Swee Chuan Tan
+journals/procedia/TanTT11;Kai Ming Ting
+journals/procedia/TanTT11;Shyh Wei Teng
+journals/procedia/MunkD11;Michal Munk
+journals/procedia/MunkD11;Martin Drlík
+journals/procedia/SilvaGGS12;Margarida Lucas da Silva
+journals/procedia/SilvaGGS12;Daniel Gonçalves 0002
+journals/procedia/SilvaGGS12;Tiago João Guerreiro
+journals/procedia/SilvaGGS12;Hugo Silva
+journals/procedia/LiuLKGK11;X. Liu
+journals/procedia/LiuLKGK11;O. Lyubimova
+journals/procedia/LiuLKGK11;A. E. Kobryn
+journals/procedia/LiuLKGK11;Sergey Gusarov
+journals/procedia/LiuLKGK11;Andriy Kovalenko
+journals/procedia/BellochFGMV12;Jose A. Belloch
+journals/procedia/BellochFGMV12;Miguel Ferrer
+journals/procedia/BellochFGMV12;Alberto González
+journals/procedia/BellochFGMV12;Francisco-Jose Martínez-Zaldívar
+journals/procedia/BellochFGMV12;Antonio M. Vidal
+journals/procedia/GraignicVJTBT13;Pascal Graignic
+journals/procedia/GraignicVJTBT13;Thomas Vosgien
+journals/procedia/GraignicVJTBT13;Marija Jankovic
+journals/procedia/GraignicVJTBT13;Vincent Tuloup
+journals/procedia/GraignicVJTBT13;Jennifer Berquet
+journals/procedia/GraignicVJTBT13;Nadege Troussier
+journals/procedia/OnolajaTB11;Olufunmilola Onolaja
+journals/procedia/OnolajaTB11;Georgios Theodoropoulos
+journals/procedia/OnolajaTB11;Rami Bahsoon
+journals/procedia/FerroHMS11;Nicola Ferro
+journals/procedia/FerroHMS11;Allan Hanbury
+journals/procedia/FerroHMS11;Henning Müller
+journals/procedia/FerroHMS11;Giuseppe Santucci
+journals/procedia/GhoshalRC11;Devarshi Ghoshal
+journals/procedia/GhoshalRC11;Sreesudhan R. Ramkumar
+journals/procedia/GhoshalRC11;Arun Chauhan
+journals/procedia/Muller12;Gerrit Muller
+journals/procedia/MoKL11;Mingzhen Mo
+journals/procedia/MoKL11;Irwin King
+journals/procedia/MoKL11;Kwong-Sak Leung
+journals/procedia/LeifssonKO12;Leifur Þ. Leifsson
+journals/procedia/LeifssonKO12;Slawomir Koziel
+journals/procedia/LeifssonKO12;Stanislav Ogurtsov
+journals/procedia/IsaacZ12;Jesús Téllez Isaac
+journals/procedia/IsaacZ12;Sherali Zeadally
+journals/procedia/McHenryOMKB11;Kenton McHenry
+journals/procedia/McHenryOMKB11;Michal Ondrejcek
+journals/procedia/McHenryOMKB11;Luigi Marini
+journals/procedia/McHenryOMKB11;Rob Kooper
+journals/procedia/McHenryOMKB11;Peter Bajcsy
+journals/procedia/PrabhatRBWLWB12;Prabhat
+journals/procedia/PrabhatRBWLWB12;Oliver Rübel
+journals/procedia/PrabhatRBWLWB12;Surendra Byna
+journals/procedia/PrabhatRBWLWB12;Kesheng Wu
+journals/procedia/PrabhatRBWLWB12;Fuyu Li
+journals/procedia/PrabhatRBWLWB12;Michael Wehner
+journals/procedia/PrabhatRBWLWB12;Wes Bethel
+journals/procedia/Hoyland12;Christine A. Hoyland
+journals/procedia/KuboNS12;Masao Kubo
+journals/procedia/KuboNS12;Shinichirou Nakayama
+journals/procedia/KuboNS12;Hiroshi Sato
+journals/procedia/LarocqueV11;Aaron Larocque
+journals/procedia/LarocqueV11;Iren Valova
+journals/procedia/WarrenWMW11;Ian Warren
+journals/procedia/WarrenWMW11;Thiranjith Weerasinghe
+journals/procedia/WarrenWMW11;R. Maddison
+journals/procedia/WarrenWMW11;Y. Wang
+journals/procedia/Izzo12;Margaretha Vreeburg Izzo
+journals/procedia/ArdisHM13;Mark A. Ardis
+journals/procedia/ArdisHM13;Eirik Hole
+journals/procedia/ArdisHM13;Joe Manfredonia
+journals/procedia/XieZW12;Haibin Xie
+journals/procedia/XieZW12;Xiujuan Zhao
+journals/procedia/XieZW12;Shouyang Wang
+journals/procedia/Rodriguez-MartinezVSG11;Manuel Rodríguez-Martínez
+journals/procedia/Rodriguez-MartinezVSG11;Harold Valdivia
+journals/procedia/Rodriguez-MartinezVSG11;Jaime Seguel
+journals/procedia/Rodriguez-MartinezVSG11;Melvin Greer
+journals/procedia/GorbilG11;Gökçe Görbil
+journals/procedia/GorbilG11;Erol Gelenbe
+journals/procedia/Pineda12;Ricardo Pineda
+journals/procedia/Pineda12;3925
+journals/procedia/ValovaGG12;Iren Valova
+journals/procedia/ValovaGG12;Natacha Gueorguieva
+journals/procedia/ValovaGG12;George Georgiev
+journals/procedia/TeekengT12;Wannaporn Teekeng
+journals/procedia/TeekengT12;Arit Thammano
+journals/procedia/AssousC11;Franck Assous
+journals/procedia/AssousC11;Joël Chaskalovic
+journals/procedia/KimFMSO13;Hongman Kim
+journals/procedia/KimFMSO13;David Fried
+journals/procedia/KimFMSO13;Peter Menegay
+journals/procedia/KimFMSO13;Grant Soremekun
+journals/procedia/KimFMSO13;Christopher Oster
+journals/procedia/KimLH11;Woong Hee Kim
+journals/procedia/KimLH11;Sunyoung Lee
+journals/procedia/KimLH11;Jongwoon Hwang
+journals/procedia/SuerEC11;Gürsel A. Süer
+journals/procedia/SuerEC11;Bulent Erenay
+journals/procedia/SuerEC11;Meng-Yun Chen
+journals/procedia/AchesonDK13;Paulette Acheson
+journals/procedia/AchesonDK13;Cihan H. Dagli
+journals/procedia/AchesonDK13;Nil H. Kilicay-Ergin
+journals/procedia/AliSKLADS12;Hesham H. Ali
+journals/procedia/AliSKLADS12;Yong Shi
+journals/procedia/AliSKLADS12;Deepak Khazanchi
+journals/procedia/AliSKLADS12;Michael Lees
+journals/procedia/AliSKLADS12;G. Dick van Albada
+journals/procedia/AliSKLADS12;Jack Dongarra
+journals/procedia/AliSKLADS12;Peter M. A. Sloot
+journals/procedia/JiaLD12;Yulu Jia
+journals/procedia/JiaLD12;Piotr Luszczek
+journals/procedia/JiaLD12;Jack Dongarra
+journals/procedia/MardiniKS11;Wail Mardini
+journals/procedia/MardiniKS11;Yaser Khamayseh
+journals/procedia/MardiniKS11;Marwa Salayma
+journals/procedia/VidalDK12;Andrés Vidal
+journals/procedia/VidalDK12;Damian Dechev
+journals/procedia/VidalDK12;Alain Kassab
+journals/procedia/WeloTR13;Torgeir Welo
+journals/procedia/WeloTR13;Oluf Roar Bjørset Tonning
+journals/procedia/WeloTR13;Terje Rølvåg
+journals/procedia/WuJJS11;Jigang Wu
+journals/procedia/WuJJS11;Song Jin
+journals/procedia/WuJJS11;Haikun Ji
+journals/procedia/WuJJS11;Thambipillai Srikanthan
+journals/procedia/ParidelYVPB11;Koosha Paridel
+journals/procedia/ParidelYVPB11;Ansar-Ul-Haque Yasar
+journals/procedia/ParidelYVPB11;Yves Vanrompay
+journals/procedia/ParidelYVPB11;Davy Preuveneers
+journals/procedia/ParidelYVPB11;Yolande Berbers
+journals/procedia/GroteHS11;Marcus J. Grote
+journals/procedia/GroteHS11;Johannes Huber
+journals/procedia/GroteHS11;Olaf Schenk
+journals/procedia/MathurSLHEY11;Ravi Mathur
+journals/procedia/MathurSLHEY11;J. David Schaffer
+journals/procedia/MathurSLHEY11;Walker H. Land Jr.
+journals/procedia/MathurSLHEY11;John J. Heine
+journals/procedia/MathurSLHEY11;Steven Eschrich
+journals/procedia/MathurSLHEY11;Timothy Yeatman
+journals/procedia/TessonL11;Julien Tesson
+journals/procedia/TessonL11;Frédéric Loulergue
+journals/procedia/Furuchi11;Mikito Furuchi
+journals/procedia/TurnerILMA12;Richard Turner
+journals/procedia/TurnerILMA12;Dan Ingold
+journals/procedia/TurnerILMA12;Jo Ann Lane
+journals/procedia/TurnerILMA12;Raymond J. Madachy
+journals/procedia/TurnerILMA12;David Anderson
+journals/procedia/JamaaKK12;Maissa Ben Jamâa
+journals/procedia/JamaaKK12;Anis Koubaa
+journals/procedia/JamaaKK12;Yasir Kayani
+journals/procedia/MakinoDFSIH11;Junichiro Makino
+journals/procedia/MakinoDFSIH11;Hiroshi Daisaka
+journals/procedia/MakinoDFSIH11;Toshiyuki Fukushige
+journals/procedia/MakinoDFSIH11;Yutaka Sugawara
+journals/procedia/MakinoDFSIH11;Mary Inaba
+journals/procedia/MakinoDFSIH11;Kei Hiraki
+journals/procedia/BinCX11;Juzhong Bin
+journals/procedia/BinCX11;Chungang Chen
+journals/procedia/BinCX11;Feng Xiao
+journals/procedia/LinHLYW11;Kuo-Ping Lin
+journals/procedia/LinHLYW11;Kuo-Chen Hung
+journals/procedia/LinHLYW11;Ssu-Ping Lai
+journals/procedia/LinHLYW11;Ya-Ting Yu
+journals/procedia/LinHLYW11;Pei-Ti Wu
+journals/procedia/FordPCDLL12;William S. Ford
+journals/procedia/FordPCDLL12;Jin-Woo Park
+journals/procedia/FordPCDLL12;Aaron S. Campbell
+journals/procedia/FordPCDLL12;Youping Deng
+journals/procedia/FordPCDLL12;Yan Li
+journals/procedia/FordPCDLL12;Walker H. Land Jr.
+journals/procedia/BoothCRF11;Joshua Dennis Booth
+journals/procedia/BoothCRF11;Anirban Chatterjee
+journals/procedia/BoothCRF11;Padma Raghavan
+journals/procedia/BoothCRF11;Michael R. Frasca
+journals/procedia/LouiseDC11;Stéphane Louise
+journals/procedia/LouiseDC11;Vincent David
+journals/procedia/LouiseDC11;Fabien Calcado
+journals/procedia/ZadorojniyMGSZ12;Alexander Zadorojniy
+journals/procedia/ZadorojniyMGSZ12;Michael Masin
+journals/procedia/ZadorojniyMGSZ12;Lev Greenberg
+journals/procedia/ZadorojniyMGSZ12;Ofer M. Shir
+journals/procedia/ZadorojniyMGSZ12;Lawrence Zeidner
+journals/procedia/YounCFLB11;Choonhan Youn
+journals/procedia/YounCFLB11;Sandeep Chandra
+journals/procedia/YounCFLB11;Eric H. Fegraus
+journals/procedia/YounCFLB11;Kai Lin
+journals/procedia/YounCFLB11;Chaitan Baru
+journals/procedia/ZhangS12;Hong Zhang
+journals/procedia/ZhangS12;Adrian Sandu
+journals/procedia/MillerM11;Boris M. Miller
+journals/procedia/MillerM11;Daniel J. McInnes
+journals/procedia/KawinfruangfukulKK13;Thammanoon Kawinfruangfukul
+journals/procedia/KawinfruangfukulKK13;Supannika Koolmanojwong
+journals/procedia/KawinfruangfukulKK13;Nupul Kukreja
+journals/procedia/PeairsC11;Lisa Peairs
+journals/procedia/PeairsC11;Tzu-Yi Chen
+journals/procedia/CaggianeseE12;Giuseppe Caggianese
+journals/procedia/CaggianeseE12;Ugo Erra
+journals/procedia/JaidannALB11;Mounir Jaidann
+journals/procedia/JaidannALB11;Hakima Abou-Rachid
+journals/procedia/JaidannALB11;Xavier Lafleur-Lambert
+journals/procedia/JaidannALB11;Josée Brisson
+journals/procedia/Florio12;Vincenzo De Florio
+journals/procedia/MauchM12;Luis Henrique Mauch
+journals/procedia/MauchM12;Carla Mauch
+journals/procedia/AchesonPDKCH12;Paulette Acheson
+journals/procedia/AchesonPDKCH12;Louis Pape
+journals/procedia/AchesonPDKCH12;Cihan H. Dagli
+journals/procedia/AchesonPDKCH12;Nil H. Kilicay-Ergin
+journals/procedia/AchesonPDKCH12;John M. Colombi
+journals/procedia/AchesonPDKCH12;Khaled Haris
+journals/procedia/RestrepoBG12;Emmanuelle Gutiérrez y Restrepo
+journals/procedia/RestrepoBG12;Carlos Benavídez
+journals/procedia/RestrepoBG12;Henry Gutiérrez
+journals/procedia/PlaleWHCL12;Beth Plale
+journals/procedia/PlaleWHCL12;Eran Chinthaka Withana
+journals/procedia/PlaleWHCL12;Chathura Herath
+journals/procedia/PlaleWHCL12;Kavitha Chandrasekar
+journals/procedia/PlaleWHCL12;Yuan Luo
+journals/procedia/ValovaGGG11;Iren Valova
+journals/procedia/ValovaGGG11;Natacha Gueorguieva
+journals/procedia/ValovaGGG11;George Gueorguiev
+journals/procedia/ValovaGGG11;Vyacheslav Glukh
+journals/procedia/LingerfeltMOBM11;Eric J. Lingerfelt
+journals/procedia/LingerfeltMOBM11;O. E. Bronson Messer
+journals/procedia/LingerfeltMOBM11;J. A. Osborne
+journals/procedia/LingerfeltMOBM11;Reuben D. Budiardja
+journals/procedia/LingerfeltMOBM11;Anthony Mezzacappa
+journals/procedia/NagataS11;Katsuya Nagata
+journals/procedia/NagataS11;Susumu Shirayama
+journals/procedia/OukselL12;Aris M. Ouksel
+journals/procedia/OukselL12;Doug Lundquist
+journals/procedia/MoriartyMA12;Brian Moriarty
+journals/procedia/MoriartyMA12;Zak Moy
+journals/procedia/MoriartyMA12;Caroline Amaba
+journals/procedia/Ansari12;Nirwan Ansari
+journals/procedia/AndersonaL11;S. H. Anderson
+journals/procedia/AndersonaL11;X. Liu
+journals/procedia/GaoLG12;Pu Gao
+journals/procedia/GaoLG12;Hong P. Liu
+journals/procedia/GaoLG12;David P. Gluch
+journals/procedia/AndradeTXORE12;Guilherme Andrade
+journals/procedia/AndradeTXORE12;Felipe Teixeira
+journals/procedia/AndradeTXORE12;Carolina Ribeiro Xavier
+journals/procedia/AndradeTXORE12;R. S. Oliveira
+journals/procedia/AndradeTXORE12;Leonardo C. da Rocha
+journals/procedia/AndradeTXORE12;Alexandre G. Evsukoff
+journals/procedia/IwataM13;Curtis Iwata
+journals/procedia/IwataM13;Dimitri Mavris
+journals/procedia/NakaoHMYY11;Masahiro Nakao
+journals/procedia/NakaoHMYY11;Tomoyuki Hiroyasu
+journals/procedia/NakaoHMYY11;Mitsunori Miki
+journals/procedia/NakaoHMYY11;Hisatake Yokouchi
+journals/procedia/NakaoHMYY11;Masato Yoshimi
+journals/procedia/LiS12;Jiakai Li
+journals/procedia/LiS12;Gürsel Serpen
+journals/procedia/CapitaoAV12;Susana Capitão
+journals/procedia/CapitaoAV12;Ana Margarida Pisco Almeida
+journals/procedia/CapitaoAV12;Rui Marques Vieira
+journals/procedia/LewisMW12;Rory A. Lewis
+journals/procedia/LewisMW12;Chad A. Mello
+journals/procedia/LewisMW12;Andrew M. White 0001
+journals/procedia/CoudercBA11;Paul Couderc
+journals/procedia/CoudercBA11;Michel Banâtre
+journals/procedia/CoudercBA11;Fabien Allard
+journals/procedia/OhtaniHTHHNI11;Makiko Ohtani
+journals/procedia/OhtaniHTHHNI11;Kazuo Hirahara
+journals/procedia/OhtaniHTHHNI11;Yasuto Takahashi
+journals/procedia/OhtaniHTHHNI11;Takane Hori
+journals/procedia/OhtaniHTHHNI11;Mamoru Hyodo
+journals/procedia/OhtaniHTHHNI11;Hiroshi Nakashima
+journals/procedia/OhtaniHTHHNI11;Takeshi Iwashita
+journals/procedia/MalakarNV11;Preeti Malakar
+journals/procedia/MalakarNV11;Vijay Natarajan
+journals/procedia/MalakarNV11;Sathish S. Vadhiyar
+journals/procedia/TruongPD12;Hong Linh Truong
+journals/procedia/TruongPD12;Phu H. Phung
+journals/procedia/TruongPD12;Schahram Dustdar
+journals/procedia/GomesPV11;Antônio Tadeu A. Gomes
+journals/procedia/GomesPV11;Diego Paredes
+journals/procedia/GomesPV11;Frédéric Valentin
+journals/procedia/BatlloriLLS11;R. Batllori
+journals/procedia/BatlloriLLS11;Craig B. Laramee
+journals/procedia/BatlloriLLS11;Walker H. Land Jr.
+journals/procedia/BatlloriLLS11;J. David Schaffer
+journals/procedia/Ruijven13;L. C. van Ruijven
+journals/procedia/MoriartyLDBMH12;Brian Moriarty
+journals/procedia/MoriartyLDBMH12;Elizabeth Lennon
+journals/procedia/MoriartyLDBMH12;Frank DiCola
+journals/procedia/MoriartyLDBMH12;Kyle Buzby
+journals/procedia/MoriartyLDBMH12;Morisa Manzella
+journals/procedia/MoriartyLDBMH12;Emily Hromada
+journals/procedia/MezniCG12;Haithem Mezni
+journals/procedia/MezniCG12;Walid Chainbi
+journals/procedia/MezniCG12;Khaled Ghédira
+journals/procedia/Merchant12;Shabbir Merchant
+journals/procedia/YasarerN12;Hakan Yasarer
+journals/procedia/YasarerN12;Yacoub Najjar
+journals/procedia/LimareM11;Nicolas Limare
+journals/procedia/LimareM11;Jean-Michel Morel
+journals/procedia/OzbayogluB12;A. Murat Özbayoglu
+journals/procedia/OzbayogluB12;Recep Bozer
+journals/procedia/KouassiAK11;Eli Koffi Kouassi
+journals/procedia/KouassiAK11;Toshiyuki Amagasa
+journals/procedia/KouassiAK11;Hiroyuki Kitagawa
+journals/procedia/MrazovaK12;Iveta Mrázová
+journals/procedia/MrazovaK12;Marek Kukacka
+journals/procedia/YangWB13;Shahan Yang
+journals/procedia/YangWB13;Baobing Wang
+journals/procedia/YangWB13;John S. Baras
+journals/procedia/Al-TurjmanHO11;Fadi M. Al-Turjman
+journals/procedia/Al-TurjmanHO11;Hossam S. Hassanein
+journals/procedia/Al-TurjmanHO11;Sharief M. A. Oteafy
+journals/procedia/BranscombPCJ13;Jaclyn M. Branscomb
+journals/procedia/BranscombPCJ13;Christiaan J. J. Paredis
+journals/procedia/BranscombPCJ13;Judy Che
+journals/procedia/BranscombPCJ13;Mark J. Jennings
+journals/procedia/MasseroliGC11;Marco Masseroli
+journals/procedia/MasseroliGC11;Giorgio Ghisalberti
+journals/procedia/MasseroliGC11;Stefano Ceri
+journals/procedia/FahadMB11;Muhammad Fahad
+journals/procedia/FahadMB11;Néjib Moalla
+journals/procedia/FahadMB11;Abdelaziz Bouras
+journals/procedia/ShiraniSKZLL12;Rostam Shirani
+journals/procedia/ShiraniSKZLL12;Marc St-Hilaire
+journals/procedia/ShiraniSKZLL12;Thomas Kunz
+journals/procedia/ShiraniSKZLL12;Yifeng Zhou
+journals/procedia/ShiraniSKZLL12;Jun Li 0006
+journals/procedia/ShiraniSKZLL12;Louise Lamont
+journals/procedia/KhanmohammadiDE12;Sina Khanmohammadi
+journals/procedia/KhanmohammadiDE12;Cihan H. Dagli
+journals/procedia/KhanmohammadiDE12;Farnaz Zamani Esfahlani
+journals/procedia/GreggCT12;Noel Gregg
+journals/procedia/GreggCT12;YunJeong Chang
+journals/procedia/GreggCT12;Robert Todd
+journals/procedia/JosephLS11;Anthony Joseph
+journals/procedia/JosephLS11;Maurice Larrain
+journals/procedia/JosephLS11;Eshwar Singh
+journals/procedia/CorrandDM13;Matthieu Corrand
+journals/procedia/CorrandDM13;Scott J. Duncan
+journals/procedia/CorrandDM13;Dimitri N. Mavris
+journals/procedia/Eijkhout12;Victor Eijkhout
+journals/procedia/FioreAFPSDBC11;Sandro Fiore
+journals/procedia/FioreAFPSDBC11;Giovanni Aloisio
+journals/procedia/FioreAFPSDBC11;Peter Fox
+journals/procedia/FioreAFPSDBC11;Monique Petitdidier
+journals/procedia/FioreAFPSDBC11;Horst Schwichtenberg
+journals/procedia/FioreAFPSDBC11;Sebastien Denvil
+journals/procedia/FioreAFPSDBC11;Jonathan D. Blower
+journals/procedia/FioreAFPSDBC11;Antonio S. Cofiño
+journals/procedia/RawiA11;Mohd Izani Mohamed Rawi
+journals/procedia/RawiA11;Adnan Al-Anbuky
+journals/procedia/ZhangF12;Wenjing Zhang
+journals/procedia/ZhangF12;Xin Feng
+journals/procedia/JourjonRDO11;Guillaume Jourjon
+journals/procedia/JourjonRDO11;Thierry Rakotoarivelo
+journals/procedia/JourjonRDO11;Christoph Dwertmann
+journals/procedia/JourjonRDO11;Maximilian Ott
+journals/procedia/AsteriadisKSY12;Stylianos Asteriadis
+journals/procedia/AsteriadisKSY12;Kostas Karpouzis
+journals/procedia/AsteriadisKSY12;Noor Shaker
+journals/procedia/AsteriadisKSY12;Georgios N. Yannakakis
+journals/procedia/CollierS12;Nathan O. Collier
+journals/procedia/CollierS12;Marcin Sieniek
+journals/procedia/WangD12;Renzhong Wang
+journals/procedia/WangD12;Cihan H. Dagli
+journals/procedia/HoelzlKF12;Gerold Hoelzl
+journals/procedia/HoelzlKF12;Marc Kurz
+journals/procedia/HoelzlKF12;Alois Ferscha
+journals/procedia/PerezA12;Asier Marzo Pérez
+journals/procedia/PerezA12;Oscar Ardaiz
+journals/procedia/PapeGCDKR13;Louis Pape
+journals/procedia/PapeGCDKR13;Kristin Giammarco
+journals/procedia/PapeGCDKR13;John M. Colombi
+journals/procedia/PapeGCDKR13;Cihan H. Dagli
+journals/procedia/PapeGCDKR13;Nil H. Kilicay-Ergin
+journals/procedia/PapeGCDKR13;George Rebovich
+journals/procedia/TurgutM11;Ozgu Turgut
+journals/procedia/TurgutM11;Alper E. Murat
+journals/procedia/Gonzalez13a;Fernando G. Gonzalez
+journals/procedia/Strand11;Gary Strand
+journals/procedia/LaiZRVKS12;Pai-Wei Lai
+journals/procedia/LaiZRVKS12;Huaijian Zhang
+journals/procedia/LaiZRVKS12;Samyam Rajbhandari
+journals/procedia/LaiZRVKS12;Edward Valeev
+journals/procedia/LaiZRVKS12;Karol Kowalski
+journals/procedia/LaiZRVKS12;P. Sadayappan
+journals/procedia/XueHDX12;Haidong Xue
+journals/procedia/XueHDX12;Xiaolin Hu
+journals/procedia/XueHDX12;Nathan Dahl
+journals/procedia/XueHDX12;Ming Xue
+journals/procedia/SandersK12;Albert Sanders
+journals/procedia/SandersK12;John Klein
+journals/procedia/OshimaYE12;Makoto Oshima
+journals/procedia/OshimaYE12;Koji Yamada
+journals/procedia/OshimaYE12;Satoshi Endo
+journals/procedia/KovalchukB12;Sergey V. Kovalchuk
+journals/procedia/KovalchukB12;Alexander Boukhanovsky
+journals/procedia/SisnerosHOH11;Robert Sisneros
+journals/procedia/SisnerosHOH11;Jian Huang
+journals/procedia/SisnerosHOH11;George Ostrouchov
+journals/procedia/SisnerosHOH11;Forrest M. Hoffman
+journals/procedia/ShifletS11;Angela B. Shiflet
+journals/procedia/ShifletS11;George W. Shiflet
+journals/procedia/CorralSS12;Luis Corral
+journals/procedia/CorralSS12;Alberto Sillitti
+journals/procedia/CorralSS12;Giancarlo Succi
+journals/procedia/EpicocoMA11;Italo Epicoco
+journals/procedia/EpicocoMA11;Silvia Mocavero
+journals/procedia/EpicocoMA11;Giovanni Aloisio
+journals/procedia/FangDD13;Zhemei Fang
+journals/procedia/FangDD13;Daniel DeLaurentis
+journals/procedia/FangDD13;Navindran Davendralingam
+journals/procedia/Gawanmeh11;Amjad Gawanmeh
+journals/procedia/MandelBKKK12;Jan Mandel
+journals/procedia/MandelBKKK12;Jonathan D. Beezley
+journals/procedia/MandelBKKK12;Adam K. Kochanski
+journals/procedia/MandelBKKK12;Volodymyr Y. Kondratenko
+journals/procedia/MandelBKKK12;Minjeong Kim
+journals/procedia/LiaoS11;Zhigang Liao
+journals/procedia/LiaoS11;Ly-Fie Sugianto
+journals/procedia/BrecherNK13;Christian Brecher
+journals/procedia/BrecherNK13;Johannes A. Nittinger
+journals/procedia/BrecherNK13;Andreas Karlberger
+journals/procedia/CheikhrouhouKDAA11;Omar Cheikhrouhou
+journals/procedia/CheikhrouhouKDAA11;Anis Koubaa
+journals/procedia/CheikhrouhouKDAA11;Gianluca Dini
+journals/procedia/CheikhrouhouKDAA11;Hani Alzaid
+journals/procedia/CheikhrouhouKDAA11;Mohamed Abid
+journals/procedia/McKerliea11;Diane McKerliea
+journals/procedia/BaboulinDDGRT12;Marc Baboulin
+journals/procedia/BaboulinDDGRT12;Simplice Donfack
+journals/procedia/BaboulinDDGRT12;Jack Dongarra
+journals/procedia/BaboulinDDGRT12;Laura Grigori
+journals/procedia/BaboulinDDGRT12;Adrien Rémy
+journals/procedia/BaboulinDDGRT12;Stanimire Tomov
+journals/procedia/SunJW11;Wen Sun
+journals/procedia/SunJW11;Lianying Ji
+journals/procedia/SunJW11;Wai-Choong Wong
+journals/procedia/KhanASP12;Zahoor Ali Khan
+journals/procedia/KhanASP12;Nauman Aslam
+journals/procedia/KhanASP12;Shyamala C. Sivakumar
+journals/procedia/KhanASP12;William J. Phillips
+journals/procedia/NiuWS11;Lingfeng Niu
+journals/procedia/NiuWS11;Jianmin Wu
+journals/procedia/NiuWS11;Yong Shi
+journals/procedia/JohnnieASCM12;Joseph Johnnie
+journals/procedia/JohnnieASCM12;Mark Austin
+journals/procedia/JohnnieASCM12;Ganesh Sriram
+journals/procedia/JohnnieASCM12;Matt Conway
+journals/procedia/JohnnieASCM12;Ashish Misra
+journals/procedia/ZhaoS12;Yunjie Zhao
+journals/procedia/ZhaoS12;Adel W. Sadek
+journals/procedia/DinhAJKGMR12;Minh Ngoc Dinh
+journals/procedia/DinhAJKGMR12;David Abramson
+journals/procedia/DinhAJKGMR12;Chao Jin
+journals/procedia/DinhAJKGMR12;Donny Kurniawan
+journals/procedia/DinhAJKGMR12;Andrew Gontarek
+journals/procedia/DinhAJKGMR12;Bob Moench
+journals/procedia/DinhAJKGMR12;Luiz De Rose
+journals/procedia/YangD011;Feng Yang
+journals/procedia/YangD011;Cihan H. Dagli
+journals/procedia/YangD011;Weiping Wang 0002
+journals/procedia/LightPM12;Janet Light
+journals/procedia/LightPM12;Subashini Parthasarathy
+journals/procedia/LightPM12;William McIver
+journals/procedia/SzymczakPPP11;Arkadiusz Szymczak
+journals/procedia/SzymczakPPP11;Anna Paszynska
+journals/procedia/SzymczakPPP11;Maciej Paszynski
+journals/procedia/SzymczakPPP11;David Pardo
+journals/procedia/RochaBGPM12;Tânia Rocha
+journals/procedia/RochaBGPM12;Maximino Bessa
+journals/procedia/RochaBGPM12;Ramiro Gonçalves
+journals/procedia/RochaBGPM12;Emanuel Peres
+journals/procedia/RochaBGPM12;Luís Magalhães
+journals/procedia/RoopalakshmiR11;R. Roopalakshmi
+journals/procedia/RoopalakshmiR11;G. Ram Mohana Reddy
+journals/procedia/EnkeGM11;David Enke
+journals/procedia/EnkeGM11;Manfred Grauer
+journals/procedia/EnkeGM11;Nijat Mehdiyev
+journals/procedia/DoLM11;Hiep-Thuan Do
+journals/procedia/DoLM11;Sébastien Limet
+journals/procedia/DoLM11;Emmanuel Melin
+journals/procedia/BossardKP11;Antoine Bossard
+journals/procedia/BossardKP11;Keiichi Kaneko
+journals/procedia/BossardKP11;Shietung Peng
+journals/procedia/AlexandrovAR12;Nia Alexandrov
+journals/procedia/AlexandrovAR12;Vassil N. Alexandrov
+journals/procedia/AlexandrovAR12;Raúl J. Ramírez
+journals/procedia/CencerradoCM12;Andrés Cencerrado
+journals/procedia/CencerradoCM12;Ana Cortés
+journals/procedia/CencerradoCM12;Tomàs Margalef
+journals/procedia/Hibler12;David L. Hibler
+journals/procedia/JinTLZH12;Jiangming Jin
+journals/procedia/JinTLZH12;Stephen John Turner
+journals/procedia/JinTLZH12;Bu-Sung Lee
+journals/procedia/JinTLZH12;Jianlong Zhong
+journals/procedia/JinTLZH12;Bingsheng He
+journals/procedia/StevanovicVA11;Dusan Stevanovic
+journals/procedia/StevanovicVA11;Natalija Vlajic
+journals/procedia/StevanovicVA11;Aijun An
+journals/procedia/FerreiraFS12;Ariane Oliveira Ferreira
+journals/procedia/FerreiraFS12;Simone Bacellar Leal Ferreira
+journals/procedia/FerreiraFS12;Denis Silva da Silveira
+journals/procedia/BrowneKHOY13;Daniel Browne
+journals/procedia/BrowneKHOY13;Robert Kempf
+journals/procedia/BrowneKHOY13;Aaron Hansen
+journals/procedia/BrowneKHOY13;Michael O'Neal
+journals/procedia/BrowneKHOY13;William Yates
+journals/procedia/LoyallGCUSNK12;Joseph P. Loyall
+journals/procedia/LoyallGCUSNK12;Matthew Gillen
+journals/procedia/LoyallGCUSNK12;Jeffrey Cleveland
+journals/procedia/LoyallGCUSNK12;Kyle Usbeck
+journals/procedia/LoyallGCUSNK12;Joshua Sterling
+journals/procedia/LoyallGCUSNK12;Richard Newkirk
+journals/procedia/LoyallGCUSNK12;Ralph Kohler
+journals/procedia/JungCCK12;Jae-Won Jung
+journals/procedia/JungCCK12;Ki-Ho Chang
+journals/procedia/JungCCK12;Young-Jean Choi
+journals/procedia/JungCCK12;Kyungsik Kim
+journals/procedia/WarshawskyM13;David Warshawsky
+journals/procedia/WarshawskyM13;Dimitri Mavris
+journals/procedia/DouglasEPC12;Craig C. Douglas
+journals/procedia/DouglasEPC12;Yalchin Efendiev
+journals/procedia/DouglasEPC12;Peter Popov
+journals/procedia/DouglasEPC12;Victor M. Calo
+journals/procedia/UlonskaW13;Sören Ulonska
+journals/procedia/UlonskaW13;Torgeir Welo
+journals/procedia/LezcanoBS12;Leonardo Lezcano
+journals/procedia/LezcanoBS12;Elena García Barriocanal
+journals/procedia/LezcanoBS12;Miguel-Ángel Sicilia
+journals/procedia/BertramK12;Jens Bertram
+journals/procedia/BertramK12;Carsten Kleiner
+journals/procedia/ArnautovicS12;Edin Arnautovic
+journals/procedia/ArnautovicS12;Davor Svetinovic
+journals/procedia/LopesP13;Amit J. Lopes
+journals/procedia/LopesP13;Ricardo Pineda
+journals/procedia/RutaCSSD11;Michele Ruta
+journals/procedia/RutaCSSD11;Simona Colucci
+journals/procedia/RutaCSSD11;Floriano Scioscia
+journals/procedia/RutaCSSD11;Eugenio Di Sciascio
+journals/procedia/RutaCSSD11;Francesco M. Donini
+journals/procedia/AswadTL12;Mustafa Aswad
+journals/procedia/AswadTL12;Philip W. Trinder
+journals/procedia/AswadTL12;Hans-Wolfgang Loidl
+journals/procedia/OgitaM12;Yoshihiro Ogita
+journals/procedia/OgitaM12;Hiroyuki Mori
+journals/procedia/LazimAA11;Mohammed T. Lazim
+journals/procedia/LazimAA11;Muthanna J. M. Al-khishali
+journals/procedia/LazimAA11;Ahmed Isa. Al-Shawi
+journals/procedia/ZeshanM12;Furkh Zeshan
+journals/procedia/ZeshanM12;Radziah Mohamad
+journals/procedia/LesserMG11;Bernd Lesser
+journals/procedia/LesserMG11;Manfred Mücke
+journals/procedia/LesserMG11;Wilfried N. Gansterer
+journals/procedia/MeechP11;John Meech
+journals/procedia/MeechP11;Juliana Parreira
+journals/procedia/BlantonMFKKLLDK12;Brian Blanton
+journals/procedia/BlantonMFKKLLDK12;John McGee
+journals/procedia/BlantonMFKKLLDK12;Jason Fleming
+journals/procedia/BlantonMFKKLLDK12;Carola Kaiser
+journals/procedia/BlantonMFKKLLDK12;Hartmut Kaiser
+journals/procedia/BlantonMFKKLLDK12;Howard Lander
+journals/procedia/BlantonMFKKLLDK12;Rick A. Luettich
+journals/procedia/BlantonMFKKLLDK12;Kendra Dresback
+journals/procedia/BodnerWWK13;Douglas A. Bodner
+journals/procedia/BodnerWWK13;Jon P. Wade
+journals/procedia/BodnerWWK13;William R. Watson
+journals/procedia/BodnerWWK13;George I. Kamberov
+journals/procedia/Kedar-DongarkarD12;Gurunath Kedar-Dongarkar
+journals/procedia/Kedar-DongarkarD12;Manohar Das
+journals/procedia/WangWT12;Wen-Li Wang
+journals/procedia/WangWT12;Robert Weissbach
+journals/procedia/WangWT12;Mei-Huei Tang
+journals/procedia/YangKL11;Xin-She Yang
+journals/procedia/YangKL11;Slawomir Koziel
+journals/procedia/YangKL11;Leifur Þ. Leifsson
+journals/procedia/KimS12;Hyunuk Kim
+journals/procedia/KimS12;Ha Yoon Song
+journals/procedia/TisseraPL12;Pablo Cristian Tissera
+journals/procedia/TisseraPL12;A. Marcela Printista
+journals/procedia/TisseraPL12;Emilio Luque
+journals/procedia/BernabeuaK11;Miguel O. Bernabeu
+journals/procedia/BernabeuaK11;David Kay
+journals/procedia/SilvaRLS11;Thais R. M. Braga Silva
+journals/procedia/SilvaRLS11;Linnyer Beatrys Ruiz
+journals/procedia/SilvaRLS11;Antonio Alfredo Ferreira Loureiro
+journals/procedia/SilvaRLS11;Fabrício A. Silva
+journals/procedia/DouglasQCG11;Craig C. Douglas
+journals/procedia/DouglasQCG11;Guan Qin
+journals/procedia/DouglasQCG11;Nathan O. Collier
+journals/procedia/DouglasQCG11;Bin Gong
+journals/procedia/ErraF12;Ugo Erra
+journals/procedia/ErraF12;Bernardino Frola
+journals/procedia/Curry12;David M. Curry
+journals/procedia/Montgomery13;Paul R. Montgomery
+journals/procedia/VotintsevaWG11;Anjelika Votintseva
+journals/procedia/VotintsevaWG11;Petra Witschel
+journals/procedia/VotintsevaWG11;A. Goedecke
+journals/procedia/CabreraTIEL11;Eduardo Cabrera
+journals/procedia/CabreraTIEL11;Manel Taboada
+journals/procedia/CabreraTIEL11;Ma Luisa Iglesias
+journals/procedia/CabreraTIEL11;Francisco Epelde
+journals/procedia/CabreraTIEL11;Emilio Luque
+journals/procedia/Ismail13;Mohamed Ismail
+journals/procedia/LucaELA11;Valerio De Luca
+journals/procedia/LucaELA11;Italo Epicoco
+journals/procedia/LucaELA11;Daniele Lezzi
+journals/procedia/LucaELA11;Giovanni Aloisio
+journals/procedia/SaladoN13a;Alejandro Salado
+journals/procedia/SaladoN13a;Roshanak Nilchiani
+journals/procedia/FrascaCR11;Michael R. Frasca
+journals/procedia/FrascaCR11;Anirban Chatterjee
+journals/procedia/FrascaCR11;Padma Raghavan
+journals/procedia/ChibaS12;Ryunosuke Chiba
+journals/procedia/ChibaS12;Mika Sato-Ilic
+journals/procedia/QianLZ12;Junyan Qian
+journals/procedia/QianLZ12;Min Li
+journals/procedia/QianLZ12;Lingzhong Zhao
+journals/procedia/KohlerSFL12;Sven Köhler 0003
+journals/procedia/KohlerSFL12;Phillip Seitzer
+journals/procedia/KohlerSFL12;Marc T. Facciotti
+journals/procedia/KohlerSFL12;Bertram Ludäscher
+journals/procedia/KohlerSFL12;5624
+journals/procedia/AkhmatskayaR11;Elena Akhmatskaya
+journals/procedia/AkhmatskayaR11;Sebastian Reich
+journals/procedia/AjamiAR12;Racha Ajami
+journals/procedia/AjamiAR12;Nabeel Al-Qirim
+journals/procedia/AjamiAR12;Noha Ramadan
+journals/procedia/Chen12;Weiqin Chen
+journals/procedia/TurnerJAL11;Claude Turner
+journals/procedia/TurnerJAL11;Anthony Joseph
+journals/procedia/TurnerJAL11;Murat Aksu
+journals/procedia/TurnerJAL11;Heather Langdond
+journals/procedia/RukozCA12;Marta Rukoz
+journals/procedia/RukozCA12;Yudith Cardinale
+journals/procedia/RukozCA12;Rafael Angarita
+journals/procedia/GarouiM12;Mohamed Garoui
+journals/procedia/GarouiM12;Belhassen Mazigh
+journals/procedia/Tirado-RamosS11;Alfredo Tirado-Ramos
+journals/procedia/Tirado-RamosS11;Angela B. Shiflet
+journals/procedia/OostendorpK12;Herre van Oostendorp
+journals/procedia/OostendorpK12;Saraschandra Karanam
+journals/procedia/KurowskiOPW12;Krzysztof Kurowski
+journals/procedia/KurowskiOPW12;Ariel Oleksiak
+journals/procedia/KurowskiOPW12;Wojciech Piatek
+journals/procedia/KurowskiOPW12;Jan Weglarz
+journals/procedia/EmotoI12;Kento Emoto
+journals/procedia/EmotoI12;Hiroto Imachi
+journals/procedia/JiL12;Hao Ji
+journals/procedia/JiL12;Yaohang Li
+journals/procedia/LiHA12;Jing Li
+journals/procedia/LiHA12;Jin He
+journals/procedia/LiHA12;Anish Arora
+journals/procedia/BellottiBGLDORUM12;Francesco Bellotti
+journals/procedia/BellottiBGLDORUM12;Riccardo Berta
+journals/procedia/BellottiBGLDORUM12;Alessandro De Gloria
+journals/procedia/BellottiBGLDORUM12;Elisa Lavagnino
+journals/procedia/BellottiBGLDORUM12;Francesca Maria Dagnino
+journals/procedia/BellottiBGLDORUM12;Michela Ott
+journals/procedia/BellottiBGLDORUM12;Margarida Romero
+journals/procedia/BellottiBGLDORUM12;Mireia Usart
+journals/procedia/BankheadMSBMS11;Armand Bankhead III
+journals/procedia/BankheadMSBMS11;Emiliano Mancini
+journals/procedia/BankheadMSBMS11;Amy C. Sims
+journals/procedia/BankheadMSBMS11;Ralph S. Baric
+journals/procedia/BankheadMSBMS11;Shannon K. McWeeney
+journals/procedia/BankheadMSBMS11;Peter M. A. Sloot
+journals/procedia/ChristenS12;Matthias Christen
+journals/procedia/ChristenS12;Olaf Schenk
+journals/procedia/TowhidnejadFSM13;Massood Towhidnejad
+journals/procedia/TowhidnejadFSM13;Timothy L. J. Ferris
+journals/procedia/TowhidnejadFSM13;Alice Squires
+journals/procedia/TowhidnejadFSM13;Ray Madachy
+journals/procedia/SzyjaPGHS11;Bartlomiej Szyja
+journals/procedia/SzyjaPGHS11;Evgeny Pidko
+journals/procedia/SzyjaPGHS11;Ramon Groote
+journals/procedia/SzyjaPGHS11;Emiel Hensen
+journals/procedia/SzyjaPGHS11;Rint Sijbesma
+journals/procedia/BozejkoHUW12;Wojciech Bozejko
+journals/procedia/BozejkoHUW12;Zdzilaw Hejducki
+journals/procedia/BozejkoHUW12;Mariusz Uchronski
+journals/procedia/BozejkoHUW12;Mieczyslaw Wodecki
+journals/procedia/SchreinerW12;Michael W. Schreiner
+journals/procedia/SchreinerW12;Joseph R. Wirthlin
+journals/procedia/FathyRBRB12;Mahmood Fathy
+journals/procedia/FathyRBRB12;Kaamran Raahemifar
+journals/procedia/FathyRBRB12;Hamideh Babaei
+journals/procedia/FathyRBRB12;Morteza Romoozi
+journals/procedia/FathyRBRB12;Reza Berangi
+journals/procedia/DanenasGG11;Paulius Danenas
+journals/procedia/DanenasGG11;Gintautas Garsva
+journals/procedia/DanenasGG11;Saulius Gudas
+journals/procedia/Tobisch11;Sven Tobisch
+journals/procedia/AndersonMK12;Justin Anderson
+journals/procedia/AndersonMK12;Kouider Mokhtari
+journals/procedia/AndersonMK12;Arun Kulkarni
+journals/procedia/MagliocchettiGVCA11;Daniele Magliocchetti
+journals/procedia/MagliocchettiGVCA11;Martin Gielow
+journals/procedia/MagliocchettiGVCA11;Federico De Vigili
+journals/procedia/MagliocchettiGVCA11;Giuseppe Conti
+journals/procedia/MagliocchettiGVCA11;Raffaele de Amicis
+journals/procedia/KatayamaYIMWM11;Kotoe Katayama
+journals/procedia/KatayamaYIMWM11;Rui Yamaguchi
+journals/procedia/KatayamaYIMWM11;Seiya Imoto
+journals/procedia/KatayamaYIMWM11;Keiko Matsuura
+journals/procedia/KatayamaYIMWM11;Kenji Watanabe
+journals/procedia/KatayamaYIMWM11;Satoru Miyano
+journals/procedia/YuceGB12;Yilmaz Kemal Yüce
+journals/procedia/YuceGB12;Kemal Hakan Gülkesen
+journals/procedia/YuceGB12;Ebru Nur Barcin
+journals/procedia/SuerSAKPA12;Gürsel A. Süer
+journals/procedia/SuerSAKPA12;Arkopaul Sarkar
+journals/procedia/SuerSAKPA12;Aslican Arinsoy
+journals/procedia/SuerSAKPA12;Philip Appiah Kubi
+journals/procedia/SuerSAKPA12;Kevin Plis
+journals/procedia/SuerSAKPA12;Melih Altun
+journals/procedia/FerreiraF12a;Susan Ferreira
+journals/procedia/FerreiraF12a;Misagh Faezipour
+journals/procedia/KivelevitchCK11;Elad Kivelevitch
+journals/procedia/KivelevitchCK11;Kelly Cohen
+journals/procedia/KivelevitchCK11;Manish Kumar
+journals/procedia/LopezIE12;Nicolas Lopez
+journals/procedia/LopezIE12;Carlos Ituarte
+journals/procedia/LopezIE12;Jose F. Espiritu
+journals/procedia/GuoWSC12;Kun Guo
+journals/procedia/GuoWSC12;Jue Wang
+journals/procedia/GuoWSC12;Gushan Shi
+journals/procedia/GuoWSC12;Xuehui Cao
+journals/procedia/UlbrichtVAVQMF12;Vania R. Ulbricht
+journals/procedia/UlbrichtVAVQMF12;Tarcísio Vanzin
+journals/procedia/UlbrichtVAVQMF12;Marília Amaral
+journals/procedia/UlbrichtVAVQMF12;Vilma Villarouco
+journals/procedia/UlbrichtVAVQMF12;Silvia Regina P. de Quevedo
+journals/procedia/UlbrichtVAVQMF12;Luís Augusto Machado Moretto
+journals/procedia/UlbrichtVAVQMF12;Angela R. B. Flores
+journals/procedia/PogaruMDM13;Satya S. Pogaru
+journals/procedia/PogaruMDM13;Michael Z. Miller
+journals/procedia/PogaruMDM13;Scott J. Duncan
+journals/procedia/PogaruMDM13;Dimitri N. Mavris
+journals/procedia/GepnerGF12;Pawel Gepner
+journals/procedia/GepnerGF12;Victor Gamayunov
+journals/procedia/GepnerGF12;David L. Fraser
+journals/procedia/DuboisCP11;Jérôme Dubois
+journals/procedia/DuboisCP11;Christophe Calvin
+journals/procedia/DuboisCP11;Serge G. Petiton
+journals/procedia/NinoSA12;Elias D. Niño
+journals/procedia/NinoSA12;Adrian Sandu
+journals/procedia/NinoSA12;Jeffrey L. Anderson
+journals/procedia/SokolovAH12;Vadim Sokolov
+journals/procedia/SokolovAH12;Joshua Auld
+journals/procedia/SokolovAH12;Michael Hope
+journals/procedia/SaladoN13;Alejandro Salado
+journals/procedia/SaladoN13;Roshanak Nilchiani
+journals/procedia/JaishankarP11;S. Jaishankar
+journals/procedia/JaishankarP11;R. N. Pralhad
+journals/procedia/Chena12;Zhengxin Chena
+journals/procedia/RoseW12;Christopher W. Rose
+journals/procedia/RoseW12;Joseph R. Wirthlin
+journals/procedia/RibeiroP12;Alice Ribeiro
+journals/procedia/RibeiroP12;Lília Aguardenteiro Pires
+journals/procedia/YanJKPSTM12;Mi Yan
+journals/procedia/YanJKPSTM12;Kirk E. Jordan
+journals/procedia/YanJKPSTM12;Dinesh K. Kaushik
+journals/procedia/YanJKPSTM12;Michael Perrone
+journals/procedia/YanJKPSTM12;Vipin Sachdeva
+journals/procedia/YanJKPSTM12;Timothy J. Tautges
+journals/procedia/YanJKPSTM12;John Magerlein
+journals/procedia/RouachedS12;Mohsen Rouached
+journals/procedia/RouachedS12;Hassen Sallay
+journals/procedia/AwuorDN11;Fredrick Mzee Awuor
+journals/procedia/AwuorDN11;Karim Djouani
+journals/procedia/AwuorDN11;Guillaume Noel
+journals/procedia/Satoh11;Ichiro Satoh
+journals/procedia/KumarBTD12;Jitendra Kumar
+journals/procedia/KumarBTD12;Bjørn-Gustaf J. Brooks
+journals/procedia/KumarBTD12;Peter E. Thornton
+journals/procedia/KumarBTD12;Michael C. Dietze
+journals/procedia/HusseiniMHM11;Anas El Husseini
+journals/procedia/HusseiniMHM11;Abdallah M'hamed
+journals/procedia/HusseiniMHM11;Bachar El-Hassan
+journals/procedia/HusseiniMHM11;Mounir Mokhtari
+journals/procedia/CuratelliM12;Francesco Curatelli
+journals/procedia/CuratelliM12;Chiara Martinengo
+journals/procedia/Al-RahmaniRN12;Ahmed H. Al-Rahmani
+journals/procedia/Al-RahmaniRN12;Hayder A. Rasheed
+journals/procedia/Al-RahmaniRN12;Yacoub Najjar
+journals/procedia/Shaban-NejadRCRBTFB12;Arash Shaban-Nejad
+journals/procedia/Shaban-NejadRCRBTFB12;Alexandre Riazanov
+journals/procedia/Shaban-NejadRCRBTFB12;Katia M. L. Charland
+journals/procedia/Shaban-NejadRCRBTFB12;Gregory W. Rose
+journals/procedia/Shaban-NejadRCRBTFB12;Christopher J. O. Baker
+journals/procedia/Shaban-NejadRCRBTFB12;Robyn Tamblyn
+journals/procedia/Shaban-NejadRCRBTFB12;Alan J. Forster
+journals/procedia/Shaban-NejadRCRBTFB12;David L. Buckeridge
+journals/procedia/KiiliP12;Kristian Kiili
+journals/procedia/KiiliP12;Pauliina Tuomi
+journals/procedia/KiiliP12;Arttu Perttula
+journals/procedia/JonesS12;Hazaël Jones
+journals/procedia/JonesS12;Nicolas Sabouret
+journals/procedia/BeranMSV11;Peter Paul Beran
+journals/procedia/BeranMSV11;Werner Mach
+journals/procedia/BeranMSV11;Erich Schikuta
+journals/procedia/BeranMSV11;Ralph Vigne
+journals/procedia/DomkeW12;Jens Domke
+journals/procedia/DomkeW12;Dali Wang
+journals/procedia/Leung12;Tim Leung
+journals/procedia/BalisKBBGNB11;Bartosz Balis
+journals/procedia/BalisKBBGNB11;Marek Kasztelnik
+journals/procedia/BalisKBBGNB11;Marian Bubak
+journals/procedia/BalisKBBGNB11;Tomasz Bartynski
+journals/procedia/BalisKBBGNB11;Tomasz Gubala
+journals/procedia/BalisKBBGNB11;Piotr Nowakowski
+journals/procedia/BalisKBBGNB11;Jeroen Broekhuijsen
+journals/procedia/SalernoSU11;Steven Salerno
+journals/procedia/SalernoSU11;Ameya Sanzgiri
+journals/procedia/SalernoSU11;Shambhu Upadhyaya
+journals/procedia/CaloCPP11;Victor M. Calo
+journals/procedia/CaloCPP11;Nathan O. Collier
+journals/procedia/CaloCPP11;David Pardo
+journals/procedia/CaloCPP11;Maciej Paszynski
+journals/procedia/HarisD11;Khaled Haris
+journals/procedia/HarisD11;Cihan H. Dagli
+journals/procedia/Muller12a;George Muller
+journals/procedia/CencerradoCM12a;Andrés Cencerrado
+journals/procedia/CencerradoCM12a;Ana Cortés
+journals/procedia/CencerradoCM12a;Tomàs Margalef
+journals/procedia/Yoshida11;Norio Yoshida
+journals/procedia/Muller13;Gerrit Muller
+journals/procedia/ShinH12;Jong-Ho Shin
+journals/procedia/ShinH12;Jonwoon Hwang
+journals/procedia/LandMBQHMP12;Walker H. Land Jr.
+journals/procedia/LandMBQHMP12;Xinpei Ma
+journals/procedia/LandMBQHMP12;Erin Barnes
+journals/procedia/LandMBQHMP12;Xingye Qiao
+journals/procedia/LandMBQHMP12;John J. Heine
+journals/procedia/LandMBQHMP12;Timothy Masters
+journals/procedia/LandMBQHMP12;Jin-Woo Park
+journals/procedia/ChiJ11;Hongmei Chi
+journals/procedia/ChiJ11;Harsh Jain
+journals/procedia/WangLCCH11;Shuen-Tai Wang
+journals/procedia/WangLCCH11;Chin-Hung Li
+journals/procedia/WangLCCH11;Hsi-Ya Chang
+journals/procedia/WangLCCH11;Ying-Chuan Chen
+journals/procedia/WangLCCH11;Ching-Hsien Hsu
+journals/procedia/AbuBekrCHM11;Jewahir AbuBekr
+journals/procedia/AbuBekrCHM11;Igor Chikalov
+journals/procedia/AbuBekrCHM11;Shahid Hussain
+journals/procedia/AbuBekrCHM11;Mikhail Moshkov
+journals/procedia/ParadisDMT12;Rosemary D. Paradis
+journals/procedia/ParadisDMT12;Daniel Davenport
+journals/procedia/ParadisDMT12;David Menaker
+journals/procedia/ParadisDMT12;Sarah M. Taylor
+journals/procedia/StelmachKSK11;Marcin Stelmach
+journals/procedia/StelmachKSK11;Bartosz Kryza
+journals/procedia/StelmachKSK11;Renata Slota
+journals/procedia/StelmachKSK11;Jacek Kitowski
+journals/procedia/WuL12;Wei Wu
+journals/procedia/WuL12;Andy G. Lozowski
+journals/procedia/SivanathanLLR12;Aparajithan Sivanathan
+journals/procedia/SivanathanLLR12;Theodore Lim
+journals/procedia/SivanathanLLR12;Sandy Louchart
+journals/procedia/SivanathanLLR12;James M. Ritchie
+journals/procedia/MaO11;Eddie Yee-Tak Ma
+journals/procedia/MaO11;Charlie Obimbo
+journals/procedia/MiyamotoKHSMKUNT11;Hiroki Miyamoto
+journals/procedia/MiyamotoKHSMKUNT11;Daijiro Komaki
+journals/procedia/MiyamotoKHSMKUNT11;Takahiro Hara
+journals/procedia/MiyamotoKHSMKUNT11;Kentaro Shimatani
+journals/procedia/MiyamotoKHSMKUNT11;Tomohiro Mashita
+journals/procedia/MiyamotoKHSMKUNT11;Kiyoshi Kiyokawa
+journals/procedia/MiyamotoKHSMKUNT11;Toshiaki Uemukai
+journals/procedia/MiyamotoKHSMKUNT11;Shojiro Nishio
+journals/procedia/SatoMM11;Ken Sato
+journals/procedia/SatoMM11;Koichi Miyazaki
+journals/procedia/SatoMM11;Junji Mawaribuchi
+journals/procedia/VatsavaiSCJ11;Ranga Raju Vatsavai
+journals/procedia/VatsavaiSCJ11;Christopher T. Symons
+journals/procedia/VatsavaiSCJ11;Varun Chandola
+journals/procedia/VatsavaiSCJ11;Goo Jun
+journals/procedia/BalasubramanianTC11;Sukanya Balasubramanian
+journals/procedia/BalasubramanianTC11;Fouad Teymour
+journals/procedia/BalasubramanianTC11;Ali Cinar
+journals/procedia/YangZR11;HaoFan Yang
+journals/procedia/YangZR11;Jinglan Zhang
+journals/procedia/YangZR11;Paul Roe
+journals/procedia/VirsedaM11;Rafael del Vado Vírseda
+journals/procedia/VirsedaM11;Fernando Pérez Morente
+journals/procedia/ObimboJ12;Charlie Obimbo
+journals/procedia/ObimboJ12;Matthew Jones
+journals/procedia/BraunCGI12;Tobias Braun
+journals/procedia/BraunCGI12;Dennis Christmann
+journals/procedia/BraunCGI12;Reinhard Gotzhein
+journals/procedia/BraunCGI12;Anuschka Igel
+journals/procedia/HillenbrandTB11;Dominic Hillenbrand
+journals/procedia/HillenbrandTB11;Jie Tao
+journals/procedia/HillenbrandTB11;Matthias Balzer
+journals/procedia/CantorKD11;Yuri Cantor
+journals/procedia/CantorKD11;Bilal Khan
+journals/procedia/CantorKD11;Kirk Dombrowski
+journals/procedia/HasertBR11;Manuel Hasert
+journals/procedia/HasertBR11;Jörg Bernsdorf
+journals/procedia/HasertBR11;Sabine Roller
+journals/procedia/Yilmaz11;Muhittin Yilmaz
+journals/procedia/DaneluttoC12;Marco Danelutto
+journals/procedia/DaneluttoC12;Roberto Di Cosmo
+journals/procedia/FeukeuDK12;E. A. Feukeu
+journals/procedia/FeukeuDK12;Karim Djouani
+journals/procedia/FeukeuDK12;Anish M. Kurien
+journals/procedia/GuarinielloD13;Cesare Guariniello
+journals/procedia/GuarinielloD13;Daniel DeLaurentis
+journals/procedia/OliveiraS12;S. Oliveira
+journals/procedia/OliveiraS12;D. E. Stewart
+journals/procedia/KukrejaPBP13;Nupul Kukreja
+journals/procedia/KukrejaPBP13;Sheetal Swaroop Payyavula
+journals/procedia/KukrejaPBP13;Barry W. Boehm
+journals/procedia/KukrejaPBP13;Srinivas Padmanabhuni
+journals/procedia/GepnerGF11;Pawel Gepner
+journals/procedia/GepnerGF11;Victor Gamayunov
+journals/procedia/GepnerGF11;David L. Fraser
+journals/procedia/MikkonenS12;Tommi Mikkonen
+journals/procedia/MikkonenS12;Arto Salminen
+journals/procedia/ThoorisP11;Bruno Thooris
+journals/procedia/ThoorisP11;Daniel Pomarède
+journals/procedia/DempseyBA12;Kathryn Dempsey
+journals/procedia/DempseyBA12;Sanjukta Bhowmick
+journals/procedia/DempseyBA12;Hesham H. Ali
+journals/procedia/WagnerKN12;Michael Wagner 0003
+journals/procedia/WagnerKN12;Andreas Knüpfer
+journals/procedia/WagnerKN12;Wolfgang E. Nagel
+journals/procedia/GoetschalckxHM13;Marc Goetschalckx
+journals/procedia/GoetschalckxHM13;Edward Huang
+journals/procedia/GoetschalckxHM13;Pratik Mital
+journals/procedia/PaszynskaS11;Anna Paszynska
+journals/procedia/PaszynskaS11;Marcin Stozek
+journals/procedia/ShakshukiY11;Elhadi Shakshuki
+journals/procedia/ShakshukiY11;Muhammad Younas
+journals/procedia/ElsayedLWFB12;Ibrahim Elsayed
+journals/procedia/ElsayedLWFB12;Thomas Ludescher
+journals/procedia/ElsayedLWFB12;Alexander Wöhrer
+journals/procedia/ElsayedLWFB12;Thomas Feilhauer
+journals/procedia/ElsayedLWFB12;Peter Brezany
+journals/procedia/KhosravifarBAG11;Babak Khosravifar
+journals/procedia/KhosravifarBAG11;Jamal Bentahar
+journals/procedia/KhosravifarBAG11;Mahsa Alishahi
+journals/procedia/KhosravifarBAG11;Maziar Gomrokchi
+journals/procedia/BakerBD12;Paul M. A. Baker
+journals/procedia/BakerBD12;Keith R. Bujak
+journals/procedia/BakerBD12;Rich DeMillo
+journals/procedia/BihlerIC11;Pascal Bihler
+journals/procedia/BihlerIC11;Paul Imhoff
+journals/procedia/BihlerIC11;Armin B. Cremers
+journals/procedia/WeiaC11;Wenjie Wei
+journals/procedia/WeiaC11;Omar al-Khayat
+journals/procedia/WeiaC11;Xing Cai
+journals/procedia/MoraesB12;Elisabete Nakoneczny Moraes
+journals/procedia/MoraesB12;Leandro Buss Becker
+journals/procedia/CaloPP11;Victor M. Calo
+journals/procedia/CaloPP11;David Pardo
+journals/procedia/CaloPP11;Maciej Paszynski
+journals/procedia/BayrakliE12;Selim Bayrakli
+journals/procedia/BayrakliE12;Senol Zafer Erdogan
+journals/procedia/LuMW11;Yu Lu
+journals/procedia/LuMW11;Mehul Motani
+journals/procedia/LuMW11;Wai-Choong Wong
+journals/procedia/LiuLL11;Hong Liu
+journals/procedia/LiuLL11;Hui Li
+journals/procedia/LiuLL11;Zhong-Yuan Lu
+journals/procedia/KrolKWDK12;Dariusz Król 0002
+journals/procedia/KrolKWDK12;Bartosz Kryza
+journals/procedia/KrolKWDK12;Michal Wrzeszcz
+journals/procedia/KrolKWDK12;Lukasz Dutka
+journals/procedia/KrolKWDK12;Jacek Kitowski
+journals/procedia/MnaouerBA12;Adel Ben Mnaouer
+journals/procedia/MnaouerBA12;Abdelfettah Belghith
+journals/procedia/MnaouerBA12;Mohamed Aissa
+journals/procedia/HeydariD12;Babak Heydari
+journals/procedia/HeydariD12;Kia Dalili
+journals/procedia/MercerRL11;Andrew E. Mercer
+journals/procedia/MercerRL11;Michael B. Richman
+journals/procedia/MercerRL11;Lance M. Leslie
+journals/procedia/ArakawaYSO11;Takashi Arakawa
+journals/procedia/ArakawaYSO11;Hiromasa Yoshimura
+journals/procedia/ArakawaYSO11;Fuyuki Saito
+journals/procedia/ArakawaYSO11;Koji Ogochi
+journals/procedia/Ituarte-VillarrealLE12;Carlos M. Ituarte-Villarreal
+journals/procedia/Ituarte-VillarrealLE12;Nicolas Lopez
+journals/procedia/Ituarte-VillarrealLE12;Jose F. Espiritu
+journals/procedia/NattermannA13;Roland Nattermann
+journals/procedia/NattermannA13;Reiner Anderl
+journals/procedia/DadfarniaLKF13;Mehdi Dadfarnia
+journals/procedia/DadfarniaLKF13;Y. Tina Lee
+journals/procedia/DadfarniaLKF13;Deogratias Kibira
+journals/procedia/DadfarniaLKF13;Allison Barnard Feeney
+journals/procedia/CamposLS11;Ricardo Silva Campos
+journals/procedia/CamposLS11;Marcelo Lobosco
+journals/procedia/CamposLS11;Rodrigo Weber dos Santos
+journals/procedia/Li-Thiao-Te12a;Sébastien Li-Thiao-Té
+journals/procedia/CuiF11;Tao Cui
+journals/procedia/CuiF11;Franz Franchetti
+journals/procedia/ZhangKJ12;Qinglei Zhang
+journals/procedia/ZhangKJ12;Ridha Khédri
+journals/procedia/ZhangKJ12;Jason Jaskolka
+journals/procedia/PanitanarakS11;Thap Panitanarak
+journals/procedia/PanitanarakS11;Suzanne M. Shontz
+journals/procedia/SerpenL12;Gürsel Serpen
+journals/procedia/SerpenL12;Jiakai Li
+journals/procedia/Gosavi12;Abhijit Gosavi
+journals/procedia/LakhalC12;Raja Ben Lakhal
+journals/procedia/LakhalC12;Walid Chainbi
+journals/procedia/LiS11a;Jiakai Li
+journals/procedia/LiS11a;Gürsel Serpen
+journals/procedia/KlugeHN12;Michael Kluge
+journals/procedia/KlugeHN12;Daniel Hackenberg
+journals/procedia/KlugeHN12;Wolfgang E. Nagel
+journals/procedia/PalmerKKB12;Nicholas Palmer
+journals/procedia/PalmerKKB12;Roelof Kemp
+journals/procedia/PalmerKKB12;Thilo Kielmann
+journals/procedia/PalmerKKB12;Henri E. Bal
+journals/procedia/GuermaziA11;Abderrahmen Guermazi
+journals/procedia/GuermaziA11;Mohamed Abid
+journals/procedia/Agusdinata13;Datu Buyung Agusdinata
+journals/procedia/MalawskiMBG11;Maciej Malawski
+journals/procedia/MalawskiMBG11;Jan Meizner
+journals/procedia/MalawskiMBG11;Marian Bubak
+journals/procedia/MalawskiMBG11;Pawel Gepner
+journals/procedia/Cadzow11;Scott Cadzow
+journals/procedia/LeifssonKAMG12;Leifur Þ. Leifsson
+journals/procedia/LeifssonKAMG12;Slawomir Koziel
+journals/procedia/LeifssonKAMG12;Fannar Andrason
+journals/procedia/LeifssonKAMG12;Kristjan Magnusson
+journals/procedia/LeifssonKAMG12;Armann Gylfason
+journals/procedia/Land12;Walker H. Land Jr.
+journals/procedia/KelseyK11;Tom Kelsey
+journals/procedia/KelseyK11;Lars Kotthoff
+journals/procedia/PatraBDJPPSSW12;Abani K. Patra
+journals/procedia/PatraBDJPPSSW12;Marcus Bursik
+journals/procedia/PatraBDJPPSSW12;Jon Dehn
+journals/procedia/PatraBDJPPSSW12;Matthew D. Jones
+journals/procedia/PatraBDJPPSSW12;Michael Pavolonis
+journals/procedia/PatraBDJPPSSW12;E. Bruce Pitman
+journals/procedia/PatraBDJPPSSW12;Tarunraj Singh
+journals/procedia/PatraBDJPPSSW12;Puneet Singla
+journals/procedia/ZhongH11;Jianlong Zhong
+journals/procedia/ZhongH11;Bingsheng He
+journals/procedia/YangOS12;Le Yang
+journals/procedia/YangOS12;Zhongbin Ouyang
+journals/procedia/YangOS12;Yong Shi
+journals/procedia/Pape12;Louis E. Pape
+journals/procedia/Pape12;3866
+journals/procedia/PlantengaCY12;Todd D. Plantenga
+journals/procedia/PlantengaCY12;Yung Ryn Choe
+journals/procedia/PlantengaCY12;Ann Yoshimura
+journals/procedia/Haskins13;Cecilia Haskins
+journals/procedia/BouchardBB11;Kevin Bouchard
+journals/procedia/BouchardBB11;Bruno Bouchard
+journals/procedia/BouchardBB11;Abdenour Bouzouane
+journals/procedia/NeyEE12;Muriel Ney
+journals/procedia/NeyEE12;Valérie Emin
+journals/procedia/NeyEE12;Jeffrey Earp
+journals/procedia/JonesH11;Micah Jones
+journals/procedia/JonesH11;Kevin W. Hamlen
+journals/procedia/NottageC11;Dustin Nottage
+journals/procedia/NottageC11;Steven M. Corns
+journals/procedia/Serpen12;Gürsel Serpen
+journals/procedia/Serpen12;3998
+journals/procedia/TariqMAH11;Usman Tariq
+journals/procedia/TariqMAH11;Yasir Malik
+journals/procedia/TariqMAH11;Bessam Abdulrazak
+journals/procedia/TariqMAH11;Manpyo Hong
+journals/procedia/BendavidB11;Ygal Bendavid
+journals/procedia/BendavidB11;Harold Boeck
+journals/procedia/DiersenLSCW11;Steve Diersen
+journals/procedia/DiersenLSCW11;En-Jui Lee
+journals/procedia/DiersenLSCW11;Diana Spears
+journals/procedia/DiersenLSCW11;Po Chen
+journals/procedia/DiersenLSCW11;Liqiang Wang
+journals/procedia/CosgraveAT13;Ellie Cosgrave
+journals/procedia/CosgraveAT13;Kate Arbuthnot
+journals/procedia/CosgraveAT13;Theo Tryfonas
+journals/procedia/FoytikSA11;Jacob Foytik
+journals/procedia/FoytikSA11;Praveen Sankaran
+journals/procedia/FoytikSA11;Vijayan K. Asari
+journals/procedia/McDermottRGL13;Tom McDermott
+journals/procedia/McDermottRGL13;William Rouse
+journals/procedia/McDermottRGL13;Seymour E. Goodman
+journals/procedia/McDermottRGL13;Margaret L. Loper
+journals/procedia/PitskoV12;Robert Pitsko
+journals/procedia/PitskoV12;Dinesh Verma
+journals/procedia/KothariKGD12;Nisarg Kothari
+journals/procedia/KothariKGD12;Balajee Kannan
+journals/procedia/KothariKGD12;Evan D. Glasgwow
+journals/procedia/KothariKGD12;M. Bernardine Dias
+journals/procedia/MilnerVS13;Tyler Milner
+journals/procedia/MilnerVS13;Michael Volas
+journals/procedia/MilnerVS13;Albert Sanders
+journals/procedia/BayukHJ12;Jennifer L. Bayuk
+journals/procedia/BayukHJ12;Barry M. Horowitz
+journals/procedia/BayukHJ12;Rick A. Jones
+journals/procedia/CarrozzinoEBLB12;Marcello Carrozzino
+journals/procedia/CarrozzinoEBLB12;Chiara Evangelista
+journals/procedia/CarrozzinoEBLB12;Raffaello Brondi
+journals/procedia/CarrozzinoEBLB12;Cristian Lorenzini
+journals/procedia/CarrozzinoEBLB12;Massimo Bergamasco
+journals/procedia/ZhangHCCS12;Lingling Zhang
+journals/procedia/ZhangHCCS12;Caifeng Hu
+journals/procedia/ZhangHCCS12;Quan Chen
+journals/procedia/ZhangHCCS12;Yibing Chen
+journals/procedia/ZhangHCCS12;Yong Shi
+journals/procedia/ParkS11;Jeonghyung Park
+journals/procedia/ParkS11;Suzanne M. Shontz
+journals/procedia/JenW11;Chih-Hung Jen
+journals/procedia/JenW11;Jia-Ming Wang
+journals/procedia/ChemaaBC12;Sofiane Chemaa
+journals/procedia/ChemaaBC12;Fayçal Bachtarzi
+journals/procedia/ChemaaBC12;Allaoua Chaoui
+journals/procedia/Al-Qirim12;Nabeel Al-Qirim
+journals/procedia/MorraQYC11;Gabriele Morra
+journals/procedia/MorraQYC11;Leonardo Quevedo
+journals/procedia/MorraQYC11;Dave A. Yuen
+journals/procedia/MorraQYC11;Philippe Chatelain
+journals/procedia/AlbersZ13;Albert Albers
+journals/procedia/AlbersZ13;Christian Zingel
+journals/procedia/GretherNN12;D. Grether
+journals/procedia/GretherNN12;Andreas Neumann
+journals/procedia/GretherNN12;Kai Nagel
+journals/procedia/YabanaSOIB11;Kazuhiro Yabana
+journals/procedia/YabanaSOIB11;Y. Shinohara
+journals/procedia/YabanaSOIB11;T. Otobe
+journals/procedia/YabanaSOIB11;Jun-ichi Iwata
+journals/procedia/YabanaSOIB11;George F. Bertsch
+journals/procedia/StolikjCL12;Milosh Stolikj
+journals/procedia/StolikjCL12;Pieter J. L. Cuijpers
+journals/procedia/StolikjCL12;Johan J. Lukkien
+journals/procedia/AhmadBLG12;Manzoor Ahmad
+journals/procedia/AhmadBLG12;Jean-Michel Bruel
+journals/procedia/AhmadBLG12;Régine Laleau
+journals/procedia/AhmadBLG12;Christophe Gnaho
+journals/procedia/JosephL12;Anthony Joseph
+journals/procedia/JosephL12;Maurice Larrain
+journals/procedia/FulcolyRR12;Daniel O. Fulcoly
+journals/procedia/FulcolyRR12;Adam M. Ross
+journals/procedia/FulcolyRR12;Donna H. Rhodes
+journals/procedia/KalawskyJTF13;Roy S. Kalawsky
+journals/procedia/KalawskyJTF13;D. Joannou
+journals/procedia/KalawskyJTF13;Y. Tian
+journals/procedia/KalawskyJTF13;A. Fayoumi
+journals/procedia/BoteroC11;Oscar Botero
+journals/procedia/BoteroC11;Hakima Chaouchi
+journals/procedia/LopesVLRD12;Sérgio Ivan Lopes
+journals/procedia/LopesVLRD12;José Manuel Neto Vieira
+journals/procedia/LopesVLRD12;Óscar F. F. Lopes
+journals/procedia/LopesVLRD12;Pedro R. M. Rosa
+journals/procedia/LopesVLRD12;Nuno A. S. Dias
+journals/procedia/MorihataM11;Akimasa Morihata
+journals/procedia/MorihataM11;Kiminori Matsuzaki
+journals/procedia/XuLM11;Junfeng Xu
+journals/procedia/XuLM11;Keqiu Li
+journals/procedia/XuLM11;Geyong Min
+journals/procedia/MacedoU12;Cláudia Mara Scudelari de Macedo
+journals/procedia/MacedoU12;Vânia Ribas Ulbricht
+journals/procedia/BrennerKK12;Jurgen Brenner
+journals/procedia/BrennerKK12;Jörg Keller 0001
+journals/procedia/BrennerKK12;Christoph W. Kessler
+journals/procedia/HaqueMMP12;Ashraf Ul Haque
+journals/procedia/HaqueMMP12;Paras Mandal
+journals/procedia/HaqueMMP12;Julian Meng
+journals/procedia/HaqueMMP12;Ricardo L. Pineda
+journals/procedia/CornoR12;Fulvio Corno
+journals/procedia/CornoR12;Faisal Razzak
+journals/procedia/StarkeGWS12;Christoph Starke
+journals/procedia/StarkeGWS12;Vasco Grossmann
+journals/procedia/StarkeGWS12;Lars Wienbrandt
+journals/procedia/StarkeGWS12;Manfred Schimmler
+journals/procedia/Djaouti0HJKTCL12;Damien Djaouti
+journals/procedia/Djaouti0HJKTCL12;Emmanuel Dubois 0001
+journals/procedia/Djaouti0HJKTCL12;Minica Houry-Panchetti
+journals/procedia/Djaouti0HJKTCL12;Jean-Pierre Jessel
+journals/procedia/Djaouti0HJKTCL12;Marwene Kechiche
+journals/procedia/Djaouti0HJKTCL12;Patrice Torguet
+journals/procedia/Djaouti0HJKTCL12;Rémi Cabanac
+journals/procedia/Djaouti0HJKTCL12;Francis Lacassagne
+journals/procedia/AlhosbanAM12;Amal Alhosban
+journals/procedia/AlhosbanAM12;Ismail Ababneh
+journals/procedia/AlhosbanAM12;Zaki Malik
+journals/procedia/ZwartjesHSH12;Ardjan Zwartjes
+journals/procedia/ZwartjesHSH12;Paul J. M. Havinga
+journals/procedia/ZwartjesHSH12;Gerard J. M. Smit
+journals/procedia/ZwartjesHSH12;Johann L. Hurink
+journals/procedia/ZhouJ13;Feng Zhou
+journals/procedia/ZhouJ13;Roger Jianxin Jiao
+journals/procedia/WadhwaL13;Rhythm S. Wadhwa
+journals/procedia/WadhwaL13;Terje K. Lien
+journals/procedia/LomoteyD12;Richard K. Lomotey
+journals/procedia/LomoteyD12;Ralph Deters
+journals/procedia/ObimboZW11;Charlie Obimbo
+journals/procedia/ObimboZW11;Haochen Zhou
+journals/procedia/ObimboZW11;Ryan Wilson
+journals/procedia/JorgLK12;Brigitte Jörg
+journals/procedia/JorgLK12;Jaakko Lappalainen
+journals/procedia/JorgLK12;Kostas Kastrantas
+journals/procedia/RelloKB12;Luz Rello
+journals/procedia/RelloKB12;Gaurang Kanvinde
+journals/procedia/RelloKB12;Ricardo A. Baeza-Yates
+journals/procedia/DempseyDAB11;Kathryn Dempsey
+journals/procedia/DempseyDAB11;Kanimathi Duraisamy
+journals/procedia/DempseyDAB11;Hesham H. Ali
+journals/procedia/DempseyDAB11;Sanjukta Bhowmick
+journals/procedia/OlwellHPHEA13;David H. Olwell
+journals/procedia/OlwellHPHEA13;Devanandham Henry
+journals/procedia/OlwellHPHEA13;Arthur B. Pyster
+journals/procedia/OlwellHPHEA13;Nicole Hutchison
+journals/procedia/OlwellHPHEA13;Stephanie Enck
+journals/procedia/OlwellHPHEA13;James F. Anthony Jr.
+journals/procedia/IrelandRO12;Vernon Ireland
+journals/procedia/IrelandRO12;Barbara Rapaport
+journals/procedia/IrelandRO12;Amina Omarova
+journals/procedia/BozantaKNS12;Aysun Bozanta
+journals/procedia/BozantaKNS12;Birgul Kutlu
+journals/procedia/BozantaKNS12;Nuket Nowlan
+journals/procedia/BozantaKNS12;Shervin Shirmohammadi
+journals/procedia/AhmedAAA12;Ahmed Azzouna
+journals/procedia/AhmedAAA12;Amel Guezmil
+journals/procedia/AhmedAAA12;Anis Sakly
+journals/procedia/AhmedAAA12;Abdellatif Mtibaa
+journals/procedia/KellerC13;Shari Keller
+journals/procedia/KellerC13;Paul Collopy
+journals/procedia/SchroderOHH11;Simon Schröder
+journals/procedia/SchroderOHH11;Ferdinand Olawsky
+journals/procedia/SchroderOHH11;Martin Hering-Bertram
+journals/procedia/SchroderOHH11;Hans Hagen
+journals/procedia/LiAWF12;Jiancheng Li
+journals/procedia/LiAWF12;Yuan An
+journals/procedia/LiAWF12;Baohua Wang
+journals/procedia/LiAWF12;Weiwei Fang
+journals/procedia/YearworthEDBT13;Mike Yearworth
+journals/procedia/YearworthEDBT13;Gordon Edwards
+journals/procedia/YearworthEDBT13;John Davis
+journals/procedia/YearworthEDBT13;Katharina Burger
+journals/procedia/YearworthEDBT13;Adrian Terry
+journals/procedia/Kalawsky13;Roy S. Kalawsky
+journals/procedia/TabikVZR12;Siham Tabik
+journals/procedia/TabikVZR12;A. Villegas
+journals/procedia/TabikVZR12;Emilio L. Zapata
+journals/procedia/TabikVZR12;Luis F. Romero
+journals/procedia/VitaleROM11;Kevin Vitale
+journals/procedia/VitaleROM11;Robert G. Reynolds
+journals/procedia/VitaleROM11;John O'Shea
+journals/procedia/VitaleROM11;Guy Meadows
+journals/procedia/MatauschPP12;Kerstin Matausch
+journals/procedia/MatauschPP12;Birgit Peböck
+journals/procedia/MatauschPP12;Franz Pühretmair
+journals/procedia/Santana-MancillaGDJ12;Pedro C. Santana-Mancilla
+journals/procedia/Santana-MancillaGDJ12;Miguel A. García-Ruiz
+journals/procedia/Santana-MancillaGDJ12;Ricardo Acosta Diaz
+journals/procedia/Santana-MancillaGDJ12;Celso U. Juárez
+journals/procedia/SolarSL12;Roberto Solar
+journals/procedia/SolarSL12;Remo Suppi
+journals/procedia/SolarSL12;Emilio Luque
+journals/procedia/KingB12;Alden King
+journals/procedia/KingB12;Scott B. Baden
+journals/procedia/SmithCW13;Andrew R. Smith
+journals/procedia/SmithCW13;John M. Colombi
+journals/procedia/SmithCW13;Joseph R. Wirthlin
+journals/procedia/ComeauA11;Frank Comeau
+journals/procedia/ComeauA11;Nauman Aslam
+journals/procedia/MikiTM12;Yohei Miki
+journals/procedia/MikiTM12;Daisuke Takahashi
+journals/procedia/MikiTM12;Masao Mori
+journals/procedia/SezerCA11;Semih Sezer
+journals/procedia/SezerCA11;Saban Cetin
+journals/procedia/SezerCA11;Ali Erdem Atalay
+journals/procedia/WangCA12;Jianwu Wang
+journals/procedia/WangCA12;Daniel Crawl
+journals/procedia/WangCA12;Ilkay Altintas
+journals/procedia/BoehmLK13;Barry W. Boehm
+journals/procedia/BoehmLK13;Jo Ann Lane
+journals/procedia/BoehmLK13;Supannika Koolmanojwong
+journals/procedia/SchaferF11;Andreas Schäfer
+journals/procedia/SchaferF11;Dietmar Fey
+journals/procedia/HassanISY11;Ghada Hassan
+journals/procedia/HassanISY11;Hamidah Ibrahim
+journals/procedia/HassanISY11;Md Nasir Sulaiman
+journals/procedia/HassanISY11;Rasali Yakob
+journals/procedia/BrudaSMA12;Stefan D. Bruda
+journals/procedia/BrudaSMA12;Farzad Salehi
+journals/procedia/BrudaSMA12;Yasir Malik
+journals/procedia/BrudaSMA12;Bessam Abdulrazak
+journals/procedia/Amado-SalvatierraHH12;Hector R. Amado-Salvatierra
+journals/procedia/Amado-SalvatierraHH12;Rocael Hernández
+journals/procedia/Amado-SalvatierraHH12;José Ramón Hilera
+journals/procedia/FaniyiBT12;Funmilade Faniyi
+journals/procedia/FaniyiBT12;Rami Bahsoon
+journals/procedia/FaniyiBT12;Georgios Theodoropoulos
+journals/procedia/ShehadehEO12;Mahmoud Shehadeh
+journals/procedia/ShehadehEO12;Nader Ebrahimi
+journals/procedia/ShehadehEO12;Abel Ochigbo
+journals/procedia/KawaiHISW11;Yutaka Kawai
+journals/procedia/KawaiHISW11;Adil Hasan
+journals/procedia/KawaiHISW11;Go Iwai
+journals/procedia/KawaiHISW11;Takashi Sasaki
+journals/procedia/KawaiHISW11;Yoshiyuki Watase
+journals/procedia/JamalD11;Shomoyita Jamal
+journals/procedia/JamalD11;Ralph Deters
+journals/procedia/HuangC11;Chih-Ning Huang
+journals/procedia/HuangC11;Chia-Tai Chan
+journals/procedia/AchesonD12;Paulette Acheson
+journals/procedia/AchesonD12;Cihan H. Dagli
+journals/procedia/BasuY11;Kashinath Basu
+journals/procedia/BasuY11;Muhammad Younas
+journals/procedia/WangSC11;Su-Hua Wang
+journals/procedia/WangSC11;Durgesh Samadhiya
+journals/procedia/WangSC11;Dengjie Chen
+journals/procedia/SteedSTREB12;Chad A. Steed
+journals/procedia/SteedSTREB12;Galen M. Shipman
+journals/procedia/SteedSTREB12;Peter E. Thornton
+journals/procedia/SteedSTREB12;Daniel M. Ricciuto
+journals/procedia/SteedSTREB12;David Erickson
+journals/procedia/SteedSTREB12;Marcia L. Branstetter
+journals/procedia/FilipeFFSPB12;Vítor Filipe
+journals/procedia/FilipeFFSPB12;Filipe Fernandes
+journals/procedia/FilipeFFSPB12;Hugo Fernandes
+journals/procedia/FilipeFFSPB12;António Sousa
+journals/procedia/FilipeFFSPB12;Hugo Paredes
+journals/procedia/FilipeFFSPB12;João Barroso
+journals/procedia/ToumaNYE11;Tsuguhisa Touma
+journals/procedia/ToumaNYE11;Yuuki Nakama
+journals/procedia/ToumaNYE11;Koji Yamada
+journals/procedia/ToumaNYE11;Satoshi Endo
+journals/procedia/KatagiriV11;Takahiro Katagiri
+journals/procedia/KatagiriV11;Richard W. Vuduc
+journals/procedia/PereiraBPPBKK12;Gonçalo Pereira
+journals/procedia/PereiraBPPBKK12;António Brisson
+journals/procedia/PereiraBPPBKK12;Rui Prada
+journals/procedia/PereiraBPPBKK12;Ana Paiva
+journals/procedia/PereiraBPPBKK12;Francesco Bellotti
+journals/procedia/PereiraBPPBKK12;Milos Kravcik
+journals/procedia/PereiraBPPBKK12;Ralf Klamma
+journals/procedia/SchliephakeAL11;Michael Schliephake
+journals/procedia/SchliephakeAL11;Xavier Aguilar
+journals/procedia/SchliephakeAL11;Erwin Laure
+journals/procedia/GR11;G. Poornalatha
+journals/procedia/GR11;Prakash S. Raghavendra
+journals/procedia/GintingP11;Victor Ginting
+journals/procedia/GintingP11;Michael Presho
+journals/procedia/CarlsonT13;Robert Carlson
+journals/procedia/CarlsonT13;Richard Turner
+journals/procedia/Mirchandani12;Chandru Mirchandani
+journals/procedia/RapaportI12;Barbara Rapaport
+journals/procedia/RapaportI12;Vernon Ireland
+journals/procedia/LiYFS11;Jianping Li
+journals/procedia/LiYFS11;Shanli Yi
+journals/procedia/LiYFS11;Jichuang Feng
+journals/procedia/LiYFS11;Yong Shi
+journals/procedia/ShirotaSTK11;Yusuke Shirota
+journals/procedia/ShirotaSTK11;Jun'ichi Segawa
+journals/procedia/ShirotaSTK11;Masaya Tarui
+journals/procedia/ShirotaSTK11;Tatsunori Kanai
+journals/procedia/AlessiMB12;Ferdinando Alessi
+journals/procedia/AlessiMB12;Annalisa Massini
+journals/procedia/AlessiMB12;Roberto Basili
+journals/procedia/BansalFZWZ12;Naveen K. Bansal
+journals/procedia/BansalFZWZ12;Xin Feng
+journals/procedia/BansalFZWZ12;Wenjing Zhang
+journals/procedia/BansalFZWZ12;Wutao Wei
+journals/procedia/BansalFZWZ12;Yuanhao Zhao
+journals/procedia/Ait-Cheik-BihiBNGW11;Wafaa Ait-Cheik-Bihi
+journals/procedia/Ait-Cheik-BihiBNGW11;Mohamed Bakhouya
+journals/procedia/Ait-Cheik-BihiBNGW11;Ahmed Nait-Sidi-Moh
+journals/procedia/Ait-Cheik-BihiBNGW11;Jaafar Gaber
+journals/procedia/Ait-Cheik-BihiBNGW11;Maxime Wack
+journals/procedia/AzeemiLT13;Imran Khan Azeemi
+journals/procedia/AzeemiLT13;Mike Lewis
+journals/procedia/AzeemiLT13;Theo Tryfonas
+journals/procedia/PupunwiwatDS11;Prapassara Pupunwiwat
+journals/procedia/PupunwiwatDS11;Peter Darcy
+journals/procedia/PupunwiwatDS11;Bela Stantic
+journals/procedia/TaboadaCIEL11;Manel Taboada
+journals/procedia/TaboadaCIEL11;Eduardo Cabrera
+journals/procedia/TaboadaCIEL11;Ma Luisa Iglesias
+journals/procedia/TaboadaCIEL11;Francisco Epelde
+journals/procedia/TaboadaCIEL11;Emilio Luque
+journals/procedia/GeorgeV12;Cijo George
+journals/procedia/GeorgeV12;Sathish S. Vadhiyar
+journals/procedia/HsiaoMTD13;Chuck Hsiao
+journals/procedia/HsiaoMTD13;Richard Malak
+journals/procedia/HsiaoMTD13;Irem Y. Tumer
+journals/procedia/HsiaoMTD13;Toni Doolen
+journals/procedia/Ginting12;Victor Ginting
+journals/procedia/CollierRDC11;Nathan O. Collier
+journals/procedia/CollierRDC11;Hany Radwan
+journals/procedia/CollierRDC11;Lisandro Dalcín
+journals/procedia/CollierRDC11;Victor M. Calo
+journals/procedia/RyanJRC13;E. Ryan
+journals/procedia/RyanJRC13;D. Jacques
+journals/procedia/RyanJRC13;J. Ritschel
+journals/procedia/RyanJRC13;J. Colombi
+journals/procedia/AdlerD12;Charles O. Adler
+journals/procedia/AdlerD12;Cihan H. Dagli
+journals/procedia/Kasser12;Joseph E. Kasser
+journals/procedia/El-AminSS12;Mohamed Fathy El-Amin
+journals/procedia/El-AminSS12;Amgad Salama
+journals/procedia/El-AminSS12;Shuyu Sun
+journals/procedia/ClarkeADB12;Samantha Clarke
+journals/procedia/ClarkeADB12;Sylvester Arnab
+journals/procedia/ClarkeADB12;Ian Dunwell
+journals/procedia/ClarkeADB12;Katherine Brown
+journals/procedia/TsukakoshiI12;Kiyoshi Tsukakoshi
+journals/procedia/TsukakoshiI12;Kenichi Ida
+journals/procedia/KnapenKYCBJW12;Luk Knapen
+journals/procedia/KnapenKYCBJW12;Daniel Keren
+journals/procedia/KnapenKYCBJW12;Ansar-Ul-Haque Yasar
+journals/procedia/KnapenKYCBJW12;Sungjin Cho
+journals/procedia/KnapenKYCBJW12;Tom Bellemans
+journals/procedia/KnapenKYCBJW12;Davy Janssens
+journals/procedia/KnapenKYCBJW12;Geert Wets
+journals/procedia/BoninoCR12;Dario Bonino
+journals/procedia/BoninoCR12;Fulvio Corno
+journals/procedia/BoninoCR12;Luigi De Russis
+journals/procedia/OnolajaBT12;Olufunmilola Onolaja
+journals/procedia/OnolajaBT12;Rami Bahsoon
+journals/procedia/OnolajaBT12;Georgios Theodoropoulos
+journals/procedia/ChenJ12;Ying Chen
+journals/procedia/ChenJ12;Arunita Jaekel
+journals/procedia/SmanchatILEA11;Sucha Smanchat
+journals/procedia/SmanchatILEA11;Maria Indrawan
+journals/procedia/SmanchatILEA11;Sea Ling
+journals/procedia/SmanchatILEA11;Colin Enticott
+journals/procedia/SmanchatILEA11;David Abramson
+journals/procedia/LiX12;H. S. Li
+journals/procedia/LiX12;B. H. Xu
+journals/procedia/MachadoRL11;Rubens Campos Machado
+journals/procedia/MachadoRL11;Leticia Rittner
+journals/procedia/MachadoRL11;Roberto de Alencar Lotufo
+journals/procedia/RechistovISP12;Grigory Rechistov
+journals/procedia/RechistovISP12;Alexander Ivanov
+journals/procedia/RechistovISP12;Pavel Shishpor
+journals/procedia/RechistovISP12;Vladimir Pentkovski
+journals/procedia/GausemeierGT13;Jürgen Gausemeier
+journals/procedia/GausemeierGT13;Tobias Gaukstern
+journals/procedia/GausemeierGT13;Christian Tschirner
+journals/procedia/Ruiz-RubeDS11;Ivan Ruiz-Rube
+journals/procedia/Ruiz-RubeDS11;Juan Manuel Dodero
+journals/procedia/Ruiz-RubeDS11;John Stoitsis
+journals/procedia/VinekBS11;Elisabeth Vinek
+journals/procedia/VinekBS11;Peter Paul Beran
+journals/procedia/VinekBS11;Erich Schikuta
+journals/procedia/TyagiB12;Shweta Tyagi
+journals/procedia/TyagiB12;Kamal K. Bharadwaj
+journals/procedia/Lombardi12;Ivan Lombardi
+journals/procedia/SabitAG11;Hakilo Sabit
+journals/procedia/SabitAG11;Adnan Al-Anbuky
+journals/procedia/SabitAG11;Hamid Gholamhosseini
+journals/procedia/RuiterVB13;Jeroen G. Ruiter
+journals/procedia/RuiterVB13;Mascha C. van der Voort
+journals/procedia/RuiterVB13;G. Maarten Bonnema
+journals/procedia/FerreiraNS12;Simone Bacellar Leal Ferreira
+journals/procedia/FerreiraNS12;Ricardo Rodrigues Nunes
+journals/procedia/FerreiraNS12;Denis Silva da Silveira
+journals/procedia/SilvaSBMW13;Jackelynne Silva
+journals/procedia/SilvaSBMW13;Daniel P. Schrage
+journals/procedia/SilvaSBMW13;Nikki Bauer
+journals/procedia/SilvaSBMW13;Richard Meng
+journals/procedia/SilvaSBMW13;Phillip Wallace
+journals/procedia/NajafizadehLMMS11;Ali Najafizadeh
+journals/procedia/NajafizadehLMMS11;Ramiro Liscano
+journals/procedia/NajafizadehLMMS11;Miguel Vargas Martin
+journals/procedia/NajafizadehLMMS11;Peter C. Mason
+journals/procedia/NajafizadehLMMS11;Mazda Salmanian
+journals/procedia/LiS11;Jiakai Li
+journals/procedia/LiS11;Gürsel Serpen
+journals/procedia/KryvinskaS11;Natalia Kryvinska
+journals/procedia/KryvinskaS11;Christine Strauss
+journals/procedia/IgbaAAGF13;Joel Igba
+journals/procedia/IgbaAAGF13;Kazem Alemzadeh
+journals/procedia/IgbaAAGF13;Ike Anyanwu-Ebo
+journals/procedia/IgbaAAGF13;Paul Gibbons
+journals/procedia/IgbaAAGF13;John Friis
+journals/procedia/GomezS12;Javier V. Gomez
+journals/procedia/GomezS12;Frode Eika Sandnes
+journals/procedia/NistlerS11;Jonathan R. Nistler
+journals/procedia/NistlerS11;Majura F. Selekwa
+journals/procedia/ZhaoCWC12;Zhongtang Zhao
+journals/procedia/ZhaoCWC12;Yiqiang Chen
+journals/procedia/ZhaoCWC12;Shuangquan Wang
+journals/procedia/ZhaoCWC12;Zhenyu Chen
+journals/procedia/GorpM11;Pieter Van Gorp
+journals/procedia/GorpM11;Steffen Mazanek
+journals/procedia/OzcelikS11;Selahattin Ozcelik
+journals/procedia/OzcelikS11;S. Sukumaran
+journals/procedia/LimaC12;David Lima
+journals/procedia/LimaC12;Thais Castro
+journals/procedia/SatoMSAD11;Mitsuhisa Sato
+journals/procedia/SatoMSAD11;Satoshi Matsuoka
+journals/procedia/SatoMSAD11;Peter M. A. Sloot
+journals/procedia/SatoMSAD11;G. Dick van Albada
+journals/procedia/SatoMSAD11;Jack Dongarra
+journals/procedia/NakaiK11;Hiromi Nakai
+journals/procedia/NakaiK11;Masato Kobayashi
+journals/procedia/LyonsANJL13;Damian M. Lyons
+journals/procedia/LyonsANJL13;Ronald C. Arkin
+journals/procedia/LyonsANJL13;P. Nirmal
+journals/procedia/LyonsANJL13;Shu Jiang
+journals/procedia/LyonsANJL13;Tsung-Ming Liu
+journals/procedia/MongaKSTSKZ12;Madhu Monga
+journals/procedia/MongaKSTSKZ12;Manoj Karkee
+journals/procedia/MongaKSTSKZ12;Song Sun
+journals/procedia/MongaKSTSKZ12;Lakshmi Kiran Tondehal
+journals/procedia/MongaKSTSKZ12;Brian L. Steward
+journals/procedia/MongaKSTSKZ12;Atul G. Kelkar
+journals/procedia/MongaKSTSKZ12;Joseph Zambreno
+journals/procedia/PeherstorferB12;Benjamin Peherstorfer
+journals/procedia/PeherstorferB12;Hans-Joachim Bungartz
+journals/procedia/LiuHCFF12;Pingshan Liu
+journals/procedia/LiuHCFF12;Guimin Huang
+journals/procedia/LiuHCFF12;Jiefeng Cheng
+journals/procedia/LiuHCFF12;Shengzhong Feng
+journals/procedia/LiuHCFF12;Jianping Fan 0002
+journals/procedia/LeifssonKO11;Leifur Þ. Leifsson
+journals/procedia/LeifssonKO11;Slawomir Koziel
+journals/procedia/LeifssonKO11;Stanislav Ogurtsov
+journals/procedia/RivaP12;Pietro Righi Riva
+journals/procedia/RivaP12;Margherita Pillan
+journals/procedia/LinKO11;Chun-Yu Lin
+journals/procedia/LinKO11;Nil H. Kilicay-Ergin
+journals/procedia/LinKO11;Gül E. Okudan
+journals/procedia/Bonnema12;G. Maarten Bonnema
+journals/procedia/Kurten11;Karl E. Kurten
+journals/procedia/BelghithAM12;Abdelfettah Belghith
+journals/procedia/BelghithAM12;Mohamed Aissa
+journals/procedia/BelghithAM12;Adel Ben Mnaouer
+journals/procedia/MihaiYS12;Felix Mihai
+journals/procedia/MihaiYS12;Inja Youn
+journals/procedia/MihaiYS12;Padmanabhan Seshaiyer
+journals/procedia/WongG12;Adam K. L. Wong
+journals/procedia/WongG12;Andrzej M. Goscinski
+journals/procedia/SchafferPBLQDLL12;J. David Schaffer
+journals/procedia/SchafferPBLQDLL12;Jin-Woo Park
+journals/procedia/SchafferPBLQDLL12;Erin Barnes
+journals/procedia/SchafferPBLQDLL12;Qiyi Lu
+journals/procedia/SchafferPBLQDLL12;Xingye Qiao
+journals/procedia/SchafferPBLQDLL12;Youping Deng
+journals/procedia/SchafferPBLQDLL12;Yan Li
+journals/procedia/SchafferPBLQDLL12;Walker H. Land Jr.
+journals/procedia/Dauby11;Jason Dauby
+journals/procedia/KozielL12;Slawomir Koziel
+journals/procedia/KozielL12;Leifur Þ. Leifsson
+journals/procedia/AdamsP13;Nathan L. Adams
+journals/procedia/AdamsP13;L. Drew Pihera
+journals/procedia/HempelPS11;Stefan Hempel
+journals/procedia/HempelPS11;Ricardo Pineda
+journals/procedia/HempelPS11;Eric Smith
+journals/procedia/GillbergSC12;Tor Gillberg
+journals/procedia/GillbergSC12;Mohammed Sourouri
+journals/procedia/GillbergSC12;Xing Cai
+journals/procedia/SultornsaneeRFZK11;Sivarit Sultornsanee
+journals/procedia/SultornsaneeRFZK11;Srinivasan Radhakrishnan
+journals/procedia/SultornsaneeRFZK11;David Falco
+journals/procedia/SultornsaneeRFZK11;Abe Zeid
+journals/procedia/SultornsaneeRFZK11;Sagar Kamarthi
+journals/procedia/BachvarovaBPPR12;Yulia Bachvarova
+journals/procedia/BachvarovaBPPR12;Stefano Bocconi
+journals/procedia/BachvarovaBPPR12;Bartwin van der Pols
+journals/procedia/BachvarovaBPPR12;Maria Popescu
+journals/procedia/BachvarovaBPPR12;Ion Roceanu
+journals/procedia/JaskolkaKZ12;Jason Jaskolka
+journals/procedia/JaskolkaKZ12;Ridha Khédri
+journals/procedia/JaskolkaKZ12;Qinglei Zhang
+journals/procedia/PerezA12a;Asier Marzo Pérez
+journals/procedia/PerezA12a;Oscar Ardaiz
+journals/procedia/ObadoDH12;Victor Obado
+journals/procedia/ObadoDH12;Karim Djouani
+journals/procedia/ObadoDH12;Yskandar Hamam
+journals/procedia/Pannese12;Lucia Pannese
+journals/procedia/Arasteh11;Davoud Arasteh
+journals/procedia/BrownNFFRBB12;W. Michael Brown
+journals/procedia/BrownNFFRBB12;Trung D. Nguyen
+journals/procedia/BrownNFFRBB12;Miguel Fuentes-Cabrera
+journals/procedia/BrownNFFRBB12;Jason D. Fowlkes
+journals/procedia/BrownNFFRBB12;Philip D. Rack
+journals/procedia/BrownNFFRBB12;Mark Berger
+journals/procedia/BrownNFFRBB12;Arthur S. Bland
+journals/procedia/AquilantiPC11;Pierre-Yves Aquilanti
+journals/procedia/AquilantiPC11;Serge G. Petiton
+journals/procedia/AquilantiPC11;Henri Calandra
+journals/procedia/ReisRBP12;Lee Scott Reis
+journals/procedia/ReisRBP12;Gustavo Reis
+journals/procedia/ReisRBP12;João Barroso
+journals/procedia/ReisRBP12;António Pereira
+journals/procedia/KozielOL11;Slawomir Koziel
+journals/procedia/KozielOL11;Stanislav Ogurtsov
+journals/procedia/KozielOL11;Leifur Þ. Leifsson
+journals/procedia/FlaniganB12;David Flanigan
+journals/procedia/FlaniganB12;Peggy Brouse
+journals/procedia/RicciRR13;Nicola Ricci
+journals/procedia/RicciRR13;Adam M. Ross
+journals/procedia/RicciRR13;Donna H. Rhodes
+journals/procedia/MalkamakiO12;Tuomo Malkamäki
+journals/procedia/MalkamakiO12;Seppo J. Ovaska
+journals/procedia/PaniaguaFS12;Carlos Paniagua
+journals/procedia/PaniaguaFS12;Huber Flores
+journals/procedia/PaniaguaFS12;Satish Narayana Srirama
+journals/procedia/MianDHM13;Zohaib T. Mian
+journals/procedia/MianDHM13;Patrick Dees
+journals/procedia/MianDHM13;Leslie Hall
+journals/procedia/MianDHM13;Dimitri Mavris
+journals/procedia/SallachNR12;David L. Sallach
+journals/procedia/SallachNR12;Michael J. North
+journals/procedia/SallachNR12;W. A. Rivera
+journals/procedia/EnkovaaraRSM11;Jussi Enkovaara
+journals/procedia/EnkovaaraRSM11;Nichols A. Romero
+journals/procedia/EnkovaaraRSM11;Sameer Shende
+journals/procedia/EnkovaaraRSM11;Jens J. Mortensen
+journals/procedia/LongLWC12;Wen Long
+journals/procedia/LongLWC12;Nan Li
+journals/procedia/LongLWC12;Huiwen Wang
+journals/procedia/LongLWC12;Siwei Cheng
+journals/procedia/OshimaYE11;Makoto Oshima
+journals/procedia/OshimaYE11;Koji Yamada
+journals/procedia/OshimaYE11;Satoshi Endo
+journals/procedia/YuGAB11;Kan Yu
+journals/procedia/YuGAB11;Mikael Gidlund
+journals/procedia/YuGAB11;Johan Åkerberg
+journals/procedia/YuGAB11;Mats Björkman
+journals/procedia/JosephLT11;Anthony Joseph
+journals/procedia/JosephLT11;Maurice Larrain
+journals/procedia/JosephLT11;Claude Turner
+journals/procedia/HeHWS12;Mingyan He
+journals/procedia/HeHWS12;Ziping Huang
+journals/procedia/HeHWS12;Cheng Wang
+journals/procedia/HeHWS12;Pengtao Sun
+journals/procedia/NottageC12;Dustin Nottage
+journals/procedia/NottageC12;Steven M. Corns
+journals/procedia/FreitasEOKNPRUS12;Sara de Freitas
+journals/procedia/FreitasEOKNPRUS12;Jeffrey Earp
+journals/procedia/FreitasEOKNPRUS12;Michela Ott
+journals/procedia/FreitasEOKNPRUS12;Kristian Kiili
+journals/procedia/FreitasEOKNPRUS12;Muriel Ney
+journals/procedia/FreitasEOKNPRUS12;Maria Popescu
+journals/procedia/FreitasEOKNPRUS12;Margarida Romero
+journals/procedia/FreitasEOKNPRUS12;Mireia Usart
+journals/procedia/OConnellWMS13;Phillip O'Connell
+journals/procedia/OConnellWMS13;J. Robert Wirthlin
+journals/procedia/OConnellWMS13;James Malas
+journals/procedia/OConnellWMS13;Som Soni
+journals/procedia/ZhouDC12;Yun Zhou
+journals/procedia/ZhouDC12;Bertrand David
+journals/procedia/ZhouDC12;René Chalon
+journals/procedia/SunSE12;Shuyu Sun
+journals/procedia/SunSE12;Amgad Salama
+journals/procedia/SunSE12;Mohamed Fathy El-Amin
+journals/procedia/TambasciaMKB12;Cláudia de Andrade Tambascia
+journals/procedia/TambasciaMKB12;Ewerton Martins De Menezes
+journals/procedia/TambasciaMKB12;Sonia M. Kutiishi
+journals/procedia/TambasciaMKB12;Raphael C. Barbosa
+journals/procedia/FathyFR12;Mahmood Fathy
+journals/procedia/FathyFR12;Saeed Gholamalitabar Firouzjaee
+journals/procedia/FathyFR12;Kaamran Raahemifar
+journals/procedia/AustinJFJLWSIW11;Jim Austin
+journals/procedia/AustinJFJLWSIW11;Tom Jackson
+journals/procedia/AustinJFJLWSIW11;Martyn Fletcher
+journals/procedia/AustinJFJLWSIW11;Mark Jessop
+journals/procedia/AustinJFJLWSIW11;Bojian Liang
+journals/procedia/AustinJFJLWSIW11;Mike Weeks
+journals/procedia/AustinJFJLWSIW11;Leslie Smith
+journals/procedia/AustinJFJLWSIW11;Colin Ingram
+journals/procedia/Kulkarni11;Arun Kulkarni
+journals/procedia/PattersonMMP12;Timothy Patterson
+journals/procedia/PattersonMMP12;Sally I. McClean
+journals/procedia/PattersonMMP12;Philip J. Morrow
+journals/procedia/PattersonMMP12;Gerard Parr
+journals/procedia/DAzevedoH12;Eduardo F. D'Azevedo
+journals/procedia/DAzevedoH12;J. C. Hill
+journals/procedia/JalaliG11;Mohammad Jalali
+journals/procedia/JalaliG11;Nasser Ghasem-Aghaee
+journals/procedia/SchneiderFKM11;Max Schneider
+journals/procedia/SchneiderFKM11;Dietmar Fey
+journals/procedia/SchneiderFKM11;Daniel Kapusi
+journals/procedia/SchneiderFKM11;Torsten Machleidt
+journals/procedia/MengYPH12;Xiaofeng Meng
+journals/procedia/MengYPH12;Xiao Yu
+journals/procedia/MengYPH12;Zhigang Peng
+journals/procedia/MengYPH12;Bo Hong
+journals/procedia/Mayer12;Igor Mayer
+journals/procedia/AntonyRYTF11;Joseph Antony
+journals/procedia/AntonyRYTF11;Alistair P. Rendell
+journals/procedia/AntonyRYTF11;Rui Yang
+journals/procedia/AntonyRYTF11;Gary Trucks
+journals/procedia/AntonyRYTF11;Michael J. Frisch
+journals/procedia/AochiD11;Hideo Aochi
+journals/procedia/AochiD11;Fabrice Dupros
+journals/procedia/KajiyamaDC11;Tamito Kajiyama
+journals/procedia/KajiyamaDC11;Davide D'Alimonte
+journals/procedia/KajiyamaDC11;José C. Cunha
+journals/procedia/Stig13;Daniel Corin Stig
+journals/procedia/MahdiASRT12;Khaled Mahdi
+journals/procedia/MahdiASRT12;Ahmed Almajid
+journals/procedia/MahdiASRT12;Maytham Safar
+journals/procedia/MahdiASRT12;Hernan Riquelme
+journals/procedia/MahdiASRT12;Sadegh Torabi
+journals/procedia/MurarasuBPWB12;Alin Florindor Murarasu
+journals/procedia/MurarasuBPWB12;Gerrit Buse
+journals/procedia/MurarasuBPWB12;Dirk Pflüger
+journals/procedia/MurarasuBPWB12;Josef Weidendorfer
+journals/procedia/MurarasuBPWB12;Arndt Bode
+journals/procedia/HuangWLC12;He Huang
+journals/procedia/HuangWLC12;Liqiang Wang
+journals/procedia/HuangWLC12;En-Jui Lee
+journals/procedia/HuangWLC12;Po Chen
+journals/procedia/SoumagneB11;Jerome Soumagne
+journals/procedia/SoumagneB11;John Biddiscombe
+journals/procedia/NowakowskiCHKKBMDM11;Piotr Nowakowski
+journals/procedia/NowakowskiCHKKBMDM11;Eryk Ciepiela
+journals/procedia/NowakowskiCHKKBMDM11;Daniel Harezlak
+journals/procedia/NowakowskiCHKKBMDM11;Joanna Kocot
+journals/procedia/NowakowskiCHKKBMDM11;Marek Kasztelnik
+journals/procedia/NowakowskiCHKKBMDM11;Tomasz Bartynski
+journals/procedia/NowakowskiCHKKBMDM11;Jan Meizner
+journals/procedia/NowakowskiCHKKBMDM11;Grzegorz Dyk
+journals/procedia/Gonzalez13;Fernando G. Gonzalez
+journals/procedia/McGowanDBPS13;Anna-Maria Rivas McGowan
+journals/procedia/McGowanDBPS13;Shanna Daly
+journals/procedia/McGowanDBPS13;Wayne Baker
+journals/procedia/McGowanDBPS13;Panos Y. Papalambros
+journals/procedia/McGowanDBPS13;Colleen M. Seifert
+journals/procedia/XiP13;Xi Xi
+journals/procedia/XiP13;Kim Leng Poh
+journals/procedia/FreundLA12;Daniel Freund
+journals/procedia/FreundLA12;Marco Lützenberger
+journals/procedia/FreundLA12;Sahin Albayrak
+journals/procedia/AlfehaidK11;Waleed M. Alfehaid
+journals/procedia/AlfehaidK11;Asad I. Khan
+journals/procedia/PeuhkurinenMT11;Antti Peuhkurinen
+journals/procedia/PeuhkurinenMT11;Tommi Mikkonen
+journals/procedia/PeuhkurinenMT11;Mikko Terho
+journals/procedia/GoveU13;Ryan Gove
+journals/procedia/GoveU13;Joe Uzdzinski
+journals/procedia/NguyenCBS12;Hung V. Nguyen
+journals/procedia/NguyenCBS12;Jing-Ru C. Cheng
+journals/procedia/NguyenCBS12;Charlie R. Berger
+journals/procedia/NguyenCBS12;Gaurav Savant
+journals/procedia/CarrilloT12;Victor M. Carrillo
+journals/procedia/CarrilloT12;Heidi A. Taboada
+journals/procedia/PetngaA13;Leonard Petnga
+journals/procedia/PetngaA13;Mark Austin
+journals/procedia/MasoumzadehJ11;Amirreza Masoumzadeh
+journals/procedia/MasoumzadehJ11;James Joshi
+journals/procedia/AlamKKMA11;Kh Mahmudul Alam
+journals/procedia/AlamKKMA11;Joarder Kamruzzaman
+journals/procedia/AlamKKMA11;Gour C. Karmakar
+journals/procedia/AlamKKMA11;Manzur M. Murshed
+journals/procedia/AlamKKMA11;A. K. M. Azad
+journals/procedia/MargolisLGQ11;Dan Margolis
+journals/procedia/MargolisLGQ11;Walker H. Land Jr.
+journals/procedia/MargolisLGQ11;Ronald Gottlieb
+journals/procedia/MargolisLGQ11;Xingye Qiao
+journals/procedia/BlancoCV12;Eduardo Blanco
+journals/procedia/BlancoCV12;Yudith Cardinale
+journals/procedia/BlancoCV12;Maria-Esther Vidal
+journals/procedia/WattanasoontornBBS12;Voravika Wattanasoontorn
+journals/procedia/WattanasoontornBBS12;Imma Boada
+journals/procedia/WattanasoontornBBS12;Carles Blavi
+journals/procedia/WattanasoontornBBS12;Mateu Sbert
+journals/procedia/FaezipourF13;Misagh Faezipour
+journals/procedia/FaezipourF13;Susan Ferreira
+journals/procedia/FarrellP12;Alan C. Farrell
+journals/procedia/FarrellP12;Jun Peng
+journals/procedia/EllerCM12;Paul R. Eller
+journals/procedia/EllerCM12;Jing-Ru C. Cheng
+journals/procedia/EllerCM12;Robert S. Maier
+journals/procedia/LucaELA12;Valerio De Luca
+journals/procedia/LucaELA12;Italo Epicoco
+journals/procedia/LucaELA12;Daniele Lezzi
+journals/procedia/LucaELA12;Giovanni Aloisio
+journals/procedia/Castro-PalacioIRY11;Juan Carlos Castro-Palacio
+journals/procedia/Castro-PalacioIRY11;Keisaku Ishii
+journals/procedia/Castro-PalacioIRY11;Jesús Rubayo-Soneira
+journals/procedia/Castro-PalacioIRY11;Koichi Yamashita
+journals/procedia/HasegawaINS12;Akira Hasegawa
+journals/procedia/HasegawaINS12;Hiroyuki Iida
+journals/procedia/HasegawaINS12;Takeo Nakagawa
+journals/procedia/HasegawaINS12;Shogo Sone
+journals/procedia/TahaI12;Mohammad A. Taha
+journals/procedia/TahaI12;Laheeb Ibrahim
+journals/procedia/ParvinHHF12;Sazia Parvin
+journals/procedia/ParvinHHF12;Farookh Khadeer Hussain
+journals/procedia/ParvinHHF12;Omar Khadeer Hussain
+journals/procedia/ParvinHHF12;Mohammad Abdullah Al Faruque
+journals/procedia/OzcelikPC11;Selahattin Ozcelik
+journals/procedia/OzcelikPC11;H. Prakash
+journals/procedia/OzcelikPC11;Rajab Challoo
+journals/procedia/YilmazDM11;Muhittin Yilmaz
+journals/procedia/YilmazDM11;Naren Reddy Dhansri
+journals/procedia/YilmazDM11;Salman Mujeeba
+journals/procedia/ShaP13;Zhenghui Sha
+journals/procedia/ShaP13;Jitesh H. Panchal
+journals/procedia/Hossain12;S. M. Mozammal Hossain
+journals/procedia/MhemedAPC12;Rogaia Mhemed
+journals/procedia/MhemedAPC12;Nauman Aslam
+journals/procedia/MhemedAPC12;William J. Phillips
+journals/procedia/MhemedAPC12;Frank Comeau
+journals/procedia/VardaxoglouB12;Georgios Vardaxoglou
+journals/procedia/VardaxoglouB12;Evangelia Baralou
+journals/procedia/LiuWXM11;Yin Liu
+journals/procedia/LiuWXM11;Baojin Wang
+journals/procedia/LiuWXM11;Ke Xu
+journals/procedia/LiuWXM11;Zhen Ma
+journals/procedia/GuenagaMRE12;Mari Luz Guenaga
+journals/procedia/GuenagaMRE12;Iratxe Mechaca
+journals/procedia/GuenagaMRE12;Susana Romero
+journals/procedia/GuenagaMRE12;Andoni Eguíluz
+journals/procedia/SarfarazSB12;Matin Sarfaraz
+journals/procedia/SarfarazSB12;Brian J. Sauser
+journals/procedia/SarfarazSB12;Edward W. Bauer
+journals/procedia/Micouin13;Patrice Micouin
+journals/procedia/MercerR12;Andrew E. Mercer
+journals/procedia/MercerR12;Michael B. Richman
+journals/procedia/MiyagiMK12;Yui Miyagi
+journals/procedia/MiyagiMK12;Hayao Miyagi
+journals/procedia/MiyagiMK12;Ichiko Kinjo
+journals/procedia/PoaterRGPPCC11;Albert Poater
+journals/procedia/PoaterRGPPCC11;Francesco Ragone
+journals/procedia/PoaterRGPPCC11;Manel Garrido
+journals/procedia/PoaterRGPPCC11;Sònia Pérez
+journals/procedia/PoaterRGPPCC11;Manel Poch
+journals/procedia/PoaterRGPPCC11;Andrea Correa
+journals/procedia/PoaterRGPPCC11;Luigi Cavallo
+journals/procedia/ChenS11;Jie Chen 0007
+journals/procedia/ChenS11;Ilya Safro
+journals/procedia/HenryPOHEA13;Devanandham Henry
+journals/procedia/HenryPOHEA13;Arthur B. Pyster
+journals/procedia/HenryPOHEA13;David H. Olwell
+journals/procedia/HenryPOHEA13;Nicole Hutchison
+journals/procedia/HenryPOHEA13;Stephanie Enck
+journals/procedia/HenryPOHEA13;James F. Anthony Jr.
+journals/procedia/MurphyC12;Lisa Murphy
+journals/procedia/MurphyC12;Paul Collopy
+journals/procedia/VenturaS12;João Ventura 0002
+journals/procedia/VenturaS12;Joaquim Ferreira da Silva
+journals/procedia/GuoZTG12;Jing Guo
+journals/procedia/GuoZTG12;Peng Zhang
+journals/procedia/GuoZTG12;Jianlong Tan
+journals/procedia/GuoZTG12;Li Guo
+journals/procedia/Mirchandani13;Chandru Mirchandani
+journals/procedia/TaniokaY12;Kensuke Tanioka
+journals/procedia/TaniokaY12;Hiroshi Yadohisa
+journals/procedia/Uyaver12;Sahin Uyaver
+journals/procedia/NiemiCC11;Antti H. Niemi
+journals/procedia/NiemiCC11;Nathan O. Collier
+journals/procedia/NiemiCC11;Victor M. Calo
+journals/procedia/Mena-GarcesBSA11;Elena Mena-Garcés
+journals/procedia/Mena-GarcesBSA11;Elena García Barriocanal
+journals/procedia/Mena-GarcesBSA11;Miguel-Ángel Sicilia
+journals/procedia/Mena-GarcesBSA11;Salvador Sánchez Alonso
+journals/procedia/MadeyBPLMW12;Gregory R. Madey
+journals/procedia/MadeyBPLMW12;M. Brian Blake
+journals/procedia/MadeyBPLMW12;Christian Poellabauer
+journals/procedia/MadeyBPLMW12;Hongsheng Lu
+journals/procedia/MadeyBPLMW12;Ryan McCune
+journals/procedia/MadeyBPLMW12;Yi Wei
+journals/procedia/RabanalRMD12;Pablo Rabanal
+journals/procedia/RabanalRMD12;Ismael Rodríguez
+journals/procedia/RabanalRMD12;José Antonio Mateo
+journals/procedia/RabanalRMD12;Gregorio Díaz
+journals/procedia/SquiresWWBRD12;Alice Squires
+journals/procedia/SquiresWWBRD12;Jon P. Wade
+journals/procedia/SquiresWWBRD12;Bill Watson
+journals/procedia/SquiresWWBRD12;Douglas A. Bodner
+journals/procedia/SquiresWWBRD12;Richard Reilly
+journals/procedia/SquiresWWBRD12;Peter Dominick
+journals/procedia/ParetWCST11;Elien Paret
+journals/procedia/ParetWCST11;William Van Woensel
+journals/procedia/ParetWCST11;Sven Casteleyn
+journals/procedia/ParetWCST11;Beat Signer
+journals/procedia/ParetWCST11;Olga De Troyer
+journals/procedia/SniezynskiDMP11;Bartlomiej Sniezynski
+journals/procedia/SniezynskiDMP11;Jacek Dajda
+journals/procedia/SniezynskiDMP11;Marcin Mlostek
+journals/procedia/SniezynskiDMP11;Michal Pulchny
+journals/procedia/Hwang12;Sung Nam Hwang
+journals/procedia/AguirreT11;Oswaldo Aguirre
+journals/procedia/AguirreT11;Heidi A. Taboada
+journals/procedia/JangKH11;Do-won Jang
+journals/procedia/JangKH11;Dong-Ju Kim
+journals/procedia/JangKH11;Kwang-Seok Hong
+journals/procedia/Serrano-LagunaTMF12;Ángel Serrano-Laguna
+journals/procedia/Serrano-LagunaTMF12;Javier Torrente
+journals/procedia/Serrano-LagunaTMF12;Pablo Moreno-Ger
+journals/procedia/Serrano-LagunaTMF12;Baltasar Fernández-Manjón
+journals/procedia/BoninoC12;Dario Bonino
+journals/procedia/BoninoC12;Fulvio Corno
+journals/procedia/AlghamdiSS12;Wael Alghamdi
+journals/procedia/AlghamdiSS12;Elhadi Shakshuki
+journals/procedia/AlghamdiSS12;Tarek R. Sheltami
+journals/procedia/GonzalezMM12;María González
+journals/procedia/GonzalezMM12;Lourdes Moreno
+journals/procedia/GonzalezMM12;Paloma Martínez
+journals/procedia/SvacoSJ11;Marko Svaco
+journals/procedia/SvacoSJ11;Bojan Sekoranja
+journals/procedia/SvacoSJ11;Bojan Jerbic
+journals/procedia/KantchevNS11;Eric Assen B. Kantchev
+journals/procedia/KantchevNS11;Tyler B. Norsten
+journals/procedia/KantchevNS11;Michael B. Sullivan
+journals/procedia/HamadaS12;Mohamed Hamada
+journals/procedia/HamadaS12;Sayota Sato
+journals/procedia/BrieschHJKV12;Douglas M. Briesch
+journals/procedia/BrieschHJKV12;Reginald Hobbs
+journals/procedia/BrieschHJKV12;Claire Jaja
+journals/procedia/BrieschHJKV12;Brian Kjersten
+journals/procedia/BrieschHJKV12;Clare R. Voss
+journals/procedia/GreerR12;Melvin Greer
+journals/procedia/GreerR12;Manuel Rodríguez-Martínez
+journals/procedia/BiswasV12;Debmalya Biswas
+journals/procedia/BiswasV12;Krishnamurthy Vidyasankar
+journals/procedia/AguirreT12;Oswaldo Aguirre
+journals/procedia/AguirreT12;Heidi A. Taboada
+journals/procedia/HighlandS12;Fred Highland
+journals/procedia/HighlandS12;John Stephenson
+journals/procedia/CremeansLD12;B. Cremeans
+journals/procedia/CremeansLD12;S. Lakshmivarahan
+journals/procedia/CremeansLD12;Sudarshan K. Dhall
+journals/procedia/MooreR11;Shirley Moore
+journals/procedia/MooreR11;James Ralph
+journals/procedia/Elkateeb12;Ali Elkateeb
+journals/procedia/MrazovaR11;Iveta Mrázová
+journals/procedia/MrazovaR11;Zuzana Reitermanová
+journals/procedia/Razzak12;Faisal Razzak
+journals/procedia/MohdMAPR11;Abidalrahman Moh'd
+journals/procedia/MohdMAPR11;Hosein Marzi
+journals/procedia/MohdMAPR11;Nauman Aslam
+journals/procedia/MohdMAPR11;William J. Phillips
+journals/procedia/MohdMAPR11;William Robertson
+journals/procedia/Kateeb11;Ali El Kateeb
+journals/procedia/WehbeB12;Houssein Wehbe
+journals/procedia/WehbeB12;Ahmed Bouabdallah
+journals/procedia/IhshaishCS12a;Hisham Ihshaish
+journals/procedia/IhshaishCS12a;Ana Cortés
+journals/procedia/IhshaishCS12a;Miquel A. Senar
+journals/procedia/ErkoyuncuBSRD13;John Ahmet Erkoyuncu
+journals/procedia/ErkoyuncuBSRD13;Sergey Bolshchikov
+journals/procedia/ErkoyuncuBSRD13;Daniel Steenstra
+journals/procedia/ErkoyuncuBSRD13;Rajkumar Roy
+journals/procedia/ErkoyuncuBSRD13;Dov Dori
+journals/procedia/AhmadCS11;Wakeel Ahmad
+journals/procedia/AhmadCS11;Bryan Carpenter
+journals/procedia/AhmadCS11;Aamir Shafi
+journals/procedia/HussainH11;Tahani Hussain
+journals/procedia/HussainH11;Sami Habib
+journals/procedia/PoroorJ12;Jayaraj Poroor
+journals/procedia/PoroorJ12;Bharat Jayaraman
+journals/procedia/AllenBHJLS11;Gabrielle Allen
+journals/procedia/AllenBHJLS11;Werner Benger
+journals/procedia/AllenBHJLS11;Andrei Hutanu
+journals/procedia/AllenBHJLS11;Shantenu Jha
+journals/procedia/AllenBHJLS11;Frank Löffler
+journals/procedia/AllenBHJLS11;Erik Schnetter
+journals/procedia/AhmedSZ12;Naveed Ahmed
+journals/procedia/AhmedSZ12;Munam Ali Shah
+journals/procedia/AhmedSZ12;Sijing Zhang
+journals/procedia/BoehmKLT12;Barry W. Boehm
+journals/procedia/BoehmKLT12;Supannika Koolmanojwong
+journals/procedia/BoehmKLT12;Jo Ann Lane
+journals/procedia/BoehmKLT12;Richard Turner
+journals/procedia/RyzhovP11;Ilya O. Ryzhov
+journals/procedia/RyzhovP11;Warren B. Powell
+journals/procedia/ChakrabartiGAKKLMMW12;Gautam Chakrabarti
+journals/procedia/ChakrabartiGAKKLMMW12;Vinod Grover
+journals/procedia/ChakrabartiGAKKLMMW12;Bastiaan Aarts
+journals/procedia/ChakrabartiGAKKLMMW12;Xiangyun Kong
+journals/procedia/ChakrabartiGAKKLMMW12;Manjunath Kudlur
+journals/procedia/ChakrabartiGAKKLMMW12;Yuan Lin
+journals/procedia/ChakrabartiGAKKLMMW12;Jaydeep Marathe
+journals/procedia/ChakrabartiGAKKLMMW12;Mike Murphy
+journals/procedia/KalayciBMH11;Tahir Emre Kalayci
+journals/procedia/KalayciBMH11;Majid Bahrepour
+journals/procedia/KalayciBMH11;Nirvana Meratnia
+journals/procedia/KalayciBMH11;Paul J. M. Havinga
+journals/procedia/PengHZS12;Wei Peng
+journals/procedia/PengHZS12;Xiaofeng Hu
+journals/procedia/PengHZS12;Feng Zhao
+journals/procedia/PengHZS12;Jinshu Su
+journals/procedia/GeorgiHGN11;Andy Georgi
+journals/procedia/GeorgiHGN11;Stefan Hohlig
+journals/procedia/GeorgiHGN11;Robin Geyer
+journals/procedia/GeorgiHGN11;Wolfgang E. Nagel
+journals/procedia/Lugo12;Kristina Lugo
+journals/procedia/WangWZ12;Ye Wang
+journals/procedia/WangWZ12;Bo Wang
+journals/procedia/WangWZ12;Xinyang Zhang
+journals/procedia/YangZB13;Shahan Yang
+journals/procedia/YangZB13;Yuchen Zhou
+journals/procedia/YangZB13;John S. Baras
+journals/procedia/GhoshDB11;Srideep Ghosh
+journals/procedia/GhoshDB11;Anurag D
+journals/procedia/GhoshDB11;Somprakash Bandyopadhyay
+journals/procedia/RagoF11;Francesco Rago
+journals/procedia/RagoF11;Pasquale Franzese 0002
+journals/procedia/GabrielC11;Ann Gabriel
+journals/procedia/GabrielC11;Rebecca Capone
+journals/procedia/SotoodehPK11;Mandana Sotoodeh
+journals/procedia/SotoodehPK11;Rachel Pottinger
+journals/procedia/SotoodehPK11;Philippe Kruchten
+journals/procedia/Bodenhamer12;Andrew Bodenhamer
+journals/procedia/MehdiIA12;Osama A. Mehdi
+journals/procedia/MehdiIA12;Hamidah Ibrahim
+journals/procedia/MehdiIA12;Lilly Suriani Affendey
+journals/procedia/SerpenL11;Gürsel Serpen
+journals/procedia/SerpenL11;Jiakai Li
+journals/procedia/MartinsCM12;Márcio Garcia Martins
+journals/procedia/MartinsCM12;António Cunha
+journals/procedia/MartinsCM12;Leonel Morgado
+journals/procedia/LiuS11;Fang Liu
+journals/procedia/LiuS11;Masha Sosonkina
+journals/procedia/HoriIW11;Muneo Hori
+journals/procedia/HoriIW11;Tsuyoshi Ichimura
+journals/procedia/HoriIW11;Lalith Wijerathne
+journals/procedia/BalaprakashWH11;Prasanna Balaprakash
+journals/procedia/BalaprakashWH11;Stefan M. Wild
+journals/procedia/BalaprakashWH11;Paul D. Hovland
+journals/procedia/LinJWY12;Pei-Hung Lin
+journals/procedia/LinJWY12;Jagan Jayaraj
+journals/procedia/LinJWY12;Paul R. Woodward
+journals/procedia/LinJWY12;Pen-Chung Yew
+journals/procedia/MelnikovaSK11;N. B. Melnikova
+journals/procedia/MelnikovaSK11;G. S. Shirshov
+journals/procedia/MelnikovaSK11;Valeria V. Krzhizhanovskaya
+journals/procedia/StieglitzF11;Stefan Stieglitz
+journals/procedia/StieglitzF11;Christoph Fuchß
+journals/procedia/ParadisE12;Rosemary D. Paradis
+journals/procedia/ParadisE12;David Enke
+journals/procedia/MenonJG11;Vivek Menon
+journals/procedia/MenonJG11;Bharat Jayaraman
+journals/procedia/MenonJG11;Venu Govindaraju
+journals/procedia/NgVSCGZJ12;Chetan Kumar Ng
+journals/procedia/NgVSCGZJ12;Sudhanshu Vyas
+journals/procedia/NgVSCGZJ12;Jonathan A. Shidal
+journals/procedia/NgVSCGZJ12;Ron K. Cytron
+journals/procedia/NgVSCGZJ12;Christopher D. Gill
+journals/procedia/NgVSCGZJ12;Joseph Zambreno
+journals/procedia/NgVSCGZJ12;Phillip H. Jones
+journals/procedia/WuG11;Chao Wu
+journals/procedia/WuG11;Yike Guo
+journals/procedia/KiiliFAL12;Kristian Kiili
+journals/procedia/KiiliFAL12;Sara de Freitas
+journals/procedia/KiiliFAL12;Sylvester Arnab
+journals/procedia/KiiliFAL12;Timo Lainema
+journals/procedia/LavenderG12;T. J. Lavender
+journals/procedia/LavenderG12;Diane Gromala
+journals/procedia/SuttieLLMWBD12;Neil Suttie
+journals/procedia/SuttieLLMWBD12;Sandy Louchart
+journals/procedia/SuttieLLMWBD12;Theodore Lim
+journals/procedia/SuttieLLMWBD12;Andrew Macvean
+journals/procedia/SuttieLLMWBD12;Wim Westera
+journals/procedia/SuttieLLMWBD12;Damian Brown
+journals/procedia/SuttieLLMWBD12;Damien Djaouti
+journals/procedia/RahmaniBN12;M. Rahmani
+journals/procedia/RahmaniBN12;Dhundy Bastola
+journals/procedia/RahmaniBN12;Lotfollah Najjar
+journals/procedia/TorunskiOTE12;Eric Torunski
+journals/procedia/TorunskiOTE12;Rana Othman
+journals/procedia/TorunskiOTE12;Mauricio Orozco Trujillo
+journals/procedia/TorunskiOTE12;Abdulmotaleb El-Saddik
+journals/procedia/BazilevsMSMT12;Yuri Bazilevs
+journals/procedia/BazilevsMSMT12;Alison L. Marsden
+journals/procedia/BazilevsMSMT12;F. Lanza di Scalea
+journals/procedia/BazilevsMSMT12;A. Majumdar
+journals/procedia/BazilevsMSMT12;M. Tatineni
+journals/procedia/El-ZaherDGC12;Madeleine El-Zaher
+journals/procedia/El-ZaherDGC12;Baudouin Dafflon
+journals/procedia/El-ZaherDGC12;Franck Gechter
+journals/procedia/El-ZaherDGC12;Jean-Michel Contet
+journals/procedia/MorenoSJBR12;M. Moreno
+journals/procedia/MorenoSJBR12;Somayeh Shahrabadi
+journals/procedia/MorenoSJBR12;J. José
+journals/procedia/MorenoSJBR12;J. M. Hans du Buf
+journals/procedia/MorenoSJBR12;João M. F. Rodrigues
+journals/procedia/ZhouUCGC12;Jun Zhou
+journals/procedia/ZhouUCGC12;Didem Unat
+journals/procedia/ZhouUCGC12;Dong Ju Choi
+journals/procedia/ZhouUCGC12;Clark C. Guest
+journals/procedia/ZhouUCGC12;Yifeng Cui
+journals/procedia/UdayM13;Payuna Uday
+journals/procedia/UdayM13;Karen B. Marais
+journals/procedia/ObikweluR12;Chinedu Obikwelu
+journals/procedia/ObikweluR12;Janet C. Read
+journals/procedia/Mayhew12;Gregory L. Mayhew
+journals/procedia/ChiJG12;Hongmei Chi
+journals/procedia/ChiJG12;Edward L. Jones
+journals/procedia/ChiJG12;Lakshmi P. Grandham
+journals/procedia/KlempaSM12;Michal Klempa
+journals/procedia/KlempaSM12;Jakub Stárka
+journals/procedia/KlempaSM12;Irena Mlýnková
+journals/procedia/JeraghAA12;Mohammad Jeragh
+journals/procedia/JeraghAA12;Eman AlQuraishi
+journals/procedia/JeraghAA12;Eman AlDwaisan
+journals/procedia/PaszynskiPPD11;Maciej Paszynski
+journals/procedia/PaszynskiPPD11;David Pardo
+journals/procedia/PaszynskiPPD11;Anna Paszynska
+journals/procedia/PaszynskiPPD11;Leszek F. Demkowicz
+journals/procedia/El-HachemSHDB12;Jinan El-Hachem
+journals/procedia/El-HachemSHDB12;Arash Shaban-Nejad
+journals/procedia/El-HachemSHDB12;Volker Haarslev
+journals/procedia/El-HachemSHDB12;Laurette Dubé
+journals/procedia/El-HachemSHDB12;David L. Buckeridge
+journals/procedia/VirsedaM12;Rafael del Vado Vírseda
+journals/procedia/VirsedaM12;Fernando Pérez Morente
+journals/procedia/Alvarez-AramberriPPCDC12;J. Alvarez-Aramberri
+journals/procedia/Alvarez-AramberriPPCDC12;David Pardo
+journals/procedia/Alvarez-AramberriPPCDC12;Maciej Paszynski
+journals/procedia/Alvarez-AramberriPPCDC12;Nathan O. Collier
+journals/procedia/Alvarez-AramberriPPCDC12;Lisandro Dalcín
+journals/procedia/Alvarez-AramberriPPCDC12;Victor M. Calo
+journals/procedia/QwasmiL12;Nidal Qwasmi
+journals/procedia/QwasmiL12;Ramiro Liscano
+journals/procedia/Schindel11;William D. Schindel
+journals/procedia/JbaraLZ13;Ahmed Abu Jbara
+journals/procedia/JbaraLZ13;Alexander H. Levis
+journals/procedia/JbaraLZ13;Abbas K. Zaidi
+journals/procedia/BhatnagarW12;Gaurav Bhatnagar
+journals/procedia/BhatnagarW12;Q. M. Jonathan Wu
+journals/procedia/CorrieroGP11;Nicola Corriero
+journals/procedia/CorrieroGP11;Giuseppe Gargiuolo
+journals/procedia/CorrieroGP11;Giovanni Pani
+journals/procedia/DoskeyMS13;Steven Doskey
+journals/procedia/DoskeyMS13;Thomas A. Mazzuchi
+journals/procedia/DoskeyMS13;Shahram Sarkani
+journals/procedia/AlwanIYUS12;Ali Amer Alwan
+journals/procedia/AlwanIYUS12;Hamidah Ibrahim
+journals/procedia/AlwanIYUS12;Tan Chik Yip
+journals/procedia/AlwanIYUS12;Nur Izura Udzir
+journals/procedia/AlwanIYUS12;Fatimah Sidi
+journals/procedia/WangS12;Fang Wang
+journals/procedia/WangS12;Yong Shi
+journals/procedia/HuguesMPC11;Maxime R. Hugues
+journals/procedia/HuguesMPC11;Michael Moretti
+journals/procedia/HuguesMPC11;Serge G. Petiton
+journals/procedia/HuguesMPC11;Henri Calandra
+journals/procedia/BeckerMKS12;Alexander Becker
+journals/procedia/BeckerMKS12;A. Mladenowa
+journals/procedia/BeckerMKS12;Natalia Kryvinska
+journals/procedia/BeckerMKS12;Christine Strauss
+journals/procedia/YounasSS12;Muhammad Younas
+journals/procedia/YounasSS12;Elhadi Shakshuki
+journals/procedia/YounasSS12;Quan Z. Sheng
+journals/procedia/FernandesDRFPS12;João Fernandes
+journals/procedia/FernandesDRFPS12;Diogo Duarte
+journals/procedia/FernandesDRFPS12;Claudia Ribeiro
+journals/procedia/FernandesDRFPS12;Carla Farinha
+journals/procedia/FernandesDRFPS12;João Madeiras Pereira
+journals/procedia/FernandesDRFPS12;Miguel Mira da Silva
+journals/procedia/Rupp12;Karl Rupp
+journals/procedia/LundquistO12;Doug Lundquist
+journals/procedia/LundquistO12;Aris M. Ouksel
+journals/procedia/ZhangXW11;Jiawei Zhang
+journals/procedia/ZhangXW11;Haibin Xie
+journals/procedia/ZhangXW11;Shouyang Wang
+journals/procedia/ShinKLI13;Junho Shin
+journals/procedia/ShinKLI13;Boonserm Kulvatunyou
+journals/procedia/ShinKLI13;Yunsu Lee
+journals/procedia/ShinKLI13;Nenad Ivezic
+journals/procedia/CruzA11;Raúl de la Cruz
+journals/procedia/CruzA11;Mauricio Araya-Polo
+journals/procedia/PanVK13;Xing Pan
+journals/procedia/PanVK13;Ricardo Valerdi
+journals/procedia/PanVK13;Rui Kang
+journals/procedia/ShahOC12;R. Shah
+journals/procedia/ShahOC12;Selahattin Ozcelik
+journals/procedia/ShahOC12;Rajab Challoo
+journals/procedia/NairFTDAA11;Binu Muraleedharan Nair
+journals/procedia/NairFTDAA11;Jacob Foytik
+journals/procedia/NairFTDAA11;Richard Tompkins
+journals/procedia/NairFTDAA11;Yakov Diskin
+journals/procedia/NairFTDAA11;Theus H. Aspiras
+journals/procedia/NairFTDAA11;Vijayan K. Asari
+journals/procedia/MandalMHMP12;Paras Mandal
+journals/procedia/MandalMHMP12;Surya Teja Swarroop Madhira
+journals/procedia/MandalMHMP12;Ashraf Ul Haque
+journals/procedia/MandalMHMP12;Julian Meng
+journals/procedia/MandalMHMP12;Ricardo L. Pineda
+journals/procedia/GavishD11;Matan Gavish
+journals/procedia/GavishD11;David L. Donoho
+journals/procedia/SuttieLLR12;Neil Suttie
+journals/procedia/SuttieLLR12;Sandy Louchart
+journals/procedia/SuttieLLR12;Theodore Lim
+journals/procedia/SuttieLLR12;Jim Ritchie
+journals/procedia/MohamedW12;KamalEldin Mohamed
+journals/procedia/MohamedW12;Duminda Wijesekera
+journals/procedia/StoicaB13;Rosana Stoica
+journals/procedia/StoicaB13;Peggy Brouse
+journals/procedia/AnztTGDH12;Hartwig Anzt
+journals/procedia/AnztTGDH12;Stanimire Tomov
+journals/procedia/AnztTGDH12;Mark Gates
+journals/procedia/AnztTGDH12;Jack Dongarra
+journals/procedia/AnztTGDH12;Vincent Heuveline
+journals/procedia/TruongBS12;Thuy T. Truong
+journals/procedia/TruongBS12;Kenneth N. Brown
+journals/procedia/TruongBS12;Cormac J. Sreenan
+journals/procedia/ZscheischlerMH12;Jakob Zscheischler
+journals/procedia/ZscheischlerMH12;Miguel D. Mahecha
+journals/procedia/ZscheischlerMH12;Stefan Harmeling
+journals/procedia/Abdel-RaheemK13;Mohamed Abdel-Raheem
+journals/procedia/Abdel-RaheemK13;Ahmed Khalafallah
+journals/procedia/NiuWS12;Lingfeng Niu
+journals/procedia/NiuWS12;Jianmin Wu
+journals/procedia/NiuWS12;Yong Shi
+journals/procedia/NunezAM12;Alberto Nuñez
+journals/procedia/NunezAM12;César Andrés
+journals/procedia/NunezAM12;Mercedes G. Merayo
+journals/procedia/MaCS12;Xiao Ma
+journals/procedia/MaCS12;Yong Cui
+journals/procedia/MaCS12;Ivan Stojmenovic
+journals/procedia/ChudnovskyyGWG11;Olexiy Chudnovskyy
+journals/procedia/ChudnovskyyGWG11;Hendrik Gebhardt
+journals/procedia/ChudnovskyyGWG11;Frank Weinhold
+journals/procedia/ChudnovskyyGWG11;Martin Gaedke
+journals/procedia/Ratcliff13;Reginald Ratcliff
+journals/procedia/JoynerMG13;David A. Joyner
+journals/procedia/JoynerMG13;David M. Majerich
+journals/procedia/JoynerMG13;Ashok K. Goel
+journals/procedia/Barnawi12;Abdulaziz Barnawi
+journals/procedia/KokaANSTY11;Shinji Koka
+journals/procedia/KokaANSTY11;Koichi Anada
+journals/procedia/KokaANSTY11;Kenshi Nomaki
+journals/procedia/KokaANSTY11;Kimio Sugita
+journals/procedia/KokaANSTY11;Kensei Tsuchida
+journals/procedia/KokaANSTY11;Takeo Yaku
+journals/procedia/SridharR11;V. Sridhar
+journals/procedia/SridharR11;V. Raghavendar
+journals/procedia/JensenT13;David C. Jensen
+journals/procedia/JensenT13;Irem Y. Tumer
+journals/procedia/Sanchez12;Jaime Sánchez
+journals/procedia/YoshimotoCMMH12;K. K. Yoshimoto
+journals/procedia/YoshimotoCMMH12;D. J. Choi
+journals/procedia/YoshimotoCMMH12;R. L. Moore
+journals/procedia/YoshimotoCMMH12;Asmit Majumdar
+journals/procedia/YoshimotoCMMH12;Eva Hocks
+journals/procedia/MukherjeeW12;Dibyendu Mukherjee
+journals/procedia/MukherjeeW12;Q. M. Jonathan Wu
+journals/procedia/Ait-Cheik-BihiNBGW12;Wafaa Ait-Cheik-Bihi
+journals/procedia/Ait-Cheik-BihiNBGW12;Ahmed Nait-Sidi-Moh
+journals/procedia/Ait-Cheik-BihiNBGW12;Mohamed Bakhouya
+journals/procedia/Ait-Cheik-BihiNBGW12;Jaafar Gaber
+journals/procedia/Ait-Cheik-BihiNBGW12;Maxime Wack
+journals/procedia/NiederbruckerG11;Gerhard Niederbrucker
+journals/procedia/NiederbruckerG11;Wilfried N. Gansterer
+journals/procedia/UrikovaIKZS12;O. Urikova
+journals/procedia/UrikovaIKZS12;Irena Ivanochko
+journals/procedia/UrikovaIKZS12;Natalia Kryvinska
+journals/procedia/UrikovaIKZS12;Peter Zinterhof
+journals/procedia/UrikovaIKZS12;Christine Strauss
+journals/procedia/YuDO12;Han Yu
+journals/procedia/YuDO12;Craig C. Douglas
+journals/procedia/YuDO12;Fred L. Ogden
+journals/procedia/KimLC11;Daihee Kim
+journals/procedia/KimLC11;Jay Walter Larson
+journals/procedia/KimLC11;Kenneth Chiu
+journals/procedia/Walker12;Timothy M. Walker
+journals/procedia/GeorgievVGL12;George Georgiev
+journals/procedia/GeorgievVGL12;Iren Valova
+journals/procedia/GeorgievVGL12;Natacha Gueorguieva
+journals/procedia/GeorgievVGL12;Leo Lei
+journals/procedia/HendriksL13;Teun Hendriks
+journals/procedia/HendriksL13;Piërre van de Laar
+journals/procedia/SolarSL11;Roberto Solar
+journals/procedia/SolarSL11;Remo Suppi
+journals/procedia/SolarSL11;Emilio Luque
+journals/procedia/QiSC11;Ming Qi
+journals/procedia/QiSC11;Guangzhong Sun
+journals/procedia/QiSC11;Guoliang Chen
+journals/procedia/AssousM12;Franck Assous
+journals/procedia/AssousM12;Michael Michaeli
+journals/procedia/LeeV11;John Aldo Lee
+journals/procedia/LeeV11;Michel Verleysen
+journals/procedia/EnkeM12;David Enke
+journals/procedia/EnkeM12;Nijat Mehdiyev
+journals/procedia/NassarA13;Nefretiti Nassar
+journals/procedia/NassarA13;Mark Austin
+journals/procedia/NawataS11;Takehiko Nawata
+journals/procedia/NawataS11;Reiji Suda
+journals/procedia/Larson12;J. Walter Larson
+journals/procedia/McheickK12;Hamid Mcheick
+journals/procedia/McheickK12;Ahmad Karawash
+journals/procedia/DaisakaNMYI11;Hiroshi Daisaka
+journals/procedia/DaisakaNMYI11;Naohito Nakasato
+journals/procedia/DaisakaNMYI11;Junichiro Makino
+journals/procedia/DaisakaNMYI11;Fukuko Yuasa
+journals/procedia/DaisakaNMYI11;Tadashi Ishikawa
+journals/procedia/PengHZLY11;Yunfeng Peng
+journals/procedia/PengHZLY11;Changjun Hu
+journals/procedia/PengHZLY11;Chongchong Zhao
+journals/procedia/PengHZLY11;Shigang Li 0002
+journals/procedia/PengHZLY11;Shucai Yao
+journals/procedia/CapraFSF12;Eliane Pinheiro Capra
+journals/procedia/CapraFSF12;Simone Bacellar Leal Ferreira
+journals/procedia/CapraFSF12;Denis Silva da Silveira
+journals/procedia/CapraFSF12;Ariane Oliveira Ferreira
+journals/procedia/PourabdollahianTK12;Borzoo Pourabdollahian
+journals/procedia/PourabdollahianTK12;Marco Taisch
+journals/procedia/PourabdollahianTK12;Endris Kerga
+journals/procedia/KhadtareS11;Manish Khadtare
+journals/procedia/KhadtareS11;Eric Smith
+journals/procedia/FreitasKNOPRS12;Sara de Freitas
+journals/procedia/FreitasKNOPRS12;Kristian Kiili
+journals/procedia/FreitasKNOPRS12;Muriel Ney
+journals/procedia/FreitasKNOPRS12;Michela Ott
+journals/procedia/FreitasKNOPRS12;Maria Popescu
+journals/procedia/FreitasKNOPRS12;Margarida Romero
+journals/procedia/FreitasKNOPRS12;Ioana A. Stanescu
+journals/procedia/VilaMF11;Katia Vila
+journals/procedia/VilaMF11;Jose-Norberto Mazón
+journals/procedia/VilaMF11;Antonio Ferrández
+journals/procedia/Redman12;Quentin Redman
+journals/procedia/Pace12;Matthew Felice Pace
+journals/procedia/IwataHSMKNT11;Mayu Iwata
+journals/procedia/IwataHSMKNT11;Takahiro Hara
+journals/procedia/IwataHSMKNT11;Kentaro Shimatani
+journals/procedia/IwataHSMKNT11;Tomohiro Mashita
+journals/procedia/IwataHSMKNT11;Kiyoshi Kiyokawa
+journals/procedia/IwataHSMKNT11;Shojiro Nishio
+journals/procedia/IwataHSMKNT11;Haruo Takemura
+journals/procedia/AbbateACV12;Stefano Abbate
+journals/procedia/AbbateACV12;Marco Avvenuti
+journals/procedia/AbbateACV12;Daniel Cesarini
+journals/procedia/AbbateACV12;Alessio Vecchio
+journals/procedia/BeesemyerRR12;J. Clark Beesemyer
+journals/procedia/BeesemyerRR12;Adam M. Ross
+journals/procedia/BeesemyerRR12;Donna H. Rhodes
+journals/procedia/HaugePR12;Jannicke Baalsrud Hauge
+journals/procedia/HaugePR12;Borzoo Pourabdollahian
+journals/procedia/HaugePR12;Johann c. k. h. Riedel
+journals/procedia/HavemanB13;Steven P. Haveman
+journals/procedia/HavemanB13;G. Maarten Bonnema
+journals/procedia/QiTS12;Zhiquan Qi
+journals/procedia/QiTS12;Yingjie Tian
+journals/procedia/QiTS12;Yong Shi
+journals/procedia/SaltmarshM13;Elizabeth A. Saltmarsh
+journals/procedia/SaltmarshM13;Dimitri N. Mavris
+journals/procedia/KumeR11;Naoto Kume
+journals/procedia/KumeR11;Mikko J. Rissanen
+journals/procedia/MaurelDRVBMS12;Fabrice Maurel
+journals/procedia/MaurelDRVBMS12;Gaël Dias
+journals/procedia/MaurelDRVBMS12;Jean-Marc Routoure
+journals/procedia/MaurelDRVBMS12;Mathieu Vautier
+journals/procedia/MaurelDRVBMS12;Pierre Beust
+journals/procedia/MaurelDRVBMS12;Michèle Molina
+journals/procedia/MaurelDRVBMS12;Coralie Sann
+journals/procedia/LiuBM12a;Dajie Liu
+journals/procedia/LiuBM12a;Norbert Blenn
+journals/procedia/LiuBM12a;Piet Van Mieghem
+journals/procedia/WhiteS12;Joshua A. White
+journals/procedia/WhiteS12;Dashi I. Singham
+journals/procedia/NakamuraNPSSWW11;Y. Nakamura
+journals/procedia/NakamuraNPSSWW11;Andrea Nobile
+journals/procedia/NakamuraNPSSWW11;Dirk Pleiter
+journals/procedia/NakamuraNPSSWW11;Hubert Simma
+journals/procedia/NakamuraNPSSWW11;Thomas Streuer
+journals/procedia/NakamuraNPSSWW11;Tilo Wettig
+journals/procedia/NakamuraNPSSWW11;Frank Winter
+journals/procedia/Chi12;Xian X. Chi
+journals/procedia/StrijkersCVLBM11;Rudolf J. Strijkers
+journals/procedia/StrijkersCVLBM11;Reginald Cushing
+journals/procedia/StrijkersCVLBM11;Dmitry Vasyunin
+journals/procedia/StrijkersCVLBM11;Cees de Laat
+journals/procedia/StrijkersCVLBM11;Adam Belloum
+journals/procedia/StrijkersCVLBM11;Robert J. Meijer
+journals/procedia/Ruijven12;L. C. van Ruijven
+journals/procedia/DouCMMLMH12;L. Dou
+journals/procedia/DouCMMLMH12;G. Cao
+journals/procedia/DouCMMLMH12;Paul J. Morris
+journals/procedia/DouCMMLMH12;Robert A. Morris
+journals/procedia/DouCMMLMH12;B. LudSscher
+journals/procedia/DouCMMLMH12;James A. Macklin
+journals/procedia/DouCMMLMH12;James Hanken
+journals/procedia/KoptaKKPGPK11;Piotr Kopta
+journals/procedia/KoptaKKPGPK11;Michal Kulczewski
+journals/procedia/KoptaKKPGPK11;Krzysztof Kurowski
+journals/procedia/KoptaKKPGPK11;Tomasz Piontek
+journals/procedia/KoptaKKPGPK11;Pawel Gepner
+journals/procedia/KoptaKKPGPK11;Mariusz Puchalski
+journals/procedia/KoptaKKPGPK11;Jacek Komasa
+journals/procedia/AlfonsiCMP11;Giancarlo Alfonsi
+journals/procedia/AlfonsiCMP11;Stefania A. Ciliberti
+journals/procedia/AlfonsiCMP11;Marco Mancini
+journals/procedia/AlfonsiCMP11;Leonardo Primavera
+journals/procedia/RosenwaldAMRR12;Anne G. Rosenwald
+journals/procedia/RosenwaldAMRR12;Gaurav S. Arora
+journals/procedia/RosenwaldAMRR12;Ramana Madupu
+journals/procedia/RosenwaldAMRR12;Jennifer Roecklein-Canfield
+journals/procedia/RosenwaldAMRR12;Janet S. Russell
+journals/procedia/Gajda-ZagorskaPSPC12;Ewa Gajda-Zagorska
+journals/procedia/Gajda-ZagorskaPSPC12;Maciej Paszynski
+journals/procedia/Gajda-ZagorskaPSPC12;Robert Schaefer
+journals/procedia/Gajda-ZagorskaPSPC12;David Pardo
+journals/procedia/Gajda-ZagorskaPSPC12;Victor M. Calo
+journals/procedia/Surya11;Budhi Arta Surya
+journals/procedia/MohammadM11;Atif Farid Mohammad
+journals/procedia/MohammadM11;Hamid Mcheick
+journals/procedia/MatsumotoNSYS11;Kazuya Matsumoto
+journals/procedia/MatsumotoNSYS11;Naohito Nakasato
+journals/procedia/MatsumotoNSYS11;Tomoya Sakai
+journals/procedia/MatsumotoNSYS11;Hideki Yahagi
+journals/procedia/MatsumotoNSYS11;Stanislav G. Sedukhin
+journals/procedia/WilliamsBG13;Darren T. Williams
+journals/procedia/WilliamsBG13;Richard Beasley
+journals/procedia/WilliamsBG13;Paul M. Gibbons
+journals/procedia/SriramaPF11;Satish Narayana Srirama
+journals/procedia/SriramaPF11;Carlos Paniagua
+journals/procedia/SriramaPF11;Huber Flores
+journals/procedia/TangGM13;"Zilin ""Elizabeth"" Tang"
+journals/procedia/TangGM13;Marc Goetschalckx
+journals/procedia/TangGM13;Leon F. McGinnis
+journals/procedia/Gonzalez-DominguezMTT11;Jorge González-Domínguez
+journals/procedia/Gonzalez-DominguezMTT11;María J. Martín
+journals/procedia/Gonzalez-DominguezMTT11;Guillermo L. Taboada
+journals/procedia/Gonzalez-DominguezMTT11;Juan Touriño
+journals/procedia/HaiLR12;Quang Pham Hai
+journals/procedia/HaiLR12;Sébastien Laborie
+journals/procedia/HaiLR12;Philippe Roose
+journals/procedia/RamiroLGV12;Carla Ramiro
+journals/procedia/RamiroLGV12;Jose-Juan López-Espín
+journals/procedia/RamiroLGV12;Domingo Giménez
+journals/procedia/RamiroLGV12;Antonio M. Vidal
+journals/procedia/SieniekGSMP11;Marcin Sieniek
+journals/procedia/SieniekGSMP11;Piotr Gurgul
+journals/procedia/SieniekGSMP11;Marcin Skotniczny
+journals/procedia/SieniekGSMP11;Krzysztof Magiera
+journals/procedia/SieniekGSMP11;Maciej Paszynski
+journals/procedia/BaeQF12;Seung-Hee Bae
+journals/procedia/BaeQF12;Judy Qiu
+journals/procedia/BaeQF12;Geoffrey Fox
+journals/procedia/VeresA11;Sandor M. Veres
+journals/procedia/VeresA11;J. Patrik Adolfsson
+journals/procedia/GadreCC11;Akalpit Gadre
+journals/procedia/GadreCC11;Elizabeth A. Cudney
+journals/procedia/GadreCC11;Steven M. Corns
+journals/procedia/PoolsamranT11;Patcharawadee Poolsamran
+journals/procedia/PoolsamranT11;Arit Thammano
+journals/procedia/PoreddyC11;Bhanuchander Reddy Poreddy
+journals/procedia/PoreddyC11;Steven M. Corns
+journals/procedia/Ghaboussi12;Jamshid Ghaboussi
+journals/procedia/YamazakiT12;Ichitaro Yamazaki
+journals/procedia/YamazakiT12;Stanimire Tomov
+journals/procedia/KoucheAH11;Ahmad El Kouche
+journals/procedia/KoucheAH11;Louai Al-Awami
+journals/procedia/KoucheAH11;Hossam S. Hassanein
+journals/procedia/SiciarekW11;J. Siciarek
+journals/procedia/SiciarekW11;Bogdan Wiszniewski
+journals/procedia/SrinivasaSMV12;Avinash Srinivasa
+journals/procedia/SrinivasaSMV12;Masha Sosonkina
+journals/procedia/SrinivasaSMV12;Pieter Maris
+journals/procedia/SrinivasaSMV12;James P. Vary
+journals/procedia/DabkowskiERV13;Matthew Dabkowski
+journals/procedia/DabkowskiERV13;Jose Estrada
+journals/procedia/DabkowskiERV13;Ben Reidy
+journals/procedia/DabkowskiERV13;Ricardo Valerdi
+journals/procedia/KlimekN12;Jakub Klímek
+journals/procedia/KlimekN12;Martin Necaský
+journals/procedia/NussbaumHJH12;Paul A. Nussbaum
+journals/procedia/NussbaumHJH12;Alfred Herrera
+journals/procedia/NussbaumHJH12;Rounak Joshi
+journals/procedia/NussbaumHJH12;Rosalyn Hobson Hargraves
+journals/procedia/BoehmLKT13;Barry W. Boehm
+journals/procedia/BoehmLKT13;Jo Ann Lane
+journals/procedia/BoehmLKT13;Supannika Koolmanojwong
+journals/procedia/BoehmLKT13;Richard Turner
+journals/procedia/PadrosRU12;Ariadna Padrós
+journals/procedia/PadrosRU12;Margarida Romero
+journals/procedia/PadrosRU12;Mireia Usart
+journals/procedia/SinghSJLB12;Kumaresh Singh
+journals/procedia/SinghSJLB12;Adrian Sandu
+journals/procedia/SinghSJLB12;M. Jardak
+journals/procedia/SinghSJLB12;Meemong Lee
+journals/procedia/SinghSJLB12;Kevin W. Bowman
+journals/procedia/MoriF11;Hiroyuki Mori
+journals/procedia/MoriF11;Hajime Fujita
+journals/procedia/AllaireBCGKW12;Douglas L. Allaire
+journals/procedia/AllaireBCGKW12;George Biros
+journals/procedia/AllaireBCGKW12;J. Chambers
+journals/procedia/AllaireBCGKW12;Omar Ghattas
+journals/procedia/AllaireBCGKW12;D. Kordonowy
+journals/procedia/AllaireBCGKW12;Karen Willcox
+journals/procedia/BallariniBM12;Paolo Ballarini
+journals/procedia/BallariniBM12;Jalel Ben-Othman
+journals/procedia/BallariniBM12;Lynda Mokdad
+journals/procedia/ImamuraKN11;Yutaka Imamura
+journals/procedia/ImamuraKN11;Rie Kobayashi
+journals/procedia/ImamuraKN11;Hiromi Nakai
+journals/procedia/YangHCW12;Wei Yang
+journals/procedia/YangHCW12;Ai Han
+journals/procedia/YangHCW12;Kuo Cai
+journals/procedia/YangHCW12;Shouyang Wang
+journals/procedia/ValerdiMVH13;Ricardo Valerdi
+journals/procedia/ValerdiMVH13;Jose Monreal Jr.
+journals/procedia/ValerdiMVH13;Daniel Valenzuela 0002
+journals/procedia/ValerdiMVH13;Kenji Hernandez
+journals/procedia/CasadoTY12;Ruben Casado
+journals/procedia/CasadoTY12;Javier Tuya
+journals/procedia/CasadoTY12;Muhammad Younas
+journals/procedia/ThaherT11;Mohammed Thaher
+journals/procedia/ThaherT11;Tadao Takaoka
+journals/procedia/MotokiN11;Shinji Motoki
+journals/procedia/MotokiN11;Atsushi Nakamura
+journals/procedia/LandFPMHHEQY11;Walker H. Land Jr.
+journals/procedia/LandFPMHHEQY11;William S. Ford
+journals/procedia/LandFPMHHEQY11;Jin-Woo Park
+journals/procedia/LandFPMHHEQY11;Ravi Mathur
+journals/procedia/LandFPMHHEQY11;Nathan Hotchkiss
+journals/procedia/LandFPMHHEQY11;John J. Heine
+journals/procedia/LandFPMHHEQY11;Steven Eschrich
+journals/procedia/LandFPMHHEQY11;Xingye Qiao
+journals/procedia/ShakshukiY12;Elhadi Shakshuki
+journals/procedia/ShakshukiY12;Muhammad Younas
+journals/procedia/SimionRB12;Bogdan Simion
+journals/procedia/SimionRB12;Suprio Ray
+journals/procedia/SimionRB12;Angela Demke Brown
+journals/procedia/ZhangH12;Li Zhang
+journals/procedia/ZhangH12;M. Alamgir Hossain
+journals/procedia/AlexandrovMS11;Vassil N. Alexandrov
+journals/procedia/AlexandrovMS11;Christian González Martel
+journals/procedia/AlexandrovMS11;Janko Straßburg
+journals/procedia/LiangWCZ12;Xiaolin Liang
+journals/procedia/LiangWCZ12;Wencen Wu
+journals/procedia/LiangWCZ12;Dongsik Chang
+journals/procedia/LiangWCZ12;Fumin Zhang
+journals/procedia/ElgazzarAMH12;Khalid Elgazzar
+journals/procedia/ElgazzarAMH12;Muhammad AboElFotoh
+journals/procedia/ElgazzarAMH12;Patrick Martin
+journals/procedia/ElgazzarAMH12;Hossam S. Hassanein
+journals/procedia/Colombi12;John M. Colombi
+journals/procedia/ChandrasekaranJGMM11;Shiv Chandrasekaran
+journals/procedia/ChandrasekaranJGMM11;K. R. Jayaraman
+journals/procedia/ChandrasekaranJGMM11;Ming Gu
+journals/procedia/ChandrasekaranJGMM11;Hrushikesh Narhar Mhaskar
+journals/procedia/ChandrasekaranJGMM11;J. Mofftt
+journals/procedia/HaugeR12;Jannicke Baalsrud Hauge
+journals/procedia/HaugeR12;Johann c. k. h. Riedel
+journals/procedia/AcharyaK11;Debopam Acharya
+journals/procedia/AcharyaK11;Vijay Kumar
+journals/procedia/LarsonBT11;Jay Walter Larson
+journals/procedia/LarsonBT11;Peter R. Briggs
+journals/procedia/LarsonBT11;Michael Tobis
+journals/procedia/PidapartiKW12;Ramana M. Pidaparti
+journals/procedia/PidapartiKW12;Kittisak Koombua
+journals/procedia/PidapartiKW12;Kevin R. Ward
+journals/procedia/VatsavaiG12;Ranga Raju Vatsavai
+journals/procedia/VatsavaiG12;Jordan Graesser
+journals/procedia/PinedaLTS12;Ricardo Pineda
+journals/procedia/PinedaLTS12;Amit J. Lopes
+journals/procedia/PinedaLTS12;Bill Tseng
+journals/procedia/PinedaLTS12;Oscar H. Salcedo
+journals/procedia/KhairKM11;Mazen G. Khair
+journals/procedia/KhairKM11;Burak Kantarci
+journals/procedia/KhairKM11;Hussein T. Mouftah
+journals/procedia/DePreeS11;Jeff DePree
+journals/procedia/DePreeS11;Stanley Y. W. Su
+journals/procedia/CalabresePSGVGC11;Barbara Calabrese
+journals/procedia/CalabresePSGVGC11;Franco Pucci
+journals/procedia/CalabresePSGVGC11;Miriam Sturniolo
+journals/procedia/CalabresePSGVGC11;Pietro Hiram Guzzi
+journals/procedia/CalabresePSGVGC11;Pierangelo Veltri
+journals/procedia/CalabresePSGVGC11;Antonio Gambardella
+journals/procedia/CalabresePSGVGC11;Mario Cannataro
+journals/procedia/GintingPR12;Victor Ginting
+journals/procedia/GintingPR12;F. Pereira
+journals/procedia/GintingPR12;A. Rahunanthan
+journals/procedia/DuarteG12;Joana Duarte
+journals/procedia/DuarteG12;Arminda Guerra
+journals/procedia/GuvenO12;Erhan Guven
+journals/procedia/GuvenO12;A. Murat Özbayoglu
+journals/procedia/RudtschBG13;Vinzent Rudtsch
+journals/procedia/RudtschBG13;Frank Bauer
+journals/procedia/RudtschBG13;Jürgen Gausemeier
+journals/procedia/HaynesC12;David Haynes
+journals/procedia/HaynesC12;Steven M. Corns
+journals/procedia/MorfidiMB12;Eleni Morfidi
+journals/procedia/MorfidiMB12;Tassos A. Mikropoulos
+journals/procedia/MorfidiMB12;Joan Bellou
+journals/procedia/Hahn13;Heidi Ann Hahn
+journals/procedia/RyanJCS12;E. Ryan
+journals/procedia/RyanJCS12;D. Jacques
+journals/procedia/RyanJCS12;J. Colombi
+journals/procedia/RyanJCS12;C. Schubert
+journals/procedia/SilvaMVS12;Sérgio Silva
+journals/procedia/SilvaMVS12;Hugo Martins
+journals/procedia/SilvaMVS12;António Valente
+journals/procedia/SilvaMVS12;Salviano F. S. P. Soares
+journals/procedia/IwataTNMMKS11;Kenji Iwata
+journals/procedia/IwataTNMMKS11;Yoshio Tanaka
+journals/procedia/IwataTNMMKS11;Ryosuke Nakamura
+journals/procedia/IwataTNMMKS11;Tomoki Masuda
+journals/procedia/IwataTNMMKS11;Ryosuke Machida
+journals/procedia/IwataTNMMKS11;Isao Kojima
+journals/procedia/IwataTNMMKS11;Satoshi Sekiguchi
+journals/procedia/BoeckRDG11;Harold Boeck
+journals/procedia/BoeckRDG11;Jean Roy
+journals/procedia/BoeckRDG11;Fabien Durif
+journals/procedia/BoeckRDG11;Marc Grégoire
+journals/procedia/FoxB12;Jon Fox
+journals/procedia/FoxB12;Donald E. Brown
+journals/procedia/YangL12;Xin-She Yang
+journals/procedia/YangL12;Tao Luan
+journals/procedia/KoucheH12;Ahmad El Kouche
+journals/procedia/KoucheH12;Hossam S. Hassanein
+journals/procedia/AbdelbarW12;Ashraf M. Abdelbar
+journals/procedia/AbdelbarW12;Donald C. Wunsch II
+journals/procedia/CaiWQ12;Guoyong Cai
+journals/procedia/CaiWQ12;Ruili Wang
+journals/procedia/CaiWQ12;Baohua Qiang
+journals/procedia/KunnathPR12;Abishek Thekkeyil Kunnath
+journals/procedia/KunnathPR12;Preeja Pradeep
+journals/procedia/KunnathPR12;Maneesha Vinodini Ramesh
+journals/procedia/YuLRSLSRF12;H. Yu
+journals/procedia/YuLRSLSRF12;Theodore Lim
+journals/procedia/YuLRSLSRF12;James M. Ritchie
+journals/procedia/YuLRSLSRF12;Raymond C. W. Sung
+journals/procedia/YuLRSLSRF12;Sandy Louchart
+journals/procedia/YuLRSLSRF12;Ioana A. Stanescu
+journals/procedia/YuLRSLSRF12;I. Roceanu
+journals/procedia/YuLRSLSRF12;Sara de Freitas
+journals/procedia/ShumkinZPC12;G. N. Shumkin
+journals/procedia/ShumkinZPC12;F. Zipoli
+journals/procedia/ShumkinZPC12;A. M. Popov
+journals/procedia/ShumkinZPC12;Alessandro Curioni
+journals/procedia/TilmesYH11;Curt Tilmes
+journals/procedia/TilmesYH11;Yelena Yesha
+journals/procedia/TilmesYH11;Milton Halem
+journals/procedia/AbadCCD11;Ismael Abad
+journals/procedia/AbadCCD11;Carlos Cerrada
+journals/procedia/AbadCCD11;José Antonio Cerrada
+journals/procedia/AbadCCD11;Vicente Dies
+journals/procedia/ZhuWLLS12;Xiaoqian Zhu
+journals/procedia/ZhuWLLS12;Fei Wang
+journals/procedia/ZhuWLLS12;Changzhi Liang
+journals/procedia/ZhuWLLS12;Jianping Li
+journals/procedia/ZhuWLLS12;Xiaolei Sun
+journals/procedia/HinaRSV12;Manolo Dulva Hina
+journals/procedia/HinaRSV12;Amar Ramdane-Cherif
+journals/procedia/HinaRSV12;Marietta S. Sicat
+journals/procedia/HinaRSV12;Rodolfo S. Vargas
+journals/procedia/MivuleTJ12;Kato Mivule
+journals/procedia/MivuleTJ12;Claude Turner
+journals/procedia/MivuleTJ12;Soo-Yeon Ji
+journals/procedia/BrunAMC12;Carlos Brun
+journals/procedia/BrunAMC12;Tomàs Artés
+journals/procedia/BrunAMC12;Tomàs Margalef
+journals/procedia/BrunAMC12;Ana Cortés
+journals/procedia/GolyandinaHLSSU12;Nina Golyandina
+journals/procedia/GolyandinaHLSSU12;David M. Holloway
+journals/procedia/GolyandinaHLSSU12;Francisco J. P. Lopes
+journals/procedia/GolyandinaHLSSU12;Alexander V. Spirov
+journals/procedia/GolyandinaHLSSU12;Ekaterina N. Spirova
+journals/procedia/GolyandinaHLSSU12;Konstantin Usevich
+journals/procedia/KesselT12;Ronald T. Kessel
+journals/procedia/KesselT12;Alessandra Tesei
+journals/procedia/JohnsonSGA11;Gleneesha Johnson
+journals/procedia/JohnsonSGA11;Paulo Shakarian
+journals/procedia/JohnsonSGA11;Neha Gupta
+journals/procedia/JohnsonSGA11;Ashok K. Agrawala
+journals/procedia/Schrunk12;David G. Schrunk
+journals/procedia/TaoBKKKVW11;Jie Tao
+journals/procedia/TaoBKKKVW11;Arndt Bode
+journals/procedia/TaoBKKKVW11;Christof Klausecker
+journals/procedia/TaoBKKKVW11;Andreas Knüpfer
+journals/procedia/TaoBKKKVW11;Dieter Kranzlmüller
+journals/procedia/TaoBKKKVW11;Jens Volkert
+journals/procedia/TaoBKKKVW11;Roland Wismüller
+journals/procedia/MaddoxCF13;Ian Maddox
+journals/procedia/MaddoxCF13;Paul Collopy
+journals/procedia/MaddoxCF13;Phillip A. Farrington
+journals/procedia/JuT12;Xuchan Ju
+journals/procedia/JuT12;Yingjie Tian
+journals/procedia/HeHWSZ11;Mingyan He
+journals/procedia/HeHWSZ11;Ziping Huang
+journals/procedia/HeHWSZ11;Cheng Wang
+journals/procedia/HeHWSZ11;Pengtao Sun
+journals/procedia/HeHWSZ11;Shuang Zhai
+journals/procedia/Nisiba11;Masahiro Nisiba
+journals/procedia/BorgneC11;Yann-Aël Le Borgne
+journals/procedia/BorgneC11;A. Campo
+journals/procedia/Li-Thiao-Te12;Sébastien Li-Thiao-Té
+journals/procedia/ZhangLGC12;Wenqiang Zhang
+journals/procedia/ZhangLGC12;Lin Lin
+journals/procedia/ZhangLGC12;Mitsuo Gen
+journals/procedia/ZhangLGC12;Chen-Fu Chien
+journals/procedia/AlasliSS12;Mohammed Alasli
+journals/procedia/AlasliSS12;Tarek R. Sheltami
+journals/procedia/AlasliSS12;Elhadi Shakshuki
+journals/procedia/Kanzaki11;J. Kanzaki
+journals/procedia/LiebNBS12;Michael Lieb
+journals/procedia/LiebNBS12;Tobias Neckel
+journals/procedia/LiebNBS12;Hans-Joachim Bungartz
+journals/procedia/LiebNBS12;S. Sun
+journals/procedia/WienbrandtBBSS11;Lars Wienbrandt
+journals/procedia/WienbrandtBBSS11;Stefan Baumgart
+journals/procedia/WienbrandtBBSS11;Jost Bissel
+journals/procedia/WienbrandtBBSS11;Florian Schatz
+journals/procedia/WienbrandtBBSS11;Manfred Schimmler
+journals/procedia/Alghamdi12;Wael Alghamdi
+journals/procedia/ZhangLAT11;Jianwei Zhang 0008
+journals/procedia/ZhangLAT11;Feixiong Liao
+journals/procedia/ZhangLAT11;Theo A. Arentze
+journals/procedia/ZhangLAT11;Harry J. P. Timmermans
+journals/procedia/RaoS12;Vishwas Rao
+journals/procedia/RaoS12;Adrian Sandu
+journals/procedia/HamadaS11;Mohamed Hamada
+journals/procedia/HamadaS11;Sayota Sato
+journals/procedia/ZhangG12;Hong Zhang
+journals/procedia/ZhangG12;Jose Garcia
+journals/procedia/GaoLWLO12;Yang Gao
+journals/procedia/GaoLWLO12;Ying Liu
+journals/procedia/GaoLWLO12;Cheng Wang
+journals/procedia/GaoLWLO12;Xiaojun Li
+journals/procedia/GaoLWLO12;Guoyu Ou
+journals/procedia/Ituarte-VillarrealE11;Carlos M. Ituarte-Villarreal
+journals/procedia/Ituarte-VillarrealE11;Jose F. Espiritu
+journals/procedia/OssmannTNPVWMD12;Roland Ossmann
+journals/procedia/OssmannTNPVWMD12;David Thaller
+journals/procedia/OssmannTNPVWMD12;Gerhard Nussbaum
+journals/procedia/OssmannTNPVWMD12;Franz Pühretmair
+journals/procedia/OssmannTNPVWMD12;Christoph Veigl
+journals/procedia/OssmannTNPVWMD12;Christoph Weiß
+journals/procedia/OssmannTNPVWMD12;Blanca Morales
+journals/procedia/OssmannTNPVWMD12;Unai Díaz-Orueta
+journals/procedia/AraujoPKB12;Gustavo Medeiros de Araújo
+journals/procedia/AraujoPKB12;A. R. Pinto
+journals/procedia/AraujoPKB12;Jörg Kaiser
+journals/procedia/AraujoPKB12;Leandro Buss Becker
+journals/procedia/SafarSFM11;Maytham Safar
+journals/procedia/SafarSFM11;Ibrahim Sorkhoh
+journals/procedia/SafarSFM11;Hisham Farahat
+journals/procedia/SafarSFM11;Khaled Mahdi
+journals/procedia/GeorgescuK11;Irina Georgescu
+journals/procedia/GeorgescuK11;Jani Kinnunen
+journals/procedia/Khalid13;Adeel Khalid
+journals/procedia/LimTA12;Yu Hua Lim
+journals/procedia/LimTA12;Jefferson Tan
+journals/procedia/LimTA12;David Abramson
+journals/procedia/KasakiKK12;Nagato Kasaki
+journals/procedia/KasakiKK12;Shuichi Kurabayashi
+journals/procedia/KasakiKK12;Yasushi Kiyoki
+journals/procedia/AcharyaAG12;Shikhar P. Acharya
+journals/procedia/AcharyaAG12;Ritesh Arora
+journals/procedia/AcharyaAG12;Ivan G. Guardiola
+journals/procedia/LeporeCFCM13;Debra Facktor Lepore
+journals/procedia/LeporeCFCM13;John M. Colombi
+journals/procedia/LeporeCFCM13;Jennifer Ford
+journals/procedia/LeporeCFCM13;Ryan Colburn
+journals/procedia/LeporeCFCM13;Yosef Morris
+journals/procedia/GregoireH11;Jean-Charles Grégoire
+journals/procedia/GregoireH11;Angèle M. Hamel
+journals/procedia/ArchibaldCZ12;Rick Archibald
+journals/procedia/ArchibaldCZ12;M. Chakoumakos
+journals/procedia/ArchibaldCZ12;T. Zhuang
+journals/procedia/dAlessandroT11;Cristina d'Alessandro
+journals/procedia/dAlessandroT11;Pier Carlo Trucco
+journals/procedia/JaffereMR11;J. Jaffére
+journals/procedia/JaffereMR11;M. Mnejja
+journals/procedia/JaffereMR11;J. E. Roberts
+journals/procedia/YilmazVP12;Muhittin Yilmaz
+journals/procedia/YilmazVP12;Pratyush Valluri
+journals/procedia/YilmazVP12;Sasikanth Pagadrai
+journals/procedia/KosekiKNT11;Jun Koseki
+journals/procedia/KosekiKNT11;Yukiumi Kita
+journals/procedia/KosekiKNT11;Umpei Nagashima
+journals/procedia/KosekiKNT11;Masanori Tachikawa
+journals/procedia/ChoYKBJW12;Sungjin Cho
+journals/procedia/ChoYKBJW12;Ansar-Ul-Haque Yasar
+journals/procedia/ChoYKBJW12;Luk Knapen
+journals/procedia/ChoYKBJW12;Tom Bellemans
+journals/procedia/ChoYKBJW12;Davy Janssens
+journals/procedia/ChoYKBJW12;Geert Wets
+journals/procedia/KozielOL12;Slawomir Koziel
+journals/procedia/KozielOL12;Stanislav Ogurtsov
+journals/procedia/KozielOL12;Leifur Þ. Leifsson
+journals/procedia/CaliCPRZ11;Davide Calì
+journals/procedia/CaliCPRZ11;Antonio Condorelli
+journals/procedia/CaliCPRZ11;Santo Papa
+journals/procedia/CaliCPRZ11;Marius Rata
+journals/procedia/CaliCPRZ11;Luca Zagarella
+journals/procedia/MoraesBM12;Eduardo C. Moraes
+journals/procedia/MoraesBM12;Kellyton Brito
+journals/procedia/MoraesBM12;Silvio Meira
+journals/procedia/AhnS11;T.-H. Ahn
+journals/procedia/AhnS11;A. Sandu
+journals/procedia/JanjusicKP11;Tomislav Janjusic
+journals/procedia/JanjusicKP11;Krishna M. Kavi
+journals/procedia/JanjusicKP11;Brandon Potter
+journals/procedia/DelgoshaeiA12;Parastoo Delgoshaei
+journals/procedia/DelgoshaeiA12;Mark Austin
+journals/procedia/ChatterjeeR12;Anirban Chatterjee
+journals/procedia/ChatterjeeR12;Padma Raghavan
+journals/procedia/CudennecS12;Loïc Cudennec
+journals/procedia/CudennecS12;Renaud Sirdey
+journals/procedia/SunTH11;Xiaolei Sun
+journals/procedia/SunTH11;Ling Tang
+journals/procedia/SunTH11;Wan He
+journals/procedia/RichmanL12;Michael B. Richman
+journals/procedia/RichmanL12;Lance M. Leslie
+journals/procedia/BalaprakashWN12;Prasanna Balaprakash
+journals/procedia/BalaprakashWN12;Stefan M. Wild
+journals/procedia/BalaprakashWN12;Boyana Norris
+journals/procedia/MillsHKH11;Richard Tran Mills
+journals/procedia/MillsHKH11;Forrest M. Hoffman
+journals/procedia/MillsHKH11;Jitendra Kumar
+journals/procedia/MillsHKH11;William W. Hargrove
+journals/procedia/FloresSPN12;Javier A. Flores
+journals/procedia/FloresSPN12;Oscar H. Salcedo
+journals/procedia/FloresSPN12;Ricardo Pineda
+journals/procedia/FloresSPN12;Patricia Nava
+journals/procedia/MalikM11;Haroon Malik
+journals/procedia/MalikM11;Ahsan Samad Malik
+journals/procedia/CollardCS12;Martine Collard
+journals/procedia/CollardCS12;Philippe Collard
+journals/procedia/CollardCS12;Erick Stattner
+journals/procedia/MahfoudhML12;Saoucene Mahfoudh
+journals/procedia/MahfoudhML12;Pascale Minet
+journals/procedia/MahfoudhML12;Anis Laouiti
+journals/procedia/Jacques12;David R. Jacques
+journals/procedia/Jacques12;3638
+journals/procedia/LeischEH11;Friedrich Leisch
+journals/procedia/LeischEH11;Manuel J. A. Eugster
+journals/procedia/LeischEH11;Torsten Hothorn
+journals/procedia/LiuSLS12;Hong Liu
+journals/procedia/LiuSLS12;Phillip Schumm
+journals/procedia/LiuSLS12;Anton Lyubinin
+journals/procedia/LiuSLS12;Caterina M. Scoglio
+journals/procedia/CastaneNFC12;Gabriel G. Castañé
+journals/procedia/CastaneNFC12;Alberto Nuñez
+journals/procedia/CastaneNFC12;Rosa Filgueira
+journals/procedia/CastaneNFC12;Jesús Carretero
+journals/procedia/BarrenecheaA11;Eduardo S. Barrenechea
+journals/procedia/BarrenecheaA11;Paulo S. C. Alencar
+journals/procedia/AdnanDM12;Tareq Adnan
+journals/procedia/AdnanDM12;Suprakash Datta
+journals/procedia/AdnanDM12;Stuart MacLean
+journals/procedia/MaadaniMS11;Mohsen Maadani
+journals/procedia/MaadaniMS11;Seyed Ahmad Motamedi
+journals/procedia/MaadaniMS11;H. Safdarkhani
+journals/procedia/KosmadoudiLRSLSS12;Zoe Kosmadoudi
+journals/procedia/KosmadoudiLRSLSS12;Theodore Lim
+journals/procedia/KosmadoudiLRSLSS12;James M. Ritchie
+journals/procedia/KosmadoudiLRSLSS12;Raymond C. W. Sung
+journals/procedia/KosmadoudiLRSLSS12;Ying Liu
+journals/procedia/KosmadoudiLRSLSS12;Ioana A. Stanescu
+journals/procedia/KosmadoudiLRSLSS12;Antoniu Stefan
+journals/procedia/TalamudupulaSGS12;Sai Kiran Talamudupula
+journals/procedia/TalamudupulaSGS12;Masha Sosonkina
+journals/procedia/TalamudupulaSGS12;Alexander Gaenko
+journals/procedia/TalamudupulaSGS12;Michael W. Schmidt
+journals/procedia/ONeilP13;Daniel A. O'Neil
+journals/procedia/ONeilP13;Mikel D. Petty
+journals/procedia/NistalaKN13;Padmalata Nistala
+journals/procedia/NistalaKN13;Supriya Kummamuru
+journals/procedia/NistalaKN13;M. G. P. L. Narayana
+journals/procedia/VlajicAN12;N. Vlajic
+journals/procedia/VlajicAN12;M. Andrade
+journals/procedia/VlajicAN12;U. T. Nguyen
+journals/procedia/LabatutO12;Vincent Labatut
+journals/procedia/LabatutO12;Atay Ozgovde
+journals/procedia/Li11;Jiang Li
+journals/procedia/RyanH11;Noah Ryan
+journals/procedia/RyanH11;David L. Hibler
+journals/procedia/LeeCBJWCJ12;Won Do Lee
+journals/procedia/LeeCBJWCJ12;Sungjin Cho
+journals/procedia/LeeCBJWCJ12;Tom Bellemans
+journals/procedia/LeeCBJWCJ12;Davy Janssens
+journals/procedia/LeeCBJWCJ12;Geert Wets
+journals/procedia/LeeCBJWCJ12;Keechoo Choi
+journals/procedia/LeeCBJWCJ12;Chang-Hyeon Joh
+journals/procedia/YahyaouiWMAS11;Hamdi Yahyaoui
+journals/procedia/YahyaouiWMAS11;L. Wang
+journals/procedia/YahyaouiWMAS11;Azzam Mourad
+journals/procedia/YahyaouiWMAS11;Mohammed Almulla
+journals/procedia/YahyaouiWMAS11;Quan Z. Sheng
+journals/procedia/KangDM13;Joosung Kang
+journals/procedia/KangDM13;Scott J. Duncan
+journals/procedia/KangDM13;Dimitri N. Mavris
+journals/procedia/MagagnaHS12;Fabio Magagna
+journals/procedia/MagagnaHS12;Basil Hess
+journals/procedia/MagagnaHS12;Juliana Sutanto
+journals/procedia/KhalidS13;Adeel Khalid
+journals/procedia/KhalidS13;Christina R. Scherrer
+journals/procedia/NarayananNHNG11;Sri Hari Krishna Narayanan
+journals/procedia/NarayananNHNG11;Boyana Norris
+journals/procedia/NarayananNHNG11;Paul D. Hovland
+journals/procedia/NarayananNHNG11;Duc C. Nguyen
+journals/procedia/NarayananNHNG11;Assefaw Hadish Gebremedhin
+journals/procedia/GeyerGN11;Robin Geyer
+journals/procedia/GeyerGN11;Andy Georgi
+journals/procedia/GeyerGN11;Wolfgang E. Nagel
+journals/procedia/YilmazD12;Muhittin Yilmaz
+journals/procedia/YilmazD12;Naren Reddy Dhansri
+journals/procedia/QwasmiL12a;Nidal Qwasmi
+journals/procedia/QwasmiL12a;Ramiro Liscano
+journals/procedia/AleksyRMD11;Markus Aleksy
+journals/procedia/AleksyRMD11;Mikko J. Rissanen
+journals/procedia/AleksyRMD11;Sylvia Maczey
+journals/procedia/AleksyRMD11;Marcel Dix
+journals/procedia/ShokripourOIS11a;Amin Shokripour
+journals/procedia/ShokripourOIS11a;Mohamed Othman
+journals/procedia/ShokripourOIS11a;Hamidah Ibrahim
+journals/procedia/ShokripourOIS11a;Shamala Subramaniam
+journals/procedia/Yano11;Kojiro Yano
+journals/procedia/SinnottS11;Richard O. Sinnott
+journals/procedia/SinnottS11;Anthony Stell
+journals/procedia/PaszynskaPSP12;Anna Paszynska
+journals/procedia/PaszynskaPSP12;Maciej Paszynski
+journals/procedia/PaszynskaPSP12;Arkadiusz Szymczak
+journals/procedia/PaszynskaPSP12;David Pardo
+journals/procedia/RoyS11;Ram Babu Roy
+journals/procedia/RoyS11;Uttam Kumar Sarkar
+journals/procedia/SpyropoulosB13;Dimitrios Spyropoulos
+journals/procedia/SpyropoulosB13;John S. Baras
+journals/procedia/FernandesCDC12;Nádia Fernandes
+journals/procedia/FernandesCDC12;Daniel Costa
+journals/procedia/FernandesCDC12;Carlos Duarte
+journals/procedia/FernandesCDC12;Luís Carriço
+journals/procedia/Giachetti12;Ronald E. Giachetti
+journals/procedia/BeitollahiD12;Hakem Beitollahi
+journals/procedia/BeitollahiD12;Geert Deconinck
+journals/procedia/ButlerP13;Roy Butler
+journals/procedia/ButlerP13;Michael Pennotti
+journals/procedia/IqbalM11;Anindya Iqbal
+journals/procedia/IqbalM11;Manzur M. Murshed
+journals/procedia/StrassburgMA12;Janko Straßburg
+journals/procedia/StrassburgMA12;Christian González Martel
+journals/procedia/StrassburgMA12;Vassil N. Alexandrov
+journals/procedia/KichkayloHLR12;Tatiana Kichkaylo
+journals/procedia/KichkayloHLR12;Lucy Hoag
+journals/procedia/KichkayloHLR12;Elizabeth Lennon
+journals/procedia/KichkayloHLR12;Gordon Roesler
+journals/procedia/Ergin12;Nil Ergin
+journals/procedia/ErathLGT12;Christoph Erath
+journals/procedia/ErathLGT12;Peter H. Lauritzen
+journals/procedia/ErathLGT12;Jose H. Garcia
+journals/procedia/ErathLGT12;Henry M. Tufo
+journals/procedia/HerzigRFJ13;Sebastian J. I. Herzig
+journals/procedia/HerzigRFJ13;Nicolas F. Rouquette
+journals/procedia/HerzigRFJ13;Stephen Forrest
+journals/procedia/HerzigRFJ13;J. Steven Jenkins
+journals/procedia/Sato-Ilic12;Mika Sato-Ilic
+journals/procedia/Sato-Ilic12;3836
+journals/procedia/TariqMA12;Usman Tariq
+journals/procedia/TariqMA12;Yasir Malik
+journals/procedia/TariqMA12;Bessam Abdulrazak
+journals/procedia/FerreiraF12;Susan Ferreira
+journals/procedia/FerreiraF12;Misagh Faezipour
+journals/procedia/Torres12;Sergio Torres
+journals/procedia/BeitollahiD12a;Hakem Beitollahi
+journals/procedia/BeitollahiD12a;Geert Deconinck
+journals/procedia/KauppinenE11;Tomi Kauppinen
+journals/procedia/KauppinenE11;Giovana Mira de Espindola
+journals/procedia/TeradaY11;Yoshikazu Terada
+journals/procedia/TeradaY11;Hiroshi Yadohisa
+journals/procedia/FukudaEN11;Ryoichi Fukuda
+journals/procedia/FukudaEN11;Masahiro Ehara
+journals/procedia/FukudaEN11;Hiroshi Nakatsuji
+journals/procedia/OrdonezMCA12;Bernardo Ordoñez
+journals/procedia/OrdonezMCA12;Ubirajara F. Moreno
+journals/procedia/OrdonezMCA12;Jés Cerqueira
+journals/procedia/OrdonezMCA12;Luis Almeida
+journals/procedia/MasudACA12;Sarah Masud
+journals/procedia/MasudACA12;Monjura Afrin
+journals/procedia/MasudACA12;Farhana Murtaza Choudhury
+journals/procedia/MasudACA12;Syed Ishtiaque Ahmed
+journals/procedia/DantuS11;Bharath Dantu
+journals/procedia/DantuS11;Eric Smith
+journals/procedia/LanCW12;Kun-Chan Lan
+journals/procedia/LanCW12;Chien-Ming Chou
+journals/procedia/LanCW12;Han-Yi Wang
+journals/procedia/MarchGLGKL11;Verdi March
+journals/procedia/MarchGLGKL11;Yan Gu
+journals/procedia/MarchGLGKL11;Erwin Leonardi
+journals/procedia/MarchGLGKL11;George Goh
+journals/procedia/MarchGLGKL11;Markus Kirchberg
+journals/procedia/MarchGLGKL11;Bu-Sung Lee
+journals/procedia/KushidaFT11;Noriyuki Kushida
+journals/procedia/KushidaFT11;Ken-ichi Fujibayashi
+journals/procedia/KushidaFT11;Hiroshi Takemiya
+journals/procedia/DavendralingamD13;Navindran Davendralingam
+journals/procedia/DavendralingamD13;Daniel DeLaurentis
+journals/procedia/DincB11;Semih Dinç
+journals/procedia/DincB11;Abdullah Bal
+journals/procedia/TeekengT11;Wannaporn Teekeng
+journals/procedia/TeekengT11;Arit Thammano
+journals/procedia/TohM11;Kidd S. C. Toh
+journals/procedia/TohM11;S. M. F. D. Syed Mustapha
+journals/procedia/LopesLP11;Amit J. Lopes
+journals/procedia/LopesLP11;R. Lezama
+journals/procedia/LopesLP11;Ricardo Pineda
+journals/procedia/YounasSS11;Muhammad Younas
+journals/procedia/YounasSS11;Elhadi Shakshuki
+journals/procedia/YounasSS11;Quan Z. Sheng
+journals/procedia/BittarAF12;Thiago Jabur Bittar
+journals/procedia/BittarAF12;Alynne Kathelyn Almeida
+journals/procedia/BittarAF12;Renata Pontin de Mattos Fortes
+journals/procedia/EslamiZSS11;Mohammad Zarifi Eslami
+journals/procedia/EslamiZSS11;Alireza Zarghami
+journals/procedia/EslamiZSS11;Brahmananda Sapkota
+journals/procedia/EslamiZSS11;Marten van Sinderen
+journals/procedia/ParadisGOM12;Rosemary D. Paradis
+journals/procedia/ParadisGOM12;Jinhong K. Guo
+journals/procedia/ParadisGOM12;John Olden-Stahl
+journals/procedia/ParadisGOM12;Jack Moulton
+journals/procedia/HulusicP12;Vedad Hulusic
+journals/procedia/HulusicP12;Nirvana Pistoljevic
+journals/procedia/MenonJG12;Vivek Menon
+journals/procedia/MenonJG12;Bharat Jayaraman
+journals/procedia/MenonJG12;Venu Govindaraju
+journals/procedia/Herrera12;Juan Felix Avila Herrera
+journals/procedia/AbueleninA12;Sherif M. Abuelenin
+journals/procedia/AbueleninA12;Adel Y. Abul-Magd
+journals/procedia/MullerREHS11;Wolfgang Müller 0001
+journals/procedia/MullerREHS11;Isabel Rojas
+journals/procedia/MullerREHS11;Andreas Eberhart
+journals/procedia/MullerREHS11;Peter Haase
+journals/procedia/MullerREHS11;Michael Schmidt
+journals/procedia/KorovaikoT12;Nikolay Korovaiko
+journals/procedia/KorovaikoT12;Alex Thomo
+journals/procedia/Sato-Ilic11;Mika Sato-Ilic
+journals/procedia/BorattoARB12;Murilo Boratto
+journals/procedia/BorattoARB12;Pedro Alonso
+journals/procedia/BorattoARB12;Carla Ramiro
+journals/procedia/BorattoARB12;Marcos Barreto
+journals/procedia/CarrilloT12a;Victor M. Carrillo
+journals/procedia/CarrilloT12a;Heidi A. Taboada
+journals/procedia/SaifOSH12;Anwar Saif
+journals/procedia/SaifOSH12;Mohamed Othman
+journals/procedia/SaifOSH12;Shamala K. Subramaniam
+journals/procedia/SaifOSH12;Nor Asilah Wati Abdul Hamid
+journals/procedia/PopoviciDLD11;Dana Popovici
+journals/procedia/PopoviciDLD11;Mikael Desertot
+journals/procedia/PopoviciDLD11;Sylvain Lecomte
+journals/procedia/PopoviciDLD11;Thierry Delot
+journals/procedia/SerraoRRB12;M. Serrão
+journals/procedia/SerraoRRB12;João M. F. Rodrigues
+journals/procedia/SerraoRRB12;J. I. Rodrigues
+journals/procedia/SerraoRRB12;J. M. Hans du Buf
+journals/procedia/Bieda12;Mark Bieda
+journals/procedia/BowmanDM12;Robert N. Bowman
+journals/procedia/BowmanDM12;Arwen I. Davé
+journals/procedia/BowmanDM12;Christopher P. McKay
+journals/procedia/TalebiFardL11;Peyman TalebiFard
+journals/procedia/TalebiFardL11;Victor C. M. Leung
+journals/procedia/MartinsQCRT12;Ana Isabel Martins
+journals/procedia/MartinsQCRT12;Alexandra Queirós
+journals/procedia/MartinsQCRT12;Margarida Cerqueira
+journals/procedia/MartinsQCRT12;Nelson Pacheco da Rocha
+journals/procedia/MartinsQCRT12;António J. S. Teixeira
+journals/procedia/ClarkJ12;Jason B. Clark
+journals/procedia/ClarkJ12;David R. Jacques
+journals/procedia/HuDS11;Xiping Hu
+journals/procedia/HuDS11;Weichang Du
+journals/procedia/HuDS11;Bruce Spencer
+journals/procedia/PiresNC12;Gabriel Pires
+journals/procedia/PiresNC12;Urbano Nunes
+journals/procedia/PiresNC12;Miguel Castelo-Branco
+journals/procedia/MelotKACK12;Nicolas Melot
+journals/procedia/MelotKACK12;Christoph W. Kessler
+journals/procedia/MelotKACK12;Kenan Avdic
+journals/procedia/MelotKACK12;Patrick Cichowski
+journals/procedia/MelotKACK12;Jörg Keller 0001
+journals/procedia/Hinsen11;Konrad Hinsen
+journals/procedia/PflanzL12;Mark Pflanz
+journals/procedia/PflanzL12;Alexander Levis
+journals/procedia/KimR11;Sujin Kim
+journals/procedia/KimR11;Jong-hyun Ryu
+journals/procedia/FujitaM12;Hajime Fujita
+journals/procedia/FujitaM12;Hiroyuki Mori
+journals/procedia/PalRZS12;Anindya Jyoti Pal
+journals/procedia/PalRZS12;Biman Ray
+journals/procedia/PalRZS12;M. Nordin Zakaria
+journals/procedia/PalRZS12;Samar Sen Sarma
+journals/procedia/RoseHAMAD11;Ahmad Nazari Mohd Rose
+journals/procedia/RoseHAMAD11;Hasni Hassan
+journals/procedia/RoseHAMAD11;Mohd Isa Awang
+journals/procedia/RoseHAMAD11;Nor Aida Mahiddin
+journals/procedia/RoseHAMAD11;Hidayatulaminah Mohd Amin
+journals/procedia/RoseHAMAD11;Mustafa Mat Deris
+journals/procedia/CorralJR12;Luis Corral
+journals/procedia/CorralJR12;Andrea Janes
+journals/procedia/CorralJR12;Tadas Remencius
+journals/procedia/Betts11;John Betts
+journals/procedia/Nair12;Premchand S. Nair
+journals/procedia/ShimokawabeAIKM11;Takashi Shimokawabe
+journals/procedia/ShimokawabeAIKM11;Takayuki Aoki
+journals/procedia/ShimokawabeAIKM11;Junichi Ishida
+journals/procedia/ShimokawabeAIKM11;Kohei Kawano
+journals/procedia/ShimokawabeAIKM11;Chiashi Muroi
+journals/procedia/ThaherT12;Mohammed Thaher
+journals/procedia/ThaherT12;Tadao Takaoka
+journals/procedia/MirabiIUM12;Meghdad Mirabi
+journals/procedia/MirabiIUM12;Hamidah Ibrahim
+journals/procedia/MirabiIUM12;Nur Izura Udzir
+journals/procedia/MirabiIUM12;Ali Mamat
+journals/procedia/CiznickiKKKG12;Milosz Ciznicki
+journals/procedia/CiznickiKKKG12;Michal Kierzynka
+journals/procedia/CiznickiKKKG12;Piotr Kopta
+journals/procedia/CiznickiKKKG12;Krzysztof Kurowski
+journals/procedia/CiznickiKKKG12;Pawel Gepner
+journals/procedia/MirzahosseinianP13;H. Mirzahosseinian
+journals/procedia/MirzahosseinianP13;R. Piplani
+journals/procedia/TeseiBK12;Alessandra Tesei
+journals/procedia/TeseiBK12;Alessandra Barbieri
+journals/procedia/TeseiBK12;Ronald T. Kessel
+journals/procedia/LopezE11;Nicolas Lopez
+journals/procedia/LopezE11;Jose F. Espiritu
+journals/procedia/MegahedMY11;Mohamed Helmy Megahed
+journals/procedia/MegahedMY11;Dimitrios Makrakis
+journals/procedia/MegahedMY11;Bidi Ying
+journals/procedia/KhanPLS12;Sarmad Ullah Khan
+journals/procedia/KhanPLS12;Claudio Pastrone
+journals/procedia/KhanPLS12;Luciano Lavagno
+journals/procedia/KhanPLS12;Maurizio A. Spirito
+journals/procedia/MikkonenTKR11;Tommi Mikkonen
+journals/procedia/MikkonenTKR11;Mikko Terho
+journals/procedia/MikkonenTKR11;Mikko Kuusipalo
+journals/procedia/MikkonenTKR11;Pekka Reijula
+journals/procedia/ChallooOYOC12;Rajab Challoo
+journals/procedia/ChallooOYOC12;A. Oladeinde
+journals/procedia/ChallooOYOC12;Nuri Yilmazer
+journals/procedia/ChallooOYOC12;Selahattin Ozcelik
+journals/procedia/ChallooOYOC12;L. Challoo
+journals/procedia/BrammerCMW11;Grant R. Brammer
+journals/procedia/BrammerCMW11;Ralph W. Crosby
+journals/procedia/BrammerCMW11;Suzanne Matthews
+journals/procedia/BrammerCMW11;Tiffani L. Williams
+journals/procedia/FurumuraNS11;Takashi Furumura
+journals/procedia/FurumuraNS11;Kengo Nakajima
+journals/procedia/FurumuraNS11;Masaki Satoh
+journals/procedia/KroculickH12;Joseph Kroculick
+journals/procedia/KroculickH12;Cynthia Hood
+journals/procedia/Sato12;Makihiko Sato
+journals/procedia/CencerradoCM11;Andrés Cencerrado
+journals/procedia/CencerradoCM11;Ana Cortés
+journals/procedia/CencerradoCM11;Tomàs Margalef
+journals/procedia/GuenardC12;Adrien Guenard
+journals/procedia/GuenardC12;Laurent Ciarletta
+journals/procedia/ChienSG11;Andrew A. Chien
+journals/procedia/ChienSG11;Allan Snavely
+journals/procedia/ChienSG11;Mark Gahagan
+journals/procedia/SmarttF13;Clement Smartt
+journals/procedia/SmarttF13;Susan Ferreira
+journals/procedia/Abu-ZahraSRP12;Ala Abu-Zahra
+journals/procedia/Abu-ZahraSRP12;Zafar Shahid
+journals/procedia/Abu-ZahraSRP12;Amjad Rattrout
+journals/procedia/Abu-ZahraSRP12;William Puech
+journals/procedia/El-AminS11;Mohamed Fathy El-Amin
+journals/procedia/El-AminS11;Shuyu Sun
+journals/procedia/LiuMY11;Jiangguo Liu
+journals/procedia/LiuMY11;Lin Mu
+journals/procedia/LiuMY11;Xiu Ye
+journals/procedia/Sato11;Makihiko Sato
+journals/procedia/PazienzaK11;Giovanni Egidio Pazienza
+journals/procedia/PazienzaK11;Robert Kozma
+journals/procedia/ZhangE12;Liren Zhang
+journals/procedia/ZhangE12;Hesham El-Sayed
+journals/procedia/ShahMO11;Syed Nasir Mehmood Shah
+journals/procedia/ShahMO11;Ahmad Kamil Bin Mahmood
+journals/procedia/ShahMO11;Alan Oxley
+journals/procedia/KraayenbrinkKTHMMB12;Nick Kraayenbrink
+journals/procedia/KraayenbrinkKTHMMB12;Jassin Kessing
+journals/procedia/KraayenbrinkKTHMMB12;Tim Tutenel
+journals/procedia/KraayenbrinkKTHMMB12;Gerwin de Haan
+journals/procedia/KraayenbrinkKTHMMB12;Fernando Marson
+journals/procedia/KraayenbrinkKTHMMB12;Soraia Raupp Musse
+journals/procedia/KraayenbrinkKTHMMB12;Rafael Bidarra
+journals/procedia/TakagiY11;Ikufumi Takagi
+journals/procedia/TakagiY11;Hiroshi Yadohisa
+journals/procedia/Al-KhalifaA12;Atheer S. Al-Khalifa
+journals/procedia/Al-KhalifaA12;Hend S. Al-Khalifa
+journals/procedia/DoCCSRPT12;Quoc Do
+journals/procedia/DoCCSRPT12;Stephen C. Cook
+journals/procedia/DoCCSRPT12;Peter Campbell
+journals/procedia/DoCCSRPT12;William Scott
+journals/procedia/DoCCSRPT12;Kevin Robinson
+journals/procedia/DoCCSRPT12;Wayne Power
+journals/procedia/DoCCSRPT12;Despina Tramoundanis
+journals/procedia/HuynhMG12;Thang Viet Huynh
+journals/procedia/HuynhMG12;Manfred Mücke
+journals/procedia/HuynhMG12;Wilfried N. Gansterer
+journals/procedia/StoddenRTPS12;Robert A. Stodden
+journals/procedia/StoddenRTPS12;Kelly D. Roberts
+journals/procedia/StoddenRTPS12;Kiriko Takahashi
+journals/procedia/StoddenRTPS12;Hye-Jin Park
+journals/procedia/StoddenRTPS12;Norma Jean Stodden
+journals/procedia/Schmidt12;A. Schmidt
+journals/procedia/RoyAB11;Patrice Roy
+journals/procedia/RoyAB11;Bessam Abdulrazak
+journals/procedia/RoyAB11;Yacine Belala
+journals/procedia/KafiCDBKB12;Mohamed Amine Kafi
+journals/procedia/KafiCDBKB12;Yacine Challal
+journals/procedia/KafiCDBKB12;Djamel Djenouri
+journals/procedia/KafiCDBKB12;Abdelmadjid Bouabdallah
+journals/procedia/KafiCDBKB12;Lyes Khelladi
+journals/procedia/KafiCDBKB12;Nadjib Badache
+journals/procedia/GonaS11;Ramakanth Gona
+journals/procedia/GonaS11;Eric Smith
+journals/procedia/SultornsaneeZK11;Sivarit Sultornsanee
+journals/procedia/SultornsaneeZK11;Ibrahim Zeid
+journals/procedia/SultornsaneeZK11;Sagar Kamarthi
+journals/procedia/LinGLO12;Lin Lin
+journals/procedia/LinGLO12;Mitsuo Gen
+journals/procedia/LinGLO12;Yan Liang
+journals/procedia/LinGLO12;Katsuhisa Ohno
+journals/procedia/KazimogluKBM12;Cagin Kazimoglu
+journals/procedia/KazimogluKBM12;Mary Kiernan
+journals/procedia/KazimogluKBM12;Liz Bacon
+journals/procedia/KazimogluKBM12;Lachlan M. MacKinnon
+journals/procedia/WuN11;H. Wu
+journals/procedia/WuN11;F. Noé
+journals/procedia/Heusner13;James Heusner
+journals/procedia/BozejkoUW11;Wojciech Bozejko
+journals/procedia/BozejkoUW11;Mariusz Uchronski
+journals/procedia/BozejkoUW11;Mieczyslaw Wodecki
