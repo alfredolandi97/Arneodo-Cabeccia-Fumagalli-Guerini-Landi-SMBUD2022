@@ -173,7 +173,7 @@ class SparkInitializer:
             df_data_articles = []
             for row in articlesReader:
                 row[2] = datetime.datetime.strptime(row[2], '%Y-%m-%d')
-                row[3] = self.__castInteger(row[2])
+                row[3] = self.__castInteger(row[3])
                 row[8] = self.__castInteger(row[8])
                 row[9] = self.__castInteger(row[9])
                 df_data_articles.append(row)

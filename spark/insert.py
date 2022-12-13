@@ -45,8 +45,8 @@ composed_by.filter((composed_by.articleKey=="10.3390/data7070093") & (composed_b
 
 #CREATION OF A SUB-DATAFRAME:
 print("Creation of sub-dataframe of all article published on ACM Crossroads")
-wikipedia_articles = articles.filter(articles.journal == "ACM Crossroads")
-wikipedia_articles.show()
+ACM_articles = articles.filter(articles.journal == "ACM Crossroads")
+ACM_articles.show()
 
 #DELETE:
 print("Delete all the article written before 1975")

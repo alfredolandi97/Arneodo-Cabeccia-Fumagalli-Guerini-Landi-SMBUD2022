@@ -49,7 +49,7 @@ inproceedings.withColumnRenamed("year", "inproceedingYear")\
     .join(proceedings, inproceedings.proceedingKey == proceedings.key, "inner")\
     .drop(proceedings.key)\
     .groupBy("proceedingKey")\
-    .agg(count("proceedingKey").alias("number_inproceedings"), max(col('inproceedingYear').cast(IntegerType())).alias("max_year"))\
+    .agg(count("proceedingKey").alias("number_inproceedings"), max(col('inproceedingYear')).alias("max_year"))\
     .show(truncate=False)
 
 #QUERY NO. 5:
